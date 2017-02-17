@@ -1,0 +1,77 @@
+<templateSet group="React/JSX">
+  <template name="rcc" value="import React from 'react';&#10;&#10;export default class $COMPONENT$ extends React.Component {&#10;  static propTypes() {&#10;    return {&#10;      $propType$&#10;    };&#10;  }&#10;  &#10;  render() {&#10;    return (&#10;      $END$&#10;    );&#10;  }&#10;}" description="react create component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="propType" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="imm" value="{(() =&gt; {&#10;$template$&#10;})()}" description="immediate function for jsx" toReformat="false" toShortenFQNames="true">
+    <variable name="template" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="con" value="constructor(props) {&#10;  super(props);&#10;  this.state = {&#10;    $END$&#10;  };&#10;}" description="react constructor" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}" description="componentDidMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="cdu" value="componentDidUpdate(prevProps, prevState, prevContext) {&#10;  $END$&#10;}" description="componentDidUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}" description="componentWillMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="cwr" value="componentWillReceiveProps(nextProps, nextContext) {&#10;  $END$&#10;}" description="componentWillReceiveProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="cwu" value="componentWillUpdate(nextProps, nextState, nextContext) {&#10;  $END$&#10;}" description="componentWillUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="cwum" value="componentWillUnmount() {&#10;  $END$&#10;}" description="componentWillUnmount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="st" value="this.state.$END$" description="state" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="this.props.$END$" description="props" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="ren" value="render() {&#10;  return (&#10;    $END$&#10;  );&#10;}" description="render" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="prt" value="$START$: React.PropTypes.$END$," description="propTypes" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

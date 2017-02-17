@@ -1,8 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="imm" value="{(() =&gt; {&#10;$template$&#10;})()}" description="immediate function for jsx" toReformat="false" toShortenFQNames="true">
-    <variable name="template" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JSX_HTML" value="true" />
-    </context>
-  </template>
-</templateSet>
