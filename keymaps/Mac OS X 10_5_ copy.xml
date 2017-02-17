@@ -1,5 +1,18 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="EditorIndentSelection">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift t" />
+  </action>
+  <action id="ChooseRunConfiguration" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="EditorRight">
@@ -8,6 +21,7 @@
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="Run" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
