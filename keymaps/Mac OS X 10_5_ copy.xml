@@ -8,7 +8,7 @@
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
-  <action id="IncrementalSearch">
+  <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="SwitchApply">
