@@ -679,11 +679,11 @@
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/dropdown_button.jsx" timestamp="1487337784185">
-        <mark key="[" line="88" column="51" />
-        <mark key="]" line="88" column="103" />
-        <mark key="^" line="88" column="103" />
-        <mark key="." line="88" column="103" />
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/dropdown_button.jsx" timestamp="1487460429495">
+        <mark key="'" line="15" column="94" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/_vertical_tab.html.haml" timestamp="1485202748718">
         <mark key="[" line="0" column="0" />
@@ -774,7 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="73" column="25" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="34" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" />
       <jump line="31" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
@@ -874,10 +873,11 @@
       <jump line="63" column="39" filename="$USER_HOME$/Work/kibela/client/components/shared/dropdown_button.jsx" />
       <jump line="47" column="43" filename="$USER_HOME$/Work/kibela/client/components/shared/dropdown_button.jsx" />
       <jump line="122" column="15" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_dropdown_button.scss" />
+      <jump line="90" column="94" filename="$USER_HOME$/Work/kibela/client/components/shared/dropdown_button.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQtczsKICAgIG92ZXJmbG93OiBhdXRvOwogICAgYm9yZGVyLXJhZGl1czogJGRlZmF1bHRSYWRpdXM7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJUZXh0OiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAo=</text>
       </register>
       <register name="-" type="4">
         <text>rgba($kibelaBrand, 0.85)</text>
@@ -889,31 +889,31 @@
         <text encoding="base64">ICAgICAgc3ltYm9sRWxlbWVudDogPGltZyBzcmNTZXQ9Ii9pbWFnZXMvd2ViaG9vay9zbGFja19pY29uQDF4LnBuZyAxeCwgL2ltYWdlcy93ZWJob29rL3NsYWNrX2ljb25AMngucG5nIDJ4IgogICAgICAgICAgc3JjPSIvaW1hZ2VzL3dlYmhvb2svc2xhY2tfaWNvbkAxeC5wbmciIC8+LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQtczsKICAgIG92ZXJmbG93OiBhdXRvOwogICAgYm9yZGVyLXJhZGl1czogJGRlZmF1bHRSYWRpdXM7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJUZXh0OiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkcm9wZG93bkJ1dHRvbi1tZW51LWl0ZW1IZWFkZXIiPgoKICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQtczsKICAgIG92ZXJmbG93OiBhdXRvOwogICAgYm9yZGVyLXJhZGl1czogJGRlZmF1bHRSYWRpdXM7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsoKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbS5zdWJUZXh0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImRyb3Bkb3duQnV0dG9uLW1lbnUtaXRlbS1zdWJUZXh0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7aXRlbS5zdWJUZXh0fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9KSgpfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkcm9wZG93bkJ1dHRvbi1tZW51LWl0ZW1IZWFkZXIiPgoKICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRyb3Bkb3duQnV0dG9uQ2xhc3MgPSBjbGFzc05hbWVzKAogICAgICAgICdkcm9wZG93bkJ1dHRvbicsCgoKICAgICAgICB0aGlzLnN0YXRlLmlzRHJvcGRvd25PcGVuID8gJ2lzLWRyb3Bkb3duJwogICAgKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsoKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbS5zdWJUZXh0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImRyb3Bkb3duQnV0dG9uLW1lbnUtaXRlbS1zdWJUZXh0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7aXRlbS5zdWJUZXh0fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9KSgpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnRvZ2dsZUJ1Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRyb3Bkb3duQnV0dG9uQ2xhc3MgPSBjbGFzc05hbWVzKAogICAgICAgICdkcm9wZG93bkJ1dHRvbicsCgoKICAgICAgICB0aGlzLnN0YXRlLmlzRHJvcGRvd25PcGVuID8gJ2lzLWRyb3Bkb3duJwogICAgKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnRvZ2dsZUJ1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzSW5jbHVkZUFjdGl2ZUl0ZW0gPSBfLmZpbmRJbmRleCh0aGlzLnByb3BzLml0ZW1zLCAnaXNBY3RpdmUnKSAhPT0gLTE7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzSW5jbHVkZUFjdGl2ZUl0ZW0gPSBfLmZpbmRJbmRleCh0aGlzLnByb3BzLml0ZW1zLCAnaXNBY3RpdmUnKSAhPT0gLTE7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICYuaXMtZW5hYmxlLWNoZWNrU3ltYm9sIHsKICAgICAgPiBsaSA+IGEgewogICAgICAgIHBhZGRpbmc6IDEwcHggMzBweCAxMHB4IDE1cHg7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
