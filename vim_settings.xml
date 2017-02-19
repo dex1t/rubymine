@@ -594,12 +594,12 @@
         <mark key="^" line="128" column="14" />
         <mark key="." line="128" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" timestamp="1487335245391">
-        <mark key="'" line="4" column="22" />
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="19" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="30" column="19" />
+      <file name="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" timestamp="1487490669356">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
@@ -752,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/wikis_controller.rb" />
       <jump line="15" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" />
       <jump line="431" column="27" filename="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" />
@@ -852,10 +851,11 @@
       <jump line="53" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_simple_form.scss" />
       <jump line="99" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_dropdown_button.scss" />
       <jump line="100" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_dropdown_button.scss" />
+      <jump line="45" column="11" filename="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIC0jLmRyb3Bkb3duQnV0dG9uLnNlbGVjdAogICAgICAtIyAgPSBmLnNlbGVjdCg6bG9jYWxlKSBkbwogICAgICAtIyAgICAtIEkxOG4uYXZhaWxhYmxlX2xvY2FsZXMuZWFjaCBkbyB8bG9jYWxlfAogICAgICAtIyAgICAgID0gY29udGVudF90YWcoOm9wdGlvbiwgdCgidmlld3MubG9jYWxlcy4je2xvY2FsZX0iKSwgdmFsdWU6IGxvY2FsZSwgc2VsZWN0ZWQ6IGxvY2FsZS50b19zID09IEB1c2VyLmxvY2FsZSkKICAgICAgLSMgID0ga3NfdGFnICdzZWxlY3RfYXJyb3cnCg==</text>
+        <text encoding="base64">aW1wb3J0IGNsYXNzTmFtZXMgZnJvbSAnY2xhc3NuYW1lcyc7CmltcG9ydCB7IEZvcm1hdHRlZE1lc3NhZ2UgfSBmcm9tICdyZWFjdC1pbnRsJzsK</text>
       </register>
       <register name="-" type="4">
         <text>, wrapper_html: { class: 'dropdownButton' }</text>
@@ -867,31 +867,31 @@
         <text encoding="base64">ICAgICAgICAgIC0gSTE4bi5hdmFpbGFibGVfbG9jYWxlcy5lYWNoIGRvIHxsb2NhbGV8CiAgICAgICAgICAgID0gY29udGVudF90YWcoOm9wdGlvbiwgdCgidmlld3MubG9jYWxlcy4je2xvY2FsZX0iKSwgdmFsdWU6IGxvY2FsZSwgc2VsZWN0ZWQ6IGxvY2FsZS50b19zID09IEB1c2VyLmxvY2FsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIC0jLmRyb3Bkb3duQnV0dG9uLnNlbGVjdAogICAgICAtIyAgPSBmLnNlbGVjdCg6bG9jYWxlKSBkbwogICAgICAtIyAgICAtIEkxOG4uYXZhaWxhYmxlX2xvY2FsZXMuZWFjaCBkbyB8bG9jYWxlfAogICAgICAtIyAgICAgID0gY29udGVudF90YWcoOm9wdGlvbiwgdCgidmlld3MubG9jYWxlcy4je2xvY2FsZX0iKSwgdmFsdWU6IGxvY2FsZSwgc2VsZWN0ZWQ6IGxvY2FsZS50b19zID09IEB1c2VyLmxvY2FsZSkKICAgICAgLSMgID0ga3NfdGFnICdzZWxlY3RfYXJyb3cnCg==</text>
+        <text encoding="base64">aW1wb3J0IGNsYXNzTmFtZXMgZnJvbSAnY2xhc3NuYW1lcyc7CmltcG9ydCB7IEZvcm1hdHRlZE1lc3NhZ2UgfSBmcm9tICdyZWFjdC1pbnRsJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIC0jPSBmLnNlbGVjdCA6bG9jYWxlIGRvCiAgICAgIC0jICAtIEkxOG4uYXZhaWxhYmxlX2xvY2FsZXMuZWFjaCBkbyB8bG9jYWxlfAogICAgICAtIyAgICA9IGNvbnRlbnRfdGFnKDpvcHRpb24sIHQoInZpZXdzLmxvY2FsZXMuI3tsb2NhbGV9IiksIHZhbHVlOiBsb2NhbGUsIHNlbGVjdGVkOiBsb2NhbGUudG9fcyA9PSBAdXNlci5sb2NhbGUpCg==</text>
+        <text encoding="base64">CiAgICAgIC0jLmRyb3Bkb3duQnV0dG9uLnNlbGVjdAogICAgICAtIyAgPSBmLnNlbGVjdCg6bG9jYWxlKSBkbwogICAgICAtIyAgICAtIEkxOG4uYXZhaWxhYmxlX2xvY2FsZXMuZWFjaCBkbyB8bG9jYWxlfAogICAgICAtIyAgICAgID0gY29udGVudF90YWcoOm9wdGlvbiwgdCgidmlld3MubG9jYWxlcy4je2xvY2FsZX0iKSwgdmFsdWU6IGxvY2FsZSwgc2VsZWN0ZWQ6IGxvY2FsZS50b19zID09IEB1c2VyLmxvY2FsZSkKICAgICAgLSMgID0ga3NfdGFnICdzZWxlY3RfYXJyb3cnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC0jPSBmLnNlbGVjdCA6bG9jYWxlIGRvCiAgICAgIC0jICAtIEkxOG4uYXZhaWxhYmxlX2xvY2FsZXMuZWFjaCBkbyB8bG9jYWxlfAogICAgICAtIyAgICA9IGNvbnRlbnRfdGFnKDpvcHRpb24sIHQoInZpZXdzLmxvY2FsZXMuI3tsb2NhbGV9IiksIHZhbHVlOiBsb2NhbGUsIHNlbGVjdGVkOiBsb2NhbGUudG9fcyA9PSBAdXNlci5sb2NhbGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmFzc29jaWF0aW9uIDpib2FyZCwKICAgICAgICAgICAgICAgICAgICAgIHdyYXBwZXI6IDprc19zZWxlY3RfYm94LAogICAgICAgICAgICAgICAgICAgICAgaW5jbHVkZV9ibGFuazogdCgnc2hhcmVkLm5vdW5zLmFsbCcpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZHJvcGRvd25CdXR0b24uc2VsZWN0CiAgICAgICAgICA9IGYuYXNzb2NpYXRpb24gOmJvYXJkLCBsYWJlbDogZmFsc2UsIGluY2x1ZGVfYmxhbms6IHQoInNoYXJlZC5ub3Vucy5hbGwiKQogICAgICAgICAgPSBrc190YWcgInNlbGVjdF9hcnJvdyIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZHJvcGRvd25CdXR0b24uc2VsZWN0CiAgICAgICAgICA9IGYuYXNzb2NpYXRpb24gOmJvYXJkLCBsYWJlbDogZmFsc2UsIGluY2x1ZGVfYmxhbms6IHQoInNoYXJlZC5ub3Vucy5hbGwiKQogICAgICAgICAgPSBrc190YWcgJ3NlbGVjdF9hcnJvdycK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuZHJvcGRvd25CdXR0b24uc2VsZWN0CiAgICAgICAgICA9IGYuYXNzb2NpYXRpb24gOmJvYXJkLCBsYWJlbDogZmFsc2UsIGluY2x1ZGVfYmxhbms6IHQoInNoYXJlZC5ub3Vucy5hbGwiKQogICAgICAgICAgPSBrc190YWcgInNlbGVjdF9hcnJvdyIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPSBmLmFzc29jaWF0aW9uIDpib2FyZCwKICAgICAgICAgICAgICAgICAgICAgIHdyYXBwZXI6IDprc19zZWxlY3RfYm94LAogICAgICAgICAgICAgICAgICAgICAgaW5jbHVkZV9ibGFuazogdCgnc2hhcmVkLm5vdW5zLmFsbCcpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuZHJvcGRvd25CdXR0b24uc2VsZWN0CiAgICAgICAgICA9IGYuYXNzb2NpYXRpb24gOmJvYXJkLCBsYWJlbDogZmFsc2UsIGluY2x1ZGVfYmxhbms6IHQoInNoYXJlZC5ub3Vucy5hbGwiKQogICAgICAgICAgPSBrc190YWcgInNlbGVjdF9hcnJvdyIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAuZHJvcGRvd25CdXR0b24uc2VsZWN0CiAgICAgICAgICA9IGYuYXNzb2NpYXRpb24gOmJvYXJkLCBsYWJlbDogZmFsc2UsIGluY2x1ZGVfYmxhbms6IHQoInNoYXJlZC5ub3Vucy5hbGwiKQogICAgICAgICAgPSBrc190YWcgJ3NlbGVjdF9hcnJvdycK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuZHJvcGRvd25CdXR0b24uc2VsZWN0CiAgICAgICAgICA9IGYuYXNzb2NpYXRpb24gOmJvYXJkLCBsYWJlbDogZmFsc2UsIGluY2x1ZGVfYmxhbms6IHQoInNoYXJlZC5ub3Vucy5hbGwiKQogICAgICAgICAgPSBrc190YWcgInNlbGVjdF9hcnJvdyIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLmRyb3Bkb3duQnV0dG9uLnNlbGVjdAogICAgICAgICAgPSBmLmFzc29jaWF0aW9uIDpib2FyZCwKICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRfaHRtbDogeyBjbGFzczogJ2Ryb3Bkb3duQnV0dG9uMicgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICBpbmNsdWRlX2JsYW5rOiB0KCJzaGFyZWQubm91bnMuYWxsIikKICAgICAgICAgID0ga3NfdGFnICdzZWxlY3RfYXJyb3cnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
