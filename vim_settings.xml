@@ -165,11 +165,6 @@
         <mark key="." line="234" column="30" />
         <mark key="^" line="234" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/home/index.html.haml" timestamp="1487534976231">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_board_label.html.haml" timestamp="1487540803365">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="20" />
@@ -266,12 +261,12 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1487581083142">
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1487585453568">
         <mark key="'" line="88" column="18" />
-        <mark key="[" line="103" column="44" />
-        <mark key="]" line="104" column="7" />
-        <mark key="." line="104" column="7" />
-        <mark key="^" line="104" column="7" />
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -406,11 +401,6 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/slacks/edit.html.haml" timestamp="1487488186120">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/config/database.yml" timestamp="1485192862916">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="44" column="27" />
@@ -437,11 +427,6 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/generics/new.html.haml" timestamp="1487488173236">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/home_controller.rb" timestamp="1487580420185">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="8" />
@@ -461,11 +446,6 @@
         <mark key="]" line="35" column="8" />
         <mark key="^" line="35" column="8" />
         <mark key="." line="35" column="8" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/decorators/board_decorator.rb" timestamp="1487540756964">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/app-kibela/templates/etc/td-agent/conf.d/s3.conf" timestamp="1483990520797">
         <mark key="[" line="8" column="37" />
@@ -661,6 +641,13 @@
         <mark key="^" line="128" column="14" />
         <mark key="." line="128" column="14" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_like/entry_like.jsx" timestamp="1487586166200">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="79" column="36" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" timestamp="1487490669356">
         <mark key="'" line="43" column="11" />
         <mark key="[" line="2" column="0" />
@@ -778,6 +765,13 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="96" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" timestamp="1487586227115">
+        <mark key="'" line="89" column="40" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="89" column="40" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" timestamp="1487574833078">
         <mark key="'" line="116" column="19" />
         <mark key="[" line="111" column="19" />
@@ -801,11 +795,6 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/slacks/new.html.haml" timestamp="1487488244163">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/controllers/wikis_controller_spec.rb" timestamp="1487542802278">
         <mark key="[" line="69" column="0" />
@@ -838,6 +827,9 @@
         <mark key="." line="263" column="0" />
         <mark key="^" line="240" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_tooltip.scss" timestamp="1487586080413">
+        <mark key="'" line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_trend.scss" timestamp="1486562655947">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="60" column="22" />
@@ -851,13 +843,14 @@
         <mark key="^" line="1" column="109" />
         <mark key="." line="1" column="109" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_like.scss" timestamp="1487586064934">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="39" filename="$USER_HOME$/Work/kibela/client/components/wiki_template_editor/wiki_template_editor_container.jsx" />
-      <jump line="426" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" />
-      <jump line="113" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="143" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="24" column="45" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="88" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="182" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="82" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
@@ -953,46 +946,51 @@
       <jump line="40" column="0" filename="$USER_HOME$/Work/kibela/spec/controllers/home_controller_spec.rb" />
       <jump line="49" column="13" filename="$USER_HOME$/Work/kibela/spec/controllers/home_controller_spec.rb" />
       <jump line="88" column="18" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_like.scss" />
+      <jump line="55" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_tooltip.scss" />
+      <jump line="74" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_like/entry_like.jsx" />
+      <jump line="19" column="9" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
+      <jump line="90" column="40" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogcmdiYSgka2liZWxhQnJhbmQsIDAuOCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFRvb2x0aXAgZnJvbSAncmVhY3QtdG9vbHRpcCc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSA=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogcmdiYSgka2liZWxhQnJhbmQsIDAuOCk7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjb250ZXh0ICd3aGVuIGhlYWRub3RlIGZvciBob21lIGV4aXN0cycgZG8KICAgICAgbGV0ISg6aGVhZG5vdGUpIHsgRkcuY3JlYXRlKDpoZWFkbm90ZSwgYm9hcmQ6IG5pbCkgfQoKICAgICAgaXQgJ2Fzc2lnbnMgQGhlYWRub3RlJyBkbwogICAgICAgIGdldCA6aW5kZXgKICAgICAgICBleHBlY3QoYXNzaWducyg6aGVhZG5vdGUpKS50byBlcSBoZWFkbm90ZQogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgJ3doZW4gaGVhZG5vdGUgZm9yIGhvbWUgZG9lcyBub3QgZXhpc3QnIGRvCiAgICAgIGl0ICdhc3NpZ25zIEBoZWFkbm90ZScgZG8KICAgICAgICBnZXQgOmluZGV4CiAgICAgICAgZXhwZWN0KGFzc2lnbnMoOmhlYWRub3RlKSkudG8gYmVfbmV3X3JlY29yZAogICAgICAgIGV4cGVjdChhc3NpZ25zKDpoZWFkbm90ZSkpLnRvIGJlX2luc3RhbmNlX29mKEhlYWRub3RlKQogICAgICBlbmQKICAgIGVuZAo=</text>
+        <text encoding="base64">aW1wb3J0IFRvb2x0aXAgZnJvbSAncmVhY3QtdG9vbHRpcCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb250ZXh0ICd3aGVuIGhlYWRub3RlIGZvciBob21lIGV4aXN0cycgZG8KICAgICAgbGV0ISg6aGVhZG5vdGUpIHsgRkcuY3JlYXRlKDpoZWFkbm90ZSwgYm9hcmQ6IG5pbCkgfQoKICAgICAgaXQgJ2Fzc2lnbnMgQGhlYWRub3RlJyBkbwogICAgICAgIGdldCA6aW5kZXgKICAgICAgICBleHBlY3QoYXNzaWducyg6aGVhZG5vdGUpKS50byBlcSBoZWFkbm90ZQogICAgICBlbmQKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZm9yPSdlbnRyeS1hdXRob3JzLXRvb2x0aXAnPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGFzc2lnbnMoOndpa2lzKSkudG8gbWF0Y2ggW3B1Ymxpc2hlZF93aWtpXzJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdGlwPXt0aXBOYW1lfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRpcE5hbWUgPSB1c2VyLnJlYWxfbmFtZSA/IGAke3VzZXIuYWNjb3VudH0gKCR7dXNlci5yZWFsX25hbWV9KWAgOiB1c2VyLmFjY291bnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgID4gYSB7CiAgICAgICAgQGluY2x1ZGUgZm9udC14czsKICAgICAgICBAaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7CiAgICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgICAgICBib3JkZXItYm90dG9tOiAwOwogICAgICAgIHBhZGRpbmc6IDEwcHg7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxUb29sdGlwIGlkPSdlbnRyeS1hdXRob3JzLXRvb2x0aXAnCiAgICAgICAgICAgICAgdHlwZT0nbGlnaHQnCiAgICAgICAgICAgICAgZWZmZWN0PSdzb2xpZCcKICAgICAgICAgICAgICBwbGFjZT0nYm90dG9tJwogICAgICAgICAgICAgIHBvc2l0aW9uPXt7IHRvcDogNSB9fS8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGlwTmFtZSA9IHVzZXIucmVhbF9uYW1lID8gYCR7dXNlci5hY2NvdW50fSAoJHt1c2VyLnJlYWxfbmFtZX0pYCA6IHVzZXIuYWNjb3VudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJHdoaXRlOwo=</text>
+        <text encoding="base64">aW1wb3J0IFRvb2x0aXAgZnJvbSAncmVhY3QtdG9vbHRpcCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBpbmhlcml0Owo=</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbHRpcCBpZD0nZW50cnlMaWtlLXVzZXJzLXRvb2x0aXAnCiAgICAgICAgICAgIHR5cGU9J2xpZ2h0JwogICAgICAgICAgICBlZmZlY3Q9J3NvbGlkJwogICAgICAgICAgICBvZmZzZXQ9e3sgdG9wOiAtNiwgbGVmdDogMiB9fS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJjo6aG92ZXIgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YS1mb3I9J2VudHJ5TGlrZS11c2Vycy10b29sdGlwJz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
