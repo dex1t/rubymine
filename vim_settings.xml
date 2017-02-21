@@ -662,6 +662,9 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487699299153">
+        <mark key="'" line="127" column="6" />
+      </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -864,9 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="82" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="109" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="179" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="83" column="76" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_editor/draft_notification.jsx" />
@@ -964,6 +964,9 @@
       <jump line="19" column="9" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
       <jump line="90" column="40" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
       <jump line="34" column="4" filename="$USER_HOME$/Work/kibela/app/helpers/application_helper.rb" />
+      <jump line="69" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="185" column="6" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="127" column="6" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
