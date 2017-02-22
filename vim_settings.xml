@@ -34,10 +34,11 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1487538050011">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1487765876876">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/cookbooks/datadog/files/etc/dd-agent/conf.d/fluentd.yaml" timestamp="1483114989191">
         <mark key="[" line="15" column="23" />
@@ -51,8 +52,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" timestamp="1487540877503">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" timestamp="1487765705637">
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="50" />
         <mark key="." line="13" column="50" />
@@ -242,11 +243,11 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/helpers/board_helper.rb" timestamp="1487758040923">
-        <mark key="[" line="49" column="103" />
-        <mark key="]" line="49" column="143" />
-        <mark key="." line="49" column="103" />
-        <mark key="^" line="49" column="102" />
+      <file name="$USER_HOME$/Work/kibela/app/helpers/board_helper.rb" timestamp="1487766142488">
+        <mark key="[" line="40" column="62" />
+        <mark key="]" line="40" column="62" />
+        <mark key="." line="40" column="62" />
+        <mark key="^" line="40" column="62" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/helpers/application_helper.rb" timestamp="1487618027491">
         <mark key="'" line="54" column="4" />
@@ -498,11 +499,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/wikis/index.html.haml" timestamp="1487539920314">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/views/wikis/index.html.haml" timestamp="1487765872316">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/setting/avatar_setting_box_spec.js" timestamp="1484932419667">
         <mark key="[" line="3" column="57" />
@@ -878,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="52" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="130" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="154" column="5" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="121" column="13" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
@@ -978,6 +978,7 @@
       <jump line="91" column="12" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" />
       <jump line="53" column="15" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
       <jump line="106" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" />
+      <jump line="34" column="0" filename="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
