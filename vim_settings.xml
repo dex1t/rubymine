@@ -866,8 +866,9 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" timestamp="1487777963827">
-        <mark key="[" line="60" column="34" />
+      <file name="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" timestamp="1487779389601">
+        <mark key="'" line="32" column="18" />
+        <mark key="[" line="40" column="0" />
         <mark key="]" line="61" column="12" />
         <mark key="^" line="61" column="12" />
         <mark key="." line="61" column="12" />
@@ -906,7 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="13" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="89" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" />
       <jump line="32" column="4" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/Gemfile" />
@@ -1006,6 +1006,7 @@
       <jump line="34" column="0" filename="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" />
       <jump line="70" column="4" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="54" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
+      <jump line="32" column="18" filename="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
