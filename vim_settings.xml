@@ -98,9 +98,9 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/user.rb" timestamp="1487322639423">
@@ -378,6 +378,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/spec/controllers/sign_up/users_controller_spec.rb" timestamp="1487785513547">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="84" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1487184897166">
         <mark key="'" line="54" column="2" />
@@ -795,7 +801,7 @@
         <mark key="]" line="105" column="29" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487784362513">
+      <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
         <mark key="]" line="7" column="137" />
         <mark key="." line="7" column="137" />
@@ -852,10 +858,9 @@
       </file>
       <file name="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" timestamp="1487783389989">
         <mark key="'" line="32" column="18" />
-        <mark key="[" line="64" column="3" />
-        <mark key="]" line="67" column="42" />
-        <mark key="^" line="67" column="42" />
-        <mark key="." line="67" column="42" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/wiki_template_editor/wiki_template_editor_container.jsx" timestamp="1487021610075">
         <mark key="'" line="238" column="39" />
@@ -994,7 +999,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiB1c2VyLmlkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>// Chain guest activity to login activity on mixpanel</text>
@@ -1003,34 +1008,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2pxdWVyeS9taXhwYW5lbF9iZWFjb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiB1c2VyLmlkLCBnbG9iYWxJZDogdXNlci50b19naWQudG9fcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiB1c2VyLmlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2V0Jyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2pxdWVyeS9taXhwYW5lbF9iZWFjb24nOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRpdGlvbmFsID0gewogIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1peHBhbmVsX3VybDogYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0kezExMX1gLAo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2V0Jyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0ICcuL2pxdWVyeS9taXhwYW5lbF9iZWFjb24nOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdCBhZGRpdGlvbmFsID0gewogIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1peHBhbmVsX3VybDogYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0kezExMX1gLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogIGNvbnNvbGUubG9nKCdzZXQgaW50ZXJjb20nKTsK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
