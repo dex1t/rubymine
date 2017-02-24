@@ -103,7 +103,7 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.js" timestamp="1487776964494">
+      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.js" timestamp="1487951961975">
         <mark key="[" line="311" column="0" />
         <mark key="]" line="311" column="0" />
         <mark key="." line="311" column="0" />
@@ -818,8 +818,8 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" timestamp="1487783389989">
-        <mark key="'" line="32" column="18" />
+      <file name="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" timestamp="1487951494736">
+        <mark key="'" line="89" column="0" />
         <mark key="]" line="41" column="42" />
         <mark key="^" line="41" column="42" />
         <mark key="." line="41" column="42" />
@@ -859,8 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="23" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
-      <jump line="141" column="16" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="139" column="16" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="223" column="12" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="42" column="7" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
@@ -959,6 +957,8 @@
       <jump line="93" column="6" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
       <jump line="35" column="4" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
+      <jump line="59" column="3" filename="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
