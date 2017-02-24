@@ -626,8 +626,11 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487699299153">
-        <mark key="'" line="127" column="6" />
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487918678532">
+        <mark key="[" line="112" column="56" />
+        <mark key="]" line="112" column="58" />
+        <mark key="^" line="112" column="58" />
+        <mark key="." line="112" column="58" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
@@ -843,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
       <jump line="0" column="15" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="54" column="2" filename="$USER_HOME$/Work/kibela/app/models/board.rb" />
@@ -943,10 +945,11 @@
       <jump line="11" column="0" filename="$USER_HOME$/Work/kibela/config/initializers/intercom.rb" />
       <jump line="34" column="2" filename="$USER_HOME$/Work/kibela/app/helpers/mailer_helper.rb" />
       <jump line="13" column="20" filename="$USER_HOME$/Work/kibela/app/views/externals/acst.en.html.haml" />
+      <jump line="73" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://intercom.help/kibela/api-document/english/outgoing-webhook</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>// Chain guest activity to login activity on mixpanel</text>
@@ -958,31 +961,31 @@
         <text>https://intercom.help/kibela/api-document/english/outgoing-webhook</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiB1c2VyLmlkKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAlbGkKICAgICAgICAgID0gaW1hZ2VfdGFnICdsYW5kaW5nL3NvcmFjb20ucG5nJywgc2l6ZTogJzE4OHgzNycK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAlbGkKICAgICAgICAgID0gaW1hZ2VfdGFnICdsYW5kaW5nL3VyaWRva2kucG5nJywgc2l6ZTogJzE2MHg0NCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2V0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAlbGkKICAgICAgICAgID0gaW1hZ2VfdGFnICdsYW5kaW5nL3JvYml0LnBuZycsIHNpemU6ICc5MHgzNScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2pxdWVyeS9taXhwYW5lbF9iZWFjb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiB1c2VyLmlkKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRpdGlvbmFsID0gewogIH0K</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1peHBhbmVsX3VybDogYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0kezExMX1gLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2V0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">aW1wb3J0ICcuL2pxdWVyeS9taXhwYW5lbF9iZWFjb24nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
