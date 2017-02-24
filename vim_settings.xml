@@ -626,11 +626,11 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487925774261">
-        <mark key="[" line="121" column="70" />
-        <mark key="]" line="122" column="54" />
-        <mark key="^" line="122" column="54" />
-        <mark key="." line="122" column="54" />
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487940192349">
+        <mark key="[" line="121" column="39" />
+        <mark key="]" line="121" column="28" />
+        <mark key="^" line="121" column="28" />
+        <mark key="." line="121" column="28" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
