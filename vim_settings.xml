@@ -312,12 +312,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/initializers/intercom.rb" timestamp="1487783276496">
+      <file name="$USER_HOME$/Work/kibela/config/initializers/intercom.rb" timestamp="1487950176254">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="59" column="74" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="82" column="2" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_trend_hot.html.haml" timestamp="1485468021955">
         <mark key="[" line="9" column="13" />
@@ -772,8 +772,8 @@
         <mark key="^" line="118" column="24" />
         <mark key="." line="118" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/team.rb" timestamp="1487948510691">
-        <mark key="'" line="93" column="6" />
+      <file name="$USER_HOME$/Work/kibela/app/models/team.rb" timestamp="1487949742732">
+        <mark key="'" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/mixpanel_append_params.js" timestamp="1487783284200">
         <mark key="[" line="16" column="0" />
@@ -859,8 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="43" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_vertical_tab.scss" />
       <jump line="55" column="23" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="141" column="16" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="139" column="16" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
@@ -959,10 +957,12 @@
       <jump line="70" column="0" filename="$USER_HOME$/Work/kibela/client/components/intercom_launcher.jsx" />
       <jump line="36" column="0" filename="$USER_HOME$/Work/kibela/client/components/intercom_launcher.jsx" />
       <jump line="93" column="6" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
+      <jump line="35" column="4" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5jb21wYW55ID0gewogICAgCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>`https://mixpanel.com/report/990913/explore/#user?distinct_id=${encodeURIComponent(mixpanelClient.getDistinctId())}`</text>
@@ -974,31 +974,31 @@
         <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5taXhwYW5lbF91cmwgPSBgaHR0cHM6Ly9taXhwYW5lbC5jb20vcmVwb3J0Lzk5MDkxMy9leHBsb3JlLyN1c2VyP2Rpc3RpbmN0X2lkPSR7ZW5jb2RlVVJJQ29tcG9uZW50KG1peHBhbmVsQ2xpZW50LmdldERpc3RpbmN0SWQoKSl9YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5jb21wYW55ID0gewogICAgCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5iYmJiID0gYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0ke2VuY29kZVVSSUNvbXBvbmVudChtaXhwYW5lbENsaWVudC5nZXREaXN0aW5jdElkKCkpfWA7Cg==</text>
+        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5jb21wYW55ID0gewogICAgCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5hYWEgPSAnaG9nZSc7Cg==</text>
+        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5iYmJiID0gYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0ke2VuY29kZVVSSUNvbXBvbmVudChtaXhwYW5lbENsaWVudC5nZXREaXN0aW5jdElkKCkpfWA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aW5kb3cuSW50ZXJjb20oJ2Jvb3QnLCB7CiAgICAibWl4cGFuZWxfdXJsIjogLAogICAgImFhYSI6ICJiYmJiIgogIH0pOwo=</text>
+        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5hYWEgPSAnaG9nZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2luZG93LkludGVyY29tKCdib290JywgewogICJob2dlIjogJ2Z1Z2EnCn0pOwoK</text>
+        <text encoding="base64">ICB3aW5kb3cuSW50ZXJjb20oJ2Jvb3QnLCB7CiAgICAibWl4cGFuZWxfdXJsIjogLAogICAgImFhYSI6ICJiYmJiIgogIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">d2luZG93LkludGVyY29tKCdib290JywgewogICJob2dlIjogJ2Z1Z2EnCn0pOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aW5kb3cuSW50ZXJjb20oJ2Jvb3QnLCBvdmVyd3JpdHRlblNldHRpbmdzKTsKICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncyA9IE9iamVjdC5hc3NpZ24oCiAgICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncywKICAgIHsKICAgIH0KICApOwo=</text>
+        <text encoding="base64">JCgoKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcF9pZDogJ2FiYzEyMzQ1JywKICAgIGVtYWlsOiAnam9obi5kb2VAZXhhbXBsZS5jb20nLAogICAgY3JlYXRlZF9hdDogMTIzNDU2Nzg5MCwKICAgIG5hbWU6ICdKb2huIERvZScsCiAgICB1c2VyX2lkOiAnOTg3NicK</text>
+        <text encoding="base64">ICB3aW5kb3cuSW50ZXJjb20oJ2Jvb3QnLCBvdmVyd3JpdHRlblNldHRpbmdzKTsKICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncyA9IE9iamVjdC5hc3NpZ24oCiAgICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncywKICAgIHsKICAgIH0KICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
