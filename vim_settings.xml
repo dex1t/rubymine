@@ -626,11 +626,11 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487940192349">
-        <mark key="[" line="121" column="39" />
-        <mark key="]" line="121" column="28" />
-        <mark key="^" line="121" column="28" />
-        <mark key="." line="121" column="28" />
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487942566221">
+        <mark key="[" line="125" column="40" />
+        <mark key="]" line="125" column="40" />
+        <mark key="^" line="125" column="40" />
+        <mark key="." line="125" column="40" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
@@ -949,7 +949,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAlbGkKICAgICAgICAgID0gbGlua190byAnaHR0cHM6Ly91cmlkb2tpLm5ldC8nLCB0YXJnZXQ6ICdfYmxhbmsnIGRvCiAgICAgICAgICAgID0gaW1hZ2VfdGFnICdsYW5kaW5nL3VyaWRva2kucG5nJywgd2lkdGg6ICcnCg==</text>
       </register>
       <register name="-" type="4">
         <text>// Chain guest activity to login activity on mixpanel</text>
@@ -957,8 +957,8 @@
       <register name="/" type="4">
         <text>batch</text>
       </register>
-      <register name="0" type="4">
-        <text>https://intercom.help/kibela/api-document/english/outgoing-webhook</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAlbGkKICAgICAgICAgID0gbGlua190byAnaHR0cHM6Ly91cmlkb2tpLm5ldC8nLCB0YXJnZXQ6ICdfYmxhbmsnIGRvCiAgICAgICAgICAgID0gaW1hZ2VfdGFnICdsYW5kaW5nL3VyaWRva2kucG5nJywgd2lkdGg6ICcnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
