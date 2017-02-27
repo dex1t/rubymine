@@ -414,12 +414,12 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/pages/_landing.scss" timestamp="1488213134798">
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/pages/_landing.scss" timestamp="1488216791286">
         <mark key="'" line="56" column="9" />
-        <mark key="[" line="145" column="13" />
-        <mark key="]" line="145" column="13" />
-        <mark key="^" line="145" column="13" />
-        <mark key="." line="145" column="13" />
+        <mark key="[" line="478" column="23" />
+        <mark key="]" line="478" column="28" />
+        <mark key="^" line="478" column="28" />
+        <mark key="." line="478" column="28" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/entry_editor/entry_editor_container.spec.jsx" timestamp="1486682004662">
         <mark key="'" line="42" column="0" />
@@ -525,12 +525,12 @@
       <file name="$USER_HOME$/Work/kibela/app/helpers/mailer_helper.rb" timestamp="1487782057974">
         <mark key="'" line="34" column="2" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1488214656282">
+      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1488216579130">
         <mark key="'" line="207" column="32" />
-        <mark key="[" line="652" column="33" />
-        <mark key="]" line="652" column="33" />
-        <mark key="." line="652" column="33" />
-        <mark key="^" line="652" column="33" />
+        <mark key="[" line="473" column="59" />
+        <mark key="]" line="473" column="59" />
+        <mark key="." line="473" column="59" />
+        <mark key="^" line="473" column="59" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1487021456270">
         <mark key="[" line="477" column="0" />
@@ -671,12 +671,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1488213622670">
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1488215355934">
         <mark key="'" line="82" column="8" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="44" column="8" />
+        <mark key="^" line="44" column="8" />
+        <mark key="." line="44" column="8" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
