@@ -636,12 +636,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1488190216909">
-        <mark key="'" line="126" column="10" />
-        <mark key="[" line="37" column="109" />
-        <mark key="]" line="37" column="98" />
-        <mark key="^" line="37" column="98" />
-        <mark key="." line="37" column="98" />
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1488192060572">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="133" column="61" />
+        <mark key="]" line="133" column="61" />
+        <mark key="^" line="133" column="61" />
+        <mark key="." line="133" column="61" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
@@ -866,7 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="21" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/settings/_color.scss" />
       <jump line="13" column="7" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="140" column="27" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="222" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
@@ -966,46 +965,47 @@
       <jump line="172" column="39" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="30" column="22" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="125" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="8" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID0gaW1hZ2Vfc2V0X3RhZyAndGVhc2VyL2V5ZWNhdGNoLnBuZycsIHsgJzJ4JzogJ3RlYXNlci9leWVjYXRjaEAyeC5wbmcnIH0sIGNsYXNzOiAndGVhc2VyLWhlcm8tZXllY2F0Y2gnCg==</text>
+      <register name="&quot;" type="4">
+        <text>, alt: 'Holiday Inc.'</text>
       </register>
       <register name="-" type="4">
-        <text>`https://mixpanel.com/report/990913/explore/#user?distinct_id=${encodeURIComponent(mixpanelClient.getDistinctId())}`</text>
+        <text>, alt: 'Holiday Inc.'</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgID0gaW1hZ2Vfc2V0X3RhZyAndGVhc2VyL2V5ZWNhdGNoLnBuZycsIHsgJzJ4JzogJ3RlYXNlci9leWVjYXRjaEAyeC5wbmcnIH0sIGNsYXNzOiAndGVhc2VyLWhlcm8tZXllY2F0Y2gnCg==</text>
+        <text encoding="base64">ICAgICAgICA9IGltYWdlX3NldF90YWcgImxhbmRpbmcvI3tJMThuLmxvY2FsZX0vYmlvLnBuZyIsIHsgJzJ4JzogImxhbmRpbmcvI3tJMThuLmxvY2FsZX0vYmlvQDJ4LnBuZyIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IGltYWdlX3RhZyAnbGFuZGluZy9mZWF0dXJlMDMucG5nJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5jb21wYW55ID0gewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA9IGltYWdlX3RhZyAnbGFuZGluZy9mZWF0dXJlMDIucG5nJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5iYmJiID0gYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0ke2VuY29kZVVSSUNvbXBvbmVudChtaXhwYW5lbENsaWVudC5nZXREaXN0aW5jdElkKCkpfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IGltYWdlX3RhZyAnbGFuZGluZy9mZWF0dXJlMDEucG5nJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5hYWEgPSAnaG9nZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgPSBpbWFnZV90YWcgJ2xhbmRpbmcva2liZWxhLW1hc2NvdHMucG5nJywgY2xhc3M6ICdtYXNjb3RzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aW5kb3cuSW50ZXJjb20oJ2Jvb3QnLCB7CiAgICAibWl4cGFuZWxfdXJsIjogLAogICAgImFhYSI6ICJiYmJiIgogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgPSBpbWFnZV90YWcgJ3RlYXNlci9leWVjYXRjaEAyeC5wbmcnLCBjbGFzczogJ3NjcmVlbnNob3QnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2luZG93LkludGVyY29tKCdib290JywgewogICJob2dlIjogJ2Z1Z2EnCn0pOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5jb21wYW55ID0gewogICAgCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5iYmJiID0gYGh0dHBzOi8vbWl4cGFuZWwuY29tL3JlcG9ydC85OTA5MTMvZXhwbG9yZS8jdXNlcj9kaXN0aW5jdF9pZD0ke2VuY29kZVVSSUNvbXBvbmVudChtaXhwYW5lbENsaWVudC5nZXREaXN0aW5jdElkKCkpfWA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aW5kb3cuSW50ZXJjb20oJ2Jvb3QnLCBvdmVyd3JpdHRlblNldHRpbmdzKTsKICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncyA9IE9iamVjdC5hc3NpZ24oCiAgICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncywKICAgIHsKICAgIH0KICApOwo=</text>
+        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5hYWEgPSAnaG9nZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
