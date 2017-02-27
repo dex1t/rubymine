@@ -636,11 +636,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1487946519925">
-        <mark key="[" line="122" column="59" />
-        <mark key="]" line="122" column="58" />
-        <mark key="^" line="122" column="58" />
-        <mark key="." line="122" column="58" />
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1488190216909">
+        <mark key="'" line="126" column="10" />
+        <mark key="[" line="37" column="109" />
+        <mark key="]" line="37" column="98" />
+        <mark key="^" line="37" column="98" />
+        <mark key="." line="37" column="98" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
@@ -781,6 +782,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/root.html.haml" timestamp="1488190203977">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="107" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/shared/profile/user_trend_entry_list.spec.js" timestamp="1486562814794">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
@@ -859,12 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="16" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="223" column="12" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="42" column="7" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
-      <jump line="49" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_dropdown_button.scss" />
-      <jump line="45" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
-      <jump line="66" column="17" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="58" column="21" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/settings/_color.scss" />
       <jump line="13" column="7" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="140" column="27" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
@@ -959,10 +960,16 @@
       <jump line="29" column="0" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
       <jump line="59" column="3" filename="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" />
       <jump line="89" column="0" filename="$USER_HOME$/Work/kibela/client/utils/mixpanel_client.js" />
+      <jump line="124" column="11" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="177" column="13" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="172" column="39" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="30" column="22" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="125" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID0gaW1hZ2Vfc2V0X3RhZyAndGVhc2VyL2V5ZWNhdGNoLnBuZycsIHsgJzJ4JzogJ3RlYXNlci9leWVjYXRjaEAyeC5wbmcnIH0sIGNsYXNzOiAndGVhc2VyLWhlcm8tZXllY2F0Y2gnCg==</text>
       </register>
       <register name="-" type="4">
         <text>`https://mixpanel.com/report/990913/explore/#user?distinct_id=${encodeURIComponent(mixpanelClient.getDistinctId())}`</text>
@@ -971,7 +978,7 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncy5taXhwYW5lbF91cmwgPSBgaHR0cHM6Ly9taXhwYW5lbC5jb20vcmVwb3J0Lzk5MDkxMy9leHBsb3JlLyN1c2VyP2Rpc3RpbmN0X2lkPSR7ZW5jb2RlVVJJQ29tcG9uZW50KG1peHBhbmVsQ2xpZW50LmdldERpc3RpbmN0SWQoKSl9YDsK</text>
+        <text encoding="base64">ICAgID0gaW1hZ2Vfc2V0X3RhZyAndGVhc2VyL2V5ZWNhdGNoLnBuZycsIHsgJzJ4JzogJ3RlYXNlci9leWVjYXRjaEAyeC5wbmcnIH0sIGNsYXNzOiAndGVhc2VyLWhlcm8tZXllY2F0Y2gnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
