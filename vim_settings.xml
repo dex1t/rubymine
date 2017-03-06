@@ -88,6 +88,7 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="56" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/concerns/localizable.rb" timestamp="1488801841678" />
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -375,11 +376,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/intercom_launcher.jsx" timestamp="1487947309497">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="52" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/spec/controllers/sign_up/users_controller_spec.rb" timestamp="1487785513547">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -437,11 +433,6 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_attributes.js" timestamp="1487948447321">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_price_table.html.haml" timestamp="1488214148286">
         <mark key="[" line="18" column="10" />
@@ -753,7 +744,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/application_controller.rb" timestamp="1483091845549">
+      <file name="$USER_HOME$/Work/kibela/app/controllers/application_controller.rb" timestamp="1488801707639">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="9" />
