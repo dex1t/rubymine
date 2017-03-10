@@ -21,9 +21,6 @@
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
       </file>
-      <file name="/a.dummy" timestamp="1488214054641">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.jsx" timestamp="1483107033225">
         <mark key="'" line="11" column="47" />
         <mark key="[" line="54" column="115" />
@@ -49,8 +46,10 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo.jsx" timestamp="1489175302574">
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo.jsx" timestamp="1489176522667">
         <mark key="'" line="24" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" timestamp="1487765705637">
         <mark key="'" line="34" column="0" />
@@ -91,7 +90,12 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/decorators/shared/postable_decorator.rb" timestamp="1489175543102" />
+      <file name="$USER_HOME$/Work/kibela/app/decorators/shared/postable_decorator.rb" timestamp="1489177883607">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="50" column="31" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -231,9 +235,9 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/shape.jsx" timestamp="1486561195874">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/shape.jsx" timestamp="1489177483108">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="21" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="12" column="0" />
       </file>
@@ -385,12 +389,12 @@
         <mark key="^" line="64" column="84" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" timestamp="1487782210214">
+      <file name="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" timestamp="1489177956018">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="106" column="13" />
-        <mark key="]" line="106" column="10" />
-        <mark key="." line="106" column="10" />
-        <mark key="^" line="106" column="10" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="99" column="10" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_wiki_template.json.jbuilder" timestamp="1486682376758">
         <mark key="[" line="13" column="3" />
@@ -456,12 +460,12 @@
         <mark key="^" line="31" column="11" />
         <mark key="." line="31" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" timestamp="1489175213233">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="11" column="49" />
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" timestamp="1489177577323">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1487539372641">
         <mark key="'" line="169" column="0" />
@@ -632,12 +636,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" timestamp="1489173483847">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="116" column="2" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" timestamp="1489177612018">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="28" column="33" />
+        <mark key="^" line="28" column="33" />
+        <mark key="." line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_blog_author.scss" timestamp="1486562668716">
         <mark key="'" line="26" column="0" />
@@ -924,14 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="17" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="46" column="6" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="198" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="41" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="130" column="2" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
-      <jump line="178" column="12" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
-      <jump line="128" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
-      <jump line="130" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="118" column="12" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="186" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="120" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
@@ -1024,46 +1020,54 @@
       <jump line="89" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo.jsx" />
       <jump line="71" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
+      <jump line="90" column="2" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="78" column="11" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="96" column="2" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="18" column="2" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="9" column="24" filename="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" />
+      <jump line="116" column="1" filename="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" />
+      <jump line="12" column="14" filename="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" />
+      <jump line="96" column="0" filename="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZW50cnlUeXBlOiBSZWFjdC5Qcm9wVHlwZXMub25lT2YoWyd3aWtpJywgJ2Jsb2cnXSkuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, alt: 'Holiday Inc.'</text>
+        <text>this.props.entryType === 'blog'</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IEF2YXRhclBob3RvIGZyb20gJy4uL3NoYXJlZC9hdmF0YXJfcGhvdG8nOwppbXBvcnQgS2liZWxhU3ltYm9sIGZyb20gJy4uL3NoYXJlZC9raWJlbGFfc3ltYm9sJzsKaW1wb3J0IFByb2ZpbGVQb3B1cCBmcm9tICcuLi9zaGFyZWQvcHJvZmlsZS9wb3B1cCc7CmltcG9ydCAqIGFzIHByb2ZpbGVTaGFwZSBmcm9tICcuLi9zaGFyZWQvcHJvZmlsZS9zaGFwZSc7CmltcG9ydCBUaW1lb3V0cyBmcm9tICcuLi9ob2MvdGltZW91dHMnOwppbXBvcnQga2liZWxhQ2xpZW50IGZyb20gJy4uLy4uL3V0aWxzL2tpYmVsYV9jbGllbnQnOwppbXBvcnQgbG9nRXhjZXB0aW9uIGZyb20gJy4uLy4uL3V0aWxzL2xvZ19leGNlcHRpb24nOwoKY29uc3QgU0hPV19UUklHR0VSX01TID0gNDAwOwoKZXhwb3J0IGRlZmF1bHQgVGltZW91dHMoY2xhc3MgRmVlZEVudHJ5SWNvbiBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgc3RhdGljIGdldCBwcm9wVHlwZXMoKSB7CiAgICByZXR1cm4gewogICAgICBzZXRUaW1lb3V0OiBSZWFjdC5Qcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLCAvLyBwcm92aWRlZCBieSBob2MKICAgICAgY2xlYXJUaW1lb3V0czogUmVhY3QuUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwgIC8vIHByb3ZpZGVkIGJ5IGhvYwogICAgICBhdXRob3JQcm9maWxlOiBSZWFjdC5Qcm9wVHlwZXMuc2hhcGUocHJvZmlsZVNoYXBlLm1pbmltdW0pLmlzUmVxdWlyZWQsCiAgICAgIGVudHJ5VHlwZTogUmVhY3QuUHJvcFR5cGVzLm9uZU9mKFsnd2lraScsICdibG9nJ10pLmlzUmVxdWlyZWQsCiAgICB9OwogIH0KCiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKICAgIHRoaXMuc3RhdGUgPSB7fTsKICB9CgogIC8qKgogICAqIElmIHF1ZXJ5IHN0cmluZyBpbmNsdWRlcyAncG9wdXBfZGVidWc9MScsIGtlZXAgcHJvZmlsZSBvcGVuIGV2ZW4gYWZ0ZXIKICAgKiBvbk1vdXNlRW50ZXIgb3IgZG91YmxlLWNsaWNrIGV2ZW50IHRvIGRlYnVnIHdpdGggQ2hyb21lIHdlYiBpbnNwZWN0b3IgZWFzaWx5LgogICAqLwogIGlzRGVidWdNb2RlKCkgewogICAgcmV0dXJuIC9cYnBvcHVwX2RlYnVnPTFcYi8udGVzdCh3aW5kb3cubG9jYXRpb24uaHJlZik7CiAgfQoKICBpc0Jsb2coKSB7CiAgICByZXR1cm4gdGhpcy5wcm9wcy5lbnRyeVR5cGUgPT09ICdibG9nJzsKICB9CgogIGVsZW1lbnRJc1VwcGVyU2lkZShlbGVtZW50KSB7CiAgICBjb25zdCB0b3AgPSBlbGVtZW50LmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLnRvcDsKICAgIHJldHVybiAod2luZG93LmlubmVySGVpZ2h0IC8gMikgPiB0b3A7CiAgfQoKICBoYW5kbGVNb3VzZUVudGVyKGV2ZW50KSB7CiAgICBjb25zdCB0YXJnZXQgPSBldmVudC50YXJnZXQ7CiAgICB0aGlzLnByb3BzLnNldFRpbWVvdXQoKCkgPT4gewogICAgICBraWJlbGFDbGllbnQuZ2V0VXNlclByb2ZpbGUodGhpcy5wcm9wcy5hdXRob3JQcm9maWxlLmFjY291bnQpCiAgICAgICAgLnRoZW4oKHJlc291cmNlKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcG9wdXBJc0xvd2VyU2lkZTogdGhpcy5lbGVtZW50SXNVcHBlclNpZGUodGFyZ2V0KSwKICAgICAgICAgICAgcG9wdXBQcm9maWxlOiB7CiAgICAgICAgICAgICAgYWNjb3VudDogcmVzb3VyY2UuYWNjb3VudCwKICAgICAgICAgICAgICBzcmNTZXQ6IHJlc291cmNlLnNyY19zZXQsCiAgICAgICAgICAgICAgaXNDdXJyZW50VXNlcjogcmVzb3VyY2UuaXNfY3VycmVudF91c2VyLAogICAgICAgICAgICAgIHJlYWxfbmFtZTogcmVzb3VyY2UucmVhbF9uYW1lLAogICAgICAgICAgICAgIGJpbzogcmVzb3VyY2UuYmlvLAogICAgICAgICAgICAgIHNob3J0QmlvOiByZXNvdXJjZS5zaG9ydF9iaW8sCiAgICAgICAgICAgICAgcG9wdWxhckJsb2dzOiByZXNvdXJjZS5wb3B1bGFyX2Jsb2dzLAogICAgICAgICAgICAgIGJsb2dDb3VudDogcmVzb3VyY2UuYmxvZ19jb3VudCwKICAgICAgICAgICAgICB3aWtpQ291bnQ6IHJlc291cmNlLndpa2lfY291bnQsCiAgICAgICAgICAgICAgY29tbWVudENvdW50OiByZXNvdXJjZS5jb21tZW50X2NvdW50LAogICAgICAgICAgICB9LAogICAgICAgICAgfSk7CiAgICAgICAgfSkKICAgICAgICAuY2F0Y2goKGVycm9yKSA9PiB7CiAgICAgICAgICBsb2dFeGNlcHRpb24oZXJyb3IpOwogICAgICAgIH0pOwogICAgfSwgU0hPV19UUklHR0VSX01TKTsKICB9CgogIGhhbmRsZU1vdXNlTGVhdmUoKSB7CiAgICB0aGlzLnByb3BzLmNsZWFyVGltZW91dHMoKTsKCiAgICBpZiAodGhpcy5pc0RlYnVnTW9kZSgpKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHRoaXMuc2V0U3RhdGUoeyBwb3B1cFByb2ZpbGU6IG51bGwgfSk7CiAgfQoKICByZW5kZXJFbnRyeUljb24oKSB7CiAgICBpZiAodGhpcy5pc0Jsb2coKSkgewogICAgICByZXR1cm4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSdmZWVkLWVudHJ5LWljb24nPgogICAgICAgICAgPEF2YXRhclBob3RvIGFjY291bnQ9e3RoaXMucHJvcHMuYXV0aG9yUHJvZmlsZS5hY2NvdW50fQogICAgICAgICAgICAgIHNyY1NldD17dGhpcy5wcm9wcy5hdXRob3JQcm9maWxlLnNyY1NldH0gLz4KICAgICAgICA8L2Rpdj4KICAgICAgKTsKICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9J2ZlZWQtZW50cnktaWNvbic+CiAgICAgICAgICA8S2liZWxhU3ltYm9sIHN5bWJvbE5hbWU9J3dpa2knIC8+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0nZmVlZC1lbnRyeS1pY29uLWNvbnRyaWJ1dG9yJz4KICAgICAgICAgICAgPEF2YXRhclBob3RvIGFjY291bnQ9e3RoaXMucHJvcHMuYXV0aG9yUHJvZmlsZS5hY2NvdW50fQogICAgICAgICAgICAgICAgc3JjU2V0PXt0aGlzLnByb3BzLmF1dGhvclByb2ZpbGUuc3JjU2V0fQogICAgICAgICAgICAgICAgYWRkaXRpb25hbENsYXNzPSdpcy1hdmF0YXItc21hbGwnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKTsKICAgIH0KICB9CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgb25Nb3VzZUVudGVyPXt0aGlzLmhhbmRsZU1vdXNlRW50ZXIuYmluZCh0aGlzKX0KICAgICAgICAgIG9uTW91c2VMZWF2ZT17dGhpcy5oYW5kbGVNb3VzZUxlYXZlLmJpbmQodGhpcyl9CiAgICAgICAgICBjbGFzc05hbWU9J3Byb2ZpbGVQb3B1cC1jb250YWluZXInPgogICAgICAgIHt0aGlzLnJlbmRlckVudHJ5SWNvbigpfQogICAgICAgIHsgdGhpcy5zdGF0ZS5wb3B1cFByb2ZpbGUgJiYKICAgICAgICAgIDxQcm9maWxlUG9wdXAKICAgICAgICAgICAgICBwcm9maWxlPXt0aGlzLnN0YXRlLnBvcHVwUHJvZmlsZX0KICAgICAgICAgICAgICBpc0xvd2VyU2lkZT17dGhpcy5zdGF0ZS5wb3B1cElzTG93ZXJTaWRlfQogICAgICAgICAgICAgIG9uTW91c2VMZWF2ZT17dGhpcy5oYW5kbGVNb3VzZUxlYXZlLmJpbmQodGhpcyl9IC8+CiAgICAgICAgfQogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9KTsK</text>
+      <register name="0" type="4">
+        <text>avatar_photo_urls(size: :large)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW50cnlUeXBlOiBSZWFjdC5Qcm9wVHlwZXMub25lT2YoWyd3aWtpJywgJ2Jsb2cnXSkuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtpYmVsYUNsaWVudCBmcm9tICcuLi8uLi91dGlscy9raScK</text>
+        <text encoding="base64">ICBkZWYgdG9fbWluaW11bV9wcm9maWxlX3Byb3BzCiAgICB7CiAgICAgIGFjY291bnQ6IGFjY291bnQsCiAgICAgIHNyY1NldDogYXZhdGFyX3Bob3RvX3VybHMoc2l6ZTogOmxhcmdlKSwKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiZXRhRmVhdHVyZTogdHJ1ZSwK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmV0YUZlYXR1cmU6IFJlYWN0LlByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5iZXRhRmVhdHVyZSkgeyAvLyBKdXN0IFJFTU9WRSB0aGlzIGJsb2NrIG9uIHB1Ymxpc2hpbmcgdGhpcyBmZWF0dXJlCiAgICAgIHJldHVybiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9J3Byb2ZpbGVQb3B1cC1jb250YWluZXInPgogICAgICAgICAge3RoaXMucmVuZGVyRW50cnlJY29uKCl9CiAgICAgICAgPC9kaXY+CiAgICAgICk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICBkZWYgdG9fbWluaW11bV9wcm9maWxlX3Byb3BzCiAgICB7CiAgICAgIGFjY291bnQ6IGFjY291bnQsCiAgICAgIHNyY1NldDogYXZhdGFyX3Bob3RvX3VybHMoc2l6ZTogOmxhcmdlKSwKICAgIH0KICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnNpZ25VcC1jb250YWluZXIgewogIAp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRob3JQcm9maWxlOiBhdXRob3IuZGVjb3JhdGUudG9fbWluaW11bV9wcm9maWxlX3Byb3BzLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Jwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgcHJvZmlsZVNoYXBlIGZyb20gJy4uL3NoYXJlZC9wcm9maWxlL3NoYXBlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAlYnIKICAgICAgICAlYnIKICAgICAgICA9IHQoJ3ZpZXdzLnJlZ2lzdHJhdGlvbnMuYm9keTInKQogICAgICAgICVicgogICAgICAgID0gdCgndmlld3MucmVnaXN0cmF0aW9ucy5ib2R5MycpCgo=</text>
+        <text encoding="base64">aW1wb3J0IHNyY1NldFNoYXBlIGZyb20gJy4vc3JjX3NldF9zaGFwZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJXRyCiAgICAgICAgICAgICAgJXRkCiAgICAgICAgICAgICAgICA9IHQoJ3ZpZXdzLnJlZ2lzdHJhdGlvbnMuYWRkaXRpb25hbCcpCg==</text>
+        <text encoding="base64">ICAgICAgYXV0aG9yUHJvZmlsZTogUmVhY3QuUHJvcFR5cGVzLnNoYXBlKHByb2ZpbGVTaGFwZS5taW5pbXVtKS5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
