@@ -116,12 +116,6 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.js" timestamp="1488248787418">
-        <mark key="'" line="373" column="0" />
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="22" />
-        <mark key="." line="311" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_balloon_tail.scss" timestamp="1489398650885">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="2" />
@@ -472,8 +466,8 @@
         <mark key="^" line="31" column="11" />
         <mark key="." line="31" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" timestamp="1489400799744">
-        <mark key="'" line="88" column="0" />
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" timestamp="1489423793014">
+        <mark key="'" line="87" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="48" column="38" />
@@ -642,11 +636,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" timestamp="1489178891077">
+      <file name="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" timestamp="1489423854935">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_blog_author.scss" timestamp="1486562668716">
         <mark key="'" line="26" column="0" />
@@ -674,12 +669,12 @@
         <mark key="^" line="128" column="14" />
         <mark key="." line="128" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/entry_like/entry_like.jsx" timestamp="1489187989496">
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_like/entry_like.jsx" timestamp="1489423833285">
         <mark key="'" line="17" column="16" />
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="80" column="37" />
-        <mark key="^" line="80" column="37" />
-        <mark key="." line="80" column="37" />
+        <mark key="[" line="82" column="38" />
+        <mark key="]" line="82" column="57" />
+        <mark key="^" line="81" column="37" />
+        <mark key="." line="81" column="37" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" timestamp="1487490669356">
         <mark key="'" line="43" column="11" />
@@ -808,17 +803,17 @@
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" timestamp="1489422770891">
         <mark key="'" line="89" column="40" />
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" timestamp="1489399995223">
-        <mark key="'" line="53" column="3" />
-        <mark key="[" line="58" column="48" />
-        <mark key="]" line="58" column="62" />
-        <mark key="^" line="58" column="62" />
-        <mark key="." line="58" column="62" />
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" timestamp="1489423737116">
+        <mark key="'" line="19" column="12" />
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="12" />
+        <mark key="^" line="67" column="12" />
+        <mark key="." line="67" column="12" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" timestamp="1489399588488">
         <mark key="[" line="94" column="33" />
@@ -934,9 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" />
-      <jump line="91" column="12" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" />
-      <jump line="53" column="15" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
       <jump line="106" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" />
       <jump line="34" column="0" filename="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" />
       <jump line="70" column="4" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
@@ -1015,7 +1007,6 @@
       <jump line="53" column="24" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="27" column="2" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="49" column="60" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="93" column="57" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="80" column="2" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
@@ -1034,10 +1025,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="53" column="3" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="88" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="19" column="12" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
+      <jump line="93" column="29" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBiaW5kaW5nLnByeQo=</text>
+      <register name="&quot;" type="4">
+        <text>avatarPhotoClassName</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiA=</text>
@@ -1045,8 +1040,8 @@
       <register name="/" type="4">
         <text>batch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICYuaXMtcHJvZmlsZVBvcHVwLWF2YXRhclNtYWxsIHsKICAgICAgJjo6YmVmb3JlLAogICAgICAmOjphZnRlciB7CiAgICAgICAgcmlnaHQ6IDkyJTsKICAgICAgfQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>avatarPhotoClassName</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSBiaW5kaW5nLnByeQo=</text>
