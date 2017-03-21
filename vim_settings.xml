@@ -280,8 +280,8 @@
         <mark key="." line="10" column="5" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1487580412513">
-        <mark key="'" line="186" column="0" />
+      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1490084702304">
+        <mark key="'" line="190" column="0" />
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="26" />
         <mark key="^" line="18" column="26" />
@@ -705,12 +705,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1488215355934">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="44" column="8" />
-        <mark key="^" line="44" column="8" />
-        <mark key="." line="44" column="8" />
+      <file name="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" timestamp="1490084746374">
+        <mark key="'" line="44" column="28" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/default.rb" timestamp="1483818896372">
         <mark key="[" line="6" column="0" />
@@ -974,11 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
-      <jump line="125" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
-      <jump line="8" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
-      <jump line="44" column="3" filename="$USER_HOME$/Work/kibela/app/views/externals/root.html.haml" />
-      <jump line="151" column="8" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="158" column="6" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="106" column="6" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="111" column="23" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
@@ -1074,6 +1069,11 @@
       <jump line="31" column="36" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="89" column="11" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="40" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile_popup.scss" />
+      <jump line="43" column="28" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="88" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="142" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="190" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
