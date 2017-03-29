@@ -172,11 +172,10 @@
         <mark key="^" line="2" column="121" />
         <mark key="." line="2" column="121" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/generics/edit.html.haml" timestamp="1487488146202">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="24" column="46" />
+      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/generics/edit.html.haml" timestamp="1490827894047">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/bastion/chartio.rb" timestamp="1484082386848">
         <mark key="[" line="1" column="13" />
@@ -470,6 +469,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/slacks/edit.html.haml" timestamp="1490827896977">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/config/database.yml" timestamp="1485192862916">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="44" column="27" />
@@ -495,6 +499,11 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/generics/new.html.haml" timestamp="1490827889216">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_price_table.html.haml" timestamp="1490093466224">
         <mark key="'" line="20" column="8" />
@@ -975,6 +984,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/slacks/new.html.haml" timestamp="1490827900536">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/setting/avatar_setting_box.jsx" timestamp="1484932278194">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="33" />
@@ -999,8 +1013,8 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" timestamp="1490788038921">
-        <mark key="'" line="53" column="15" />
+      <file name="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" timestamp="1490828232355">
+        <mark key="'" line="77" column="20" />
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
@@ -1040,7 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Work/kibela/client/components/feed/feed_entry_icon.jsx" />
       <jump line="69" column="12" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="71" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="96" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
@@ -1140,10 +1153,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/Work/kibela/app/views/home/index.html.haml" />
       <jump line="30" column="3" filename="$USER_HOME$/Work/kibela/app/helpers/board_helper.rb" />
       <jump line="152" column="16" filename="$USER_HOME$/Work/kibela/app/controllers/wikis_controller.rb" />
+      <jump line="77" column="20" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sbGVjdGlvbjogQm9hcmQub3JkZXJfYnlfbmFtZSwK</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -1152,34 +1166,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBpZiBAYm9hcmRzLndpdGhvdXRfZGVmYXVsdC5wcmVzZW50Pwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sbGVjdGlvbjogQm9hcmQub3JkZXJfYnlfbmFtZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sbGVjdGlvbjogQm9hcmQub3JkZXJfYnlfbmFtZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sbGVjdGlvbjogQm9hcmQub3JkZXJfYnlfbmFtZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjb3BlIDpnZW5lcmFsX2JvYXJkLCAtPiB7CiAgICAgICMgVE9ETzogcmVtb3ZlIHRoaXMgc2NvcGUgYWZ0ZXIgImhvbWUiIGJvYXJkIG1pZ3JhdGlvbgogICAgICBqb2lucyg8PH4iU1FMIikud2hlcmUoZW50cnlfYm9hcmRzOiB7IGJvYXJkYWJsZV9pZDogbmlsIH0pCiAgICAgICAgbGVmdCBvdXRlciBqb2luIGVudHJ5X2JvYXJkcwogICAgICAgICAgb24gZW50cnlfYm9hcmRzLmJvYXJkYWJsZV9pZCA9ICN7dGFibGVfbmFtZX0uaWQgYW5kIGVudHJ5X2JvYXJkcy5ib2FyZGFibGVfdHlwZSA9ICN7Y29ubmVjdGlvbi5xdW90ZShuYW1lKX0KICAgICAgU1FMCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sbGVjdGlvbjogQm9hcmQub3JkZXJfYnlfbmFtZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiB0ZWFtX2lkIHdpbGwgYmUgcmVtb3ZlZCB3aGVuIHdlIGltcGxlbWVudCAnYm9hcmRzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmZlZWQtYWN0aW9ucwogIC0gdW5sZXNzIEJvYXJkLndpdGhvdXRfZGVmYXVsdC5leGlzdHM/CiAgICA9IHJlYWN0X2NvbXBvbmVudCg6Qm9hcmRDcmVhdGVCdXR0b25Db250YWluZXIsIGluaXRpYWxJc0ludHJvZHVjdGlvbkNvbXBsZXRlZDogY3VycmVudF91c2VyLmJvYXJkX2NyZWF0aW5nX2NvbXBsZXRlZD8pCg==</text>
+        <text encoding="base64">ICAgIHNjb3BlIDpnZW5lcmFsX2JvYXJkLCAtPiB7CiAgICAgICMgVE9ETzogcmVtb3ZlIHRoaXMgc2NvcGUgYWZ0ZXIgImhvbWUiIGJvYXJkIG1pZ3JhdGlvbgogICAgICBqb2lucyg8PH4iU1FMIikud2hlcmUoZW50cnlfYm9hcmRzOiB7IGJvYXJkYWJsZV9pZDogbmlsIH0pCiAgICAgICAgbGVmdCBvdXRlciBqb2luIGVudHJ5X2JvYXJkcwogICAgICAgICAgb24gZW50cnlfYm9hcmRzLmJvYXJkYWJsZV9pZCA9ICN7dGFibGVfbmFtZX0uaWQgYW5kIGVudHJ5X2JvYXJkcy5ib2FyZGFibGVfdHlwZSA9ICN7Y29ubmVjdGlvbi5xdW90ZShuYW1lKX0KICAgICAgU1FMCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiB0ZWFtX2lkIHdpbGwgYmUgcmVtb3ZlZCB3aGVuIHdlIGltcGxlbWVudCAnYm9hcmRzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmZlZWQtYWN0aW9ucwogID0gcmVhY3RfY29tcG9uZW50KDpCb2FyZENyZWF0ZUJ1dHRvbkNvbnRhaW5lciwgaW5pdGlhbElzSW50cm9kdWN0aW9uQ29tcGxldGVkOiBjdXJyZW50X3VzZXIuYm9hcmRfY3JlYXRpbmdfY29tcGxldGVkPykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGlmIEBib2FyZHMuYmxhbms/Cg==</text>
+        <text encoding="base64">LmZlZWQtYWN0aW9ucwogIC0gdW5sZXNzIEJvYXJkLndpdGhvdXRfZGVmYXVsdC5leGlzdHM/CiAgICA9IHJlYWN0X2NvbXBvbmVudCg6Qm9hcmRDcmVhdGVCdXR0b25Db250YWluZXIsIGluaXRpYWxJc0ludHJvZHVjdGlvbkNvbXBsZXRlZDogY3VycmVudF91c2VyLmJvYXJkX2NyZWF0aW5nX2NvbXBsZXRlZD8pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
