@@ -190,12 +190,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" timestamp="1490821396092">
-        <mark key="'" line="121" column="18" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="142" column="152" />
+      <file name="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" timestamp="1490899945936">
+        <mark key="'" line="93" column="11" />
+        <mark key="[" line="141" column="124" />
+        <mark key="]" line="141" column="122" />
+        <mark key="." line="141" column="122" />
+        <mark key="^" line="141" column="122" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/landing.js" timestamp="1488212079752">
         <mark key="'" line="28" column="17" />
@@ -1054,8 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="12" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="71" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="96" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="29" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="41" column="32" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
@@ -1154,6 +1152,8 @@
       <jump line="30" column="3" filename="$USER_HOME$/Work/kibela/app/helpers/board_helper.rb" />
       <jump line="152" column="16" filename="$USER_HOME$/Work/kibela/app/controllers/wikis_controller.rb" />
       <jump line="77" column="20" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
+      <jump line="233" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
+      <jump line="93" column="11" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
