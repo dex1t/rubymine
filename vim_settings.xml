@@ -15,7 +15,7 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/lib/trend.rb" timestamp="1490939400044">
+      <file name="$USER_HOME$/Work/kibela/lib/trend.rb" timestamp="1490942511372">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -977,6 +977,11 @@
         <mark key="]" line="15" column="11" />
         <mark key="^" line="25" column="30" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/config/environments/development.rb" timestamp="1490792088353">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/wiki_template_editor/wiki_template_editor_container.spec.jsx" timestamp="1490822161199">
         <mark key="[" line="16" column="0" />
