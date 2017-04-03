@@ -1054,14 +1054,14 @@
         <mark key="^" line="2" column="66" />
         <mark key="." line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/team.rb" timestamp="1488249418612">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/models/team.rb" timestamp="1491251343310">
+        <mark key="'" line="12" column="79" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/lib/tasks/oneshot.rake" timestamp="1491250193449">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="41" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Work/kibela/lib/tasks/oneshot.rake" timestamp="1491251901784">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" timestamp="1490093124399">
         <mark key="'" line="33" column="8" />
@@ -1124,7 +1124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="32" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="42" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="73" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="50" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
@@ -1224,10 +1223,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="58" column="15" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
+      <jump line="12" column="79" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjICdNaWdyYXRlIGhlYWRub3RlJwo=</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -1239,31 +1239,31 @@
         <text encoding="base64">ICAgICAgbGV0KDpoZWFkbm90ZSkgeyBGRy5jcmVhdGUoOmhlYWRub3RlKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjICdNaWdyYXRlIGhlYWRub3RlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCg6Ym9hcmQpIHsgRkcuY3JlYXRlKDpib2FyZCwgaXNfZGVmYXVsdDogdHJ1ZSkgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCg6Ym9hcmQpIHsgRkcuY3JlYXRlKDpib2FyZCwgaXNfZGVmYXVsdDogdHJ1ZSkgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
