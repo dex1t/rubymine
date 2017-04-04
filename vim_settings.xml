@@ -821,12 +821,12 @@
         <mark key="^" line="40" column="161" />
         <mark key="." line="40" column="161" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" timestamp="1491293370341">
+      <file name="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" timestamp="1491296243954">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="108" column="7" />
-        <mark key="]" line="109" column="3" />
-        <mark key="." line="109" column="3" />
-        <mark key="^" line="109" column="3" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="108" column="3" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/analysis_db.rake" timestamp="1483824400140">
         <mark key="'" line="105" column="4" />
@@ -1200,22 +1200,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgY29udGV4dCAnd2l0aG91dCBjb250cmlidXRvcnMnIGRvCiAgICAgIAogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgdXAKICAgIGNoYW5nZV9jb2x1bW4gOmhlYWRub3RlcywgOmJvYXJkX2lkLCA6aW50ZWdlciwgaW5kZXg6IHRydWUsIG51bGw6IGZhbHNlCiAgZW5kCgogIGRlZiBkb3duCiAgICBjaGFuZ2VfY29sdW1uIDpoZWFkbm90ZXMsIDpib2FyZF9pZCwgOmludGVnZXIsIGluZGV4OiB0cnVlLCBudWxsOiB0cnVlCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAogICAgY29udGV4dCAnd2l0aG91dCBjb250cmlidXRvcnMnIGRvCiAgICAgIAogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBkZWYgdXAKICAgIGNoYW5nZV9jb2x1bW4gOmhlYWRub3RlcywgOmJvYXJkX2lkLCA6aW50ZWdlciwgaW5kZXg6IHRydWUsIG51bGw6IGZhbHNlCiAgZW5kCgogIGRlZiBkb3duCiAgICBjaGFuZ2VfY29sdW1uIDpoZWFkbm90ZXMsIDpib2FyZF9pZCwgOmludGVnZXIsIGluZGV4OiB0cnVlLCBudWxsOiB0cnVlCiAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoXy5pc051bGwodGhpcy5wcm9wcy5jdXJyZW50Qm9hcmRJZCkpIHsKICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gUm91dGVzLnJvb3RQYXRoKCk7CiAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
