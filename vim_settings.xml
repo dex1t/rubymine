@@ -198,11 +198,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" timestamp="1491302509059">
-        <mark key="[" line="179" column="19" />
-        <mark key="]" line="179" column="52" />
-        <mark key="." line="179" column="52" />
-        <mark key="^" line="179" column="52" />
+      <file name="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" timestamp="1491308703073">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="131" column="9" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/landing.js" timestamp="1488212079752">
         <mark key="'" line="28" column="17" />
@@ -332,12 +332,8 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1491307689654">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="53" column="19" />
-        <mark key="." line="53" column="19" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1491309077676">
+        <mark key="'" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -458,7 +454,7 @@
         <mark key="^" line="64" column="84" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1491300078111">
+      <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1491309454484">
         <mark key="'" line="22" column="11" />
         <mark key="[" line="68" column="61" />
         <mark key="]" line="68" column="73" />
@@ -1160,10 +1156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, boards: board</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -1172,31 +1168,31 @@
         <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBzaXplKDEycHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9saW5lLWhlaWdodDogMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL0BpbmNsdWRlIHNpemUoMTRweCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9saW5lLWhlaWdodDogMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy9oZWlnaHQ6IDE0cHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxNHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAkd2hpdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDE7CiAgICAgIGxpIHsKICAgICAgICBtYXJnaW4tcmlnaHQ6IC0ycHg7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwoKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAkd2hpdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9kaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">ICAgICAgY29udHJpYnV0b3JBdmF0YXJzLm1hcCgoYXZhdGFycywgaW5kZXgpID0+IHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPEltYWdlIHNyY1NldD17YXZhdGFyc30KICAgICAgICAgICAgICAgICBzcmM9e2F2YXRhcnNbJzF4J119CiAgICAgICAgICAgICAgICAgYWx0PSdhdmF0YXIgcGhvdG8nCiAgICAgICAgICAgICAgICAga2V5PXtgYm9hcmQtY29udHJpYnV0b3ItJHtpbmRleH1gfQogICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGF2YXRhciBpcy1hdmF0YXItc21hbGxgfS8+CiAgICAgICAgKTsKICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSdib2FyZExpc3QtY29udHJpYnV0b3JzJz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
