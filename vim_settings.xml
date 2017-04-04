@@ -20,11 +20,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/headnotes/_headnote.html.haml" timestamp="1491242110457">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="36" />
+      <file name="$USER_HOME$/Work/kibela/app/views/headnotes/_headnote.html.haml" timestamp="1491289299608">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -257,17 +257,24 @@
         <mark key="." line="55" column="39" />
         <mark key="^" line="55" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/headnotes_controller.rb" timestamp="1491242263278">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/Work/kibela/app/controllers/headnotes_controller.rb" timestamp="1491289416019">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/biography.jsx" timestamp="1486506043773">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/spec/controllers/headnotes_controller_spec.rb" timestamp="1491289917640">
+        <mark key="'" line="42" column="70" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="86" column="9" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/locales/en.yml" timestamp="1490119552371">
         <mark key="[" line="801" column="61" />
@@ -1129,9 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="73" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="50" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="43" column="1" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
       <jump line="18" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="56" column="32" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
@@ -1229,43 +1233,46 @@
       <jump line="58" column="15" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="12" column="79" filename="$USER_HOME$/Work/kibela/app/models/team.rb" />
+      <jump line="136" column="0" filename="$USER_HOME$/Work/kibela/spec/controllers/headnotes_controller_spec.rb" />
+      <jump line="29" column="10" filename="$USER_HOME$/Work/kibela/spec/controllers/headnotes_controller_spec.rb" />
+      <jump line="42" column="70" filename="$USER_HOME$/Work/kibela/spec/controllers/headnotes_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdF9ib2FyZCA9IEJvYXJkLmRlZmF1bHQKICAgICAgcmV0dXJuIHVubGVzcyBkZWZhdWx0X2JvYXJkICMgVE9ETzogcmVtb3ZlIHRoaXMgYWZ0ZXIgdGhlIG1pZ3JhdGlvbgoK</text>
+        <text encoding="base64">ICAgICAgc3ViamVjdCB7ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>xhr :patch, :update, headnote: { content: 'changed content' }</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4gOmhlYWRub3RlcywgOmJvYXJkX2lkLCA6aW50ZWdlciwgaW5kZXg6IHRydWUsIG51bGw6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgaXQgJ3JhaXNlIFJlY29yZE5vdEZvdW5kJyBkbwogICAgICAgIGV4cGVjdCB7IGdldCA6ZWRpdCB9LnRvIHJhaXNlX2Vycm9yKEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdF9ib2FyZCA9IEJvYXJkLmRlZmF1bHQKICAgICAgcmV0dXJuIHVubGVzcyBkZWZhdWx0X2JvYXJkICMgVE9ETzogcmVtb3ZlIHRoaXMgYWZ0ZXIgdGhlIG1pZ3JhdGlvbgoK</text>
+        <text encoding="base64">ICAgICAgc3ViamVjdCB7ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIFRPRE86IFJlbW92ZSBhZnRlciBtaWdyYXRpb24KICAgIGNvbnRleHQgJ3dpdGhvdXQgZGVmYXVsdCBib2FyZCcgZG8KICAgICAgbGV0ISg6aGVhZG5vdGUpIHsgRkcuY3JlYXRlKDpoZWFkbm90ZSwgYm9hcmRfaWQ6IG5pbCkgfQoKICAgICAgaXQgJ3JldHVybnMgaGVhZG5vdGUnIGRvCiAgICAgICAgZXhwZWN0KEhlYWRub3RlLmZvcl9ob21lKS50byBlcSBoZWFkbm90ZQogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIFRPRE86IFJlbW92ZSBmaW5kX2J5KGJvYXJkOiBuaWwpIGFmdGVyIG1pZ3JhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIFRPRE86IFJlbW92ZSBmaW5kX2J5KGJvYXJkOiBuaWwpIGFmdGVyIG1pZ3JhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dCAnd2hlbiBpdCBzdWNjZWVkcycgZG8KICAgICAgICBjb250ZXh0ICd3aGVuIGhlYWRub3RlIGZvciBob21lIGV4aXN0cycgZG8KICAgICAgICAgIGxldCEoOmhlYWRub3RlKSB7IEZHLmNyZWF0ZSg6aGVhZG5vdGUsIGJvYXJkOiBuaWwpIH0KCiAgICAgICAgICBpdCAnZG9lcyBub3QgY3JlYXRlIGEgbmV3IGhlYWRub3RlIGFuZCBjaGFuZ2VzIGhlYWRub3RlIGNvbnRlbnQnIGRvCiAgICAgICAgICAgIGV4cGVjdCB7IHN1YmplY3QgfS50byBjaGFuZ2UgeyBIZWFkbm90ZS5jb3VudCB9LmJ5KDApLmFuZCBjaGFuZ2UgeyBoZWFkbm90ZS5yZWxvYWQuY29udGVudCB9LnRvKCdjaGFuZ2VkIGNvbnRlbnQnKQogICAgICAgICAgZW5kCgogICAgICAgICAgaXQgJ3JlbmRlcnMganNvbiB3aXRoIDIwMCcgZG8KICAgICAgICAgICAgc3ViamVjdAogICAgICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGJlX29rCiAgICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiBoZWFkbm90ZS5pZCwgY29udGVudDogJ2NoYW5nZWQgY29udGVudCcpCiAgICAgICAgICBlbmQKICAgICAgICBlbmQKCiAgICAgICAgY29udGV4dCAnd2hlbiBoZWFkbm90ZSBmb3IgaG9tZSBkb2VzIG5vdCBleGlzdCcgZG8KICAgICAgICAgIGl0ICdjcmVhdGVzIGEgbmV3IGhlYWRub3RlJyBkbwogICAgICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdlIHsgSGVhZG5vdGUuY291bnQgfS5ieSgxKQogICAgICAgICAgZW5kCgogICAgICAgICAgaXQgJ3JlbmRlcnMganNvbiB3aXRoIDIwMCcgZG8KICAgICAgICAgICAgc3ViamVjdAogICAgICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGJlX29rCiAgICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50byBiZV9qc29uX2FzKGlkOiBIZWFkbm90ZS5sYXN0LmlkLCBjb250ZW50OiAnY2hhbmdlZCBjb250ZW50JykKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIGNvbnRleHQgJ3doZW4gaXQgZmFpbHMnIGRvCiAgICAgICAgYmVmb3JlIHsgYWxsb3dfYW55X2luc3RhbmNlX29mKGRlc2NyaWJlZF9jbGFzcykudG8gcmVjZWl2ZSg6dXBkYXRlX3BhcmFtcykgeyB7IGludmFsaWRfcGFyYW06ICdpbnZhbGlkJyB9IH0gfQoKICAgICAgICBpdCAncmFpc2VzIGVycm9yJyBkbwogICAgICAgICAgZXhwZWN0IHsgc3ViamVjdCB9LnRvIHJhaXNlX2Vycm9yKEFjdGl2ZVJlY29yZDo6VW5rbm93bkF0dHJpYnV0ZUVycm9yKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgZXhwZWN0KGFzc2lnbnMoOmhlYWRub3RlKSkudG8gZXEgaGVhZG5vdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXNjICdNaWdyYXRlIGhlYWRub3RlJwo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dCAnd2hlbiBoZWFkbm90ZSBmb3IgaG9tZSBleGlzdHMnIGRvCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
