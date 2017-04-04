@@ -808,12 +808,12 @@
         <mark key="^" line="40" column="161" />
         <mark key="." line="40" column="161" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" timestamp="1491312039754">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="114" column="40" />
-        <mark key="]" line="114" column="39" />
-        <mark key="." line="114" column="39" />
-        <mark key="^" line="114" column="39" />
+      <file name="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" timestamp="1491337539323">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="137" column="76" />
+        <mark key="]" line="137" column="75" />
+        <mark key="." line="137" column="75" />
+        <mark key="^" line="137" column="75" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/analysis_db.rake" timestamp="1483824400140">
         <mark key="'" line="105" column="4" />
@@ -1057,9 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
-      <jump line="43" column="31" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
       <jump line="70" column="32" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment_list_container.jsx" />
       <jump line="62" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment_list_container.jsx" />
       <jump line="102" column="10" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
@@ -1157,10 +1154,13 @@
       <jump line="39" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="102" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
       <jump line="67" column="21" filename="$USER_HOME$/Work/kibela/app/models/board.rb" />
+      <jump line="127" column="6" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="122" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="72" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
@@ -1172,31 +1172,31 @@
         <text encoding="base64">ICAgICAgYm9hcmQud2lraXMgPDwgdG9kYXkzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy9saW5lLWhlaWdodDogMTsK</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgLy9saW5lLWhlaWdodDogMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy9oZWlnaHQ6IDE0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9saW5lLWhlaWdodDogMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy9oZWlnaHQ6IDE0cHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDE7CiAgICAgIGxpIHsKICAgICAgICBtYXJnaW4tcmlnaHQ6IC0ycHg7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwoKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDE7CiAgICAgIGxpIHsKICAgICAgICBtYXJnaW4tcmlnaHQ6IC0ycHg7CiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwoKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udHJpYnV0b3JBdmF0YXJzLm1hcCgoYXZhdGFycywgaW5kZXgpID0+IHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPEltYWdlIHNyY1NldD17YXZhdGFyc30KICAgICAgICAgICAgICAgICBzcmM9e2F2YXRhcnNbJzF4J119CiAgICAgICAgICAgICAgICAgYWx0PSdhdmF0YXIgcGhvdG8nCiAgICAgICAgICAgICAgICAga2V5PXtgYm9hcmQtY29udHJpYnV0b3ItJHtpbmRleH1gfQogICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGF2YXRhciBpcy1hdmF0YXItc21hbGxgfS8+CiAgICAgICAgKTsKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSdib2FyZExpc3QtY29udHJpYnV0b3JzJz4K</text>
+        <text encoding="base64">ICAgICAgY29udHJpYnV0b3JBdmF0YXJzLm1hcCgoYXZhdGFycywgaW5kZXgpID0+IHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPEltYWdlIHNyY1NldD17YXZhdGFyc30KICAgICAgICAgICAgICAgICBzcmM9e2F2YXRhcnNbJzF4J119CiAgICAgICAgICAgICAgICAgYWx0PSdhdmF0YXIgcGhvdG8nCiAgICAgICAgICAgICAgICAga2V5PXtgYm9hcmQtY29udHJpYnV0b3ItJHtpbmRleH1gfQogICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGF2YXRhciBpcy1hdmF0YXItc21hbGxgfS8+CiAgICAgICAgKTsKICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
