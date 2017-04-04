@@ -465,12 +465,12 @@
         <mark key="^" line="64" column="84" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1491293274577">
+      <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1491297630048">
         <mark key="'" line="22" column="11" />
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="23" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="34" />
+        <mark key="." line="65" column="34" />
+        <mark key="^" line="65" column="34" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_wiki_template.json.jbuilder" timestamp="1490792333243">
         <mark key="[" line="15" column="20" />
@@ -821,12 +821,12 @@
         <mark key="^" line="40" column="161" />
         <mark key="." line="40" column="161" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" timestamp="1491296243954">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="108" column="3" />
+      <file name="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" timestamp="1491299086477">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="133" column="21" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/analysis_db.rake" timestamp="1483824400140">
         <mark key="'" line="105" column="4" />
@@ -1082,15 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="16" filename="$USER_HOME$/Work/kibela/client/components/entry_like/entry_like.jsx" />
-      <jump line="32" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
-      <jump line="21" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
-      <jump line="53" column="3" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
-      <jump line="88" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="19" column="12" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
-      <jump line="93" column="29" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
-      <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo_with_popup.jsx" />
       <jump line="84" column="13" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/client/components/wiki_tree/wiki_tree_container.jsx" />
       <jump line="58" column="17" filename="$USER_HOME$/Work/kibela/client/components/wiki_tree/wiki_feed.jsx" />
@@ -1182,46 +1173,55 @@
       <jump line="22" column="11" filename="$USER_HOME$/Work/kibela/app/models/board.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="40" column="55" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="108" column="4" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="60" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="124" column="29" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
+      <jump line="100" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>xhr :patch, :update, headnote: { content: 'changed content' }</text>
+        <text>, boards: board</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBoZWFkbm90ZSA9IEhlYWRub3RlLmZvcl9ob21lIHx8IEJvYXJkLmRlZmF1bHQuYnVpbGRfaGVhZG5vdGUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRyaWJ1dG9yLmRlY29yYXRlLmF2YXRhcl9waG90b191cmxzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgJzF4JzogY29udHJpYnV0b3IuZGVjb3JhdGUuCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgY29udGV4dCAnd2l0aG91dCBjb250cmlidXRvcnMnIGRvCiAgICAgIAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgdXAKICAgIGNoYW5nZV9jb2x1bW4gOmhlYWRub3RlcywgOmJvYXJkX2lkLCA6aW50ZWdlciwgaW5kZXg6IHRydWUsIG51bGw6IGZhbHNlCiAgZW5kCgogIGRlZiBkb3duCiAgICBjaGFuZ2VfY29sdW1uIDpoZWFkbm90ZXMsIDpib2FyZF9pZCwgOmludGVnZXIsIGluZGV4OiB0cnVlLCBudWxsOiB0cnVlCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgYm9hcmQud2lraXMgPDwgd2lraV8xCiAgICAgIGJvYXJkLndpa2lzIDw8IHdpa2lfMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoXy5pc051bGwodGhpcy5wcm9wcy5jdXJyZW50Qm9hcmRJZCkpIHsKICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gUm91dGVzLnJvb3RQYXRoKCk7CiAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGJvYXJkMi50b2RheV9jb250cmlidXRvcl9hdmF0YXJfdXJscykudG8gYmVfbmlsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
