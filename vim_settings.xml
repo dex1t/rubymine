@@ -198,11 +198,11 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" timestamp="1491301078119">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="130" column="10" />
+      <file name="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" timestamp="1491302509059">
+        <mark key="[" line="179" column="19" />
+        <mark key="]" line="179" column="52" />
+        <mark key="." line="179" column="52" />
+        <mark key="^" line="179" column="52" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/landing.js" timestamp="1488212079752">
         <mark key="'" line="28" column="17" />
@@ -332,12 +332,11 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1487585453568">
-        <mark key="'" line="88" column="18" />
-        <mark key="[" line="63" column="23" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1491302742554">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -1057,8 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
-      <jump line="92" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
       <jump line="21" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
       <jump line="54" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_list/comment.jsx" />
@@ -1157,10 +1154,12 @@
       <jump line="132" column="18" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="129" column="0" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
       <jump line="130" column="8" filename="$USER_HOME$/Work/kibela/client/components/board_list/board_list_container.jsx" />
+      <jump line="39" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
+      <jump line="102" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>, boards: board</text>
@@ -1172,31 +1171,31 @@
         <text encoding="base64">aW1wb3J0IEltYWdlIGZyb20gJ3JlYWN0LXNpbXBsZS1pbWFnZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc3JjU2V0PXthdmF0YXJzfQogICAgICAgICAgICAgIHNyYz17YXZhdGFyc1snMXgnXX0KICAgICAgICAgICAgICBhbHQ9J2F2YXRhciBwaG90bycKICAgICAgICAgICAgICBjbGFzc05hbWU9e2BhdmF0YXJgfS8+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnJlbmRlckJvYXJkQ29udHJpYnV0b3JzKGJvYXJkLnRvZGF5Q29udHJpYnV0b3JBdmF0YXJzKX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8SW1hZ2Ugc3JjU2V0PXthdmF0YXJzfQogICAgICAgICAgICAgICAgIHNyYz17YXZhdGFyc1snMXgnXX0KICAgICAgICAgICAgICAgICBhbHQ9J2F2YXRhciBwaG90bycKICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BhdmF0YXJgfS8+CiAgICAgICAgPC9saT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc3JjU2V0PXthdmF0YXJzfQogICAgICAgICAgICAgIHNyYz17YXZhdGFyc1snMXgnXX0KICAgICAgICAgICAgICBhbHQ9J2F2YXRhciBwaG90bycKICAgICAgICAgICAgICBjbGFzc05hbWU9e2BhdmF0YXJgfS8+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEltYWdlIGZyb20gJ3JlYWN0LXNpbXBsZS1pbWFnZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnJlbmRlckJvYXJkQ29udHJpYnV0b3JzKGJvYXJkLnRvZGF5Q29udHJpYnV0b3JBdmF0YXJzKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEF2YXRhclBob3RvIGZyb20gJy4uL3NoYXJlZC9hdmF0YXJfcGhvdG8nOwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8QXZhdGFyUGhvdG8gYWNjb3VudC8+Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
