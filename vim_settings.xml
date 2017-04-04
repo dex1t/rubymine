@@ -332,11 +332,12 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1491302742554">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1491307689654">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="19" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -1159,7 +1160,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, boards: board</text>
@@ -1168,34 +1169,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEltYWdlIGZyb20gJ3JlYWN0LXNpbXBsZS1pbWFnZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBzaXplKDEycHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL0BpbmNsdWRlIHNpemUoMTRweCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8SW1hZ2Ugc3JjU2V0PXthdmF0YXJzfQogICAgICAgICAgICAgICAgIHNyYz17YXZhdGFyc1snMXgnXX0KICAgICAgICAgICAgICAgICBhbHQ9J2F2YXRhciBwaG90bycKICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BhdmF0YXJgfS8+CiAgICAgICAgPC9saT4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxNHB4Owo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc3JjU2V0PXthdmF0YXJzfQogICAgICAgICAgICAgIHNyYz17YXZhdGFyc1snMXgnXX0KICAgICAgICAgICAgICBhbHQ9J2F2YXRhciBwaG90bycKICAgICAgICAgICAgICBjbGFzc05hbWU9e2BhdmF0YXJgfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAkd2hpdGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnJlbmRlckJvYXJkQ29udHJpYnV0b3JzKGJvYXJkLnRvZGF5Q29udHJpYnV0b3JBdmF0YXJzKX0K</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAkd2hpdGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgLy9kaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTAwJTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
