@@ -346,6 +346,9 @@
         <mark key="^" line="161" column="15" />
         <mark key="." line="161" column="15" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_price_table.scss" timestamp="1490090237345">
+        <mark key="'" line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
         <mark key="[" line="34" column="15" />
@@ -435,6 +438,9 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" timestamp="1488332772303">
+        <mark key="'" line="85" column="16" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/lib/kibela_logger.rb" timestamp="1483090025126">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="10" column="3" />
@@ -465,11 +471,11 @@
         <mark key="^" line="64" column="84" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1491384094094">
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="66" column="33" />
+      <file name="$USER_HOME$/Work/kibela/app/models/board.rb" timestamp="1491492958917">
+        <mark key="[" line="67" column="113" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+        <mark key="^" line="68" column="3" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_wiki_template.json.jbuilder" timestamp="1490792333243">
         <mark key="[" line="15" column="20" />
@@ -545,6 +551,9 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="48" column="21" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/models/notification.rb" timestamp="1491493283105">
+        <mark key="'" line="27" column="6" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1487539372641">
         <mark key="'" line="169" column="0" />
         <mark key="[" line="35" column="5" />
@@ -610,6 +619,9 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/wiki_tree/wiki_tree_container.jsx" timestamp="1489426334427">
+        <mark key="'" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/wikis/index.html.haml" timestamp="1490822763547">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="27" />
@@ -621,6 +633,9 @@
         <mark key="]" line="3" column="63" />
         <mark key="^" line="3" column="63" />
         <mark key="." line="3" column="63" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/app/helpers/mailer_helper.rb" timestamp="1487782057974">
+        <mark key="'" line="34" column="2" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/outgoing_webhook/outgoing_webhook_dropdown_button.jsx" timestamp="1487335174901">
         <mark key="[" line="10" column="0" />
@@ -963,11 +978,17 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="53" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/models/team.rb" timestamp="1491251343310">
+        <mark key="'" line="12" column="79" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/oneshot.rake" timestamp="1491251901784">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" timestamp="1490093124399">
+        <mark key="'" line="33" column="8" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/mixpanel_append_params.js" timestamp="1487783284200">
         <mark key="[" line="16" column="0" />
@@ -1045,6 +1066,12 @@
         <mark key="^" line="40" column="127" />
         <mark key="." line="40" column="127" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_tooltip.scss" timestamp="1487586080413">
+        <mark key="'" line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1487776790977">
+        <mark key="'" line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_trend.scss" timestamp="1486562655947">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="60" column="22" />
@@ -1060,7 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="6" filename="$USER_HOME$/Work/kibela/app/decorators/shared/postable_decorator.rb" />
       <jump line="87" column="25" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
       <jump line="2" column="65" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
       <jump line="31" column="36" filename="$USER_HOME$/Work/kibela/client/components/shared/profile/popup.jsx" />
@@ -1160,10 +1186,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" />
       <jump line="109" column="34" filename="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" />
       <jump line="236" column="2" filename="$USER_HOME$/Work/kibela/app/models/user.rb" />
+      <jump line="27" column="6" filename="$USER_HOME$/Work/kibela/app/models/notification.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5saW1pdChsaW1pdCkK</text>
+        <text encoding="base64">ICAgIGJsb2cgPSBibG9ncy5yZWNlbnQucHVibGlzaGVkLndoZXJlKCdjcmVhdGVkX2F0ID49ID8nLCAxLmRheS5hZ28pCg==</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
@@ -1172,7 +1199,7 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYm9hcmQud2lraXMgPDwgdG9kYXkzCg==</text>
+        <text encoding="base64">ICAgIGJsb2cgPSBibG9ncy5yZWNlbnQucHVibGlzaGVkLndoZXJlKCdjcmVhdGVkX2F0ID49ID8nLCAxLmRheS5hZ28pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5saW1pdChsaW1pdCkK</text>
