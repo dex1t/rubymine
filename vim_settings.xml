@@ -133,7 +133,8 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/user.rb" timestamp="1487322639423">
+      <file name="$USER_HOME$/Work/kibela/app/models/user.rb" timestamp="1491488654405">
+        <mark key="'" line="236" column="2" />
         <mark key="[" line="150" column="4" />
         <mark key="]" line="150" column="7" />
         <mark key="." line="150" column="7" />
@@ -529,9 +530,6 @@
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/home_controller.rb" timestamp="1491289995261">
-        <mark key="^" line="4" column="64" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" timestamp="1490821971681">
         <mark key="'" line="54" column="0" />
@@ -1062,7 +1060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="10" filename="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" />
       <jump line="44" column="6" filename="$USER_HOME$/Work/kibela/app/decorators/shared/postable_decorator.rb" />
       <jump line="87" column="25" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
       <jump line="2" column="65" filename="$USER_HOME$/Work/kibela/client/components/wiki_authors.jsx" />
@@ -1162,6 +1159,7 @@
       <jump line="136" column="2" filename="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" />
       <jump line="58" column="0" filename="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" />
       <jump line="109" column="34" filename="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" />
+      <jump line="236" column="2" filename="$USER_HOME$/Work/kibela/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
