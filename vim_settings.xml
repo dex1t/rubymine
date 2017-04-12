@@ -115,12 +115,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1491933409347">
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1491993025053">
         <mark key="'" line="104" column="6" />
-        <mark key="[" line="119" column="28" />
-        <mark key="]" line="119" column="26" />
-        <mark key="." line="119" column="26" />
-        <mark key="^" line="119" column="26" />
+        <mark key="[" line="109" column="28" />
+        <mark key="]" line="109" column="27" />
+        <mark key="." line="109" column="27" />
+        <mark key="^" line="109" column="27" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" timestamp="1489183028618">
         <mark key="[" line="27" column="21" />
@@ -346,11 +346,11 @@
       <file name="$USER_HOME$/Work/kibela/app/helpers/mailer_helper.rb" timestamp="1487782057974">
         <mark key="'" line="34" column="2" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1491925799990">
-        <mark key="[" line="414" column="26" />
-        <mark key="]" line="414" column="21" />
-        <mark key="^" line="414" column="21" />
-        <mark key="." line="414" column="21" />
+      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1491993067700">
+        <mark key="[" line="423" column="31" />
+        <mark key="]" line="423" column="30" />
+        <mark key="^" line="423" column="30" />
+        <mark key="." line="423" column="30" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/setting/_setting.scss" timestamp="1491928642578">
         <mark key="[" line="64" column="4" />
@@ -1255,7 +1255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpbi1ib3R0b206IGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
@@ -1267,31 +1267,31 @@
         <text encoding="base64">ICAgICAgICAlc3BhbnsgY2xhc3M6IHJlYWNoX3VzZXJfbGltaXQgPyAnYmlsbGluZy1zdGF0dXMtcmVhY2hMaW1pdCcgOiAnJyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpbi1ib3R0b206IGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA+IHVsIHsKICAgICAgICAgIGxpIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAuaGVscC1saW5rIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPiB1bAo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpbi1ib3R0b206IGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICA+IHVsIHsKICAgICAgICAgIGxpIAogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSByZWFjaF91c2VyX2xpbWl0PyA9IEB1c2VyX2NvdW50ID49IEBwbGFuLnVzZXJfbGltaXQK</text>
+        <text encoding="base64">ICAgICAgPiB1bAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxcmVtOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICVwLndhcm5pbmcK</text>
+        <text encoding="base64">ICAgICAgcCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSByZWFjaF91c2VyX2xpbWl0PyA9IEB1c2VyX2NvdW50ID49IEBwbGFuLnVzZXJfbGltaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
