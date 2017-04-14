@@ -1065,8 +1065,8 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" timestamp="1490093124399">
-        <mark key="'" line="33" column="8" />
+      <file name="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" timestamp="1492145751054">
+        <mark key="'" line="68" column="2" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/tab.jsx" timestamp="1491926832837">
         <mark key="[" line="14" column="35" />
@@ -1174,7 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="7" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="41" column="37" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="58" column="15" filename="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" />
@@ -1274,6 +1273,7 @@
       <jump line="327" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="33" column="14" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="92" column="9" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="68" column="2" filename="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
