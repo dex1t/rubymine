@@ -152,12 +152,11 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1492165294183">
-        <mark key="'" line="65" column="5" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="51" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="51" />
+      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1492203822186">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="165" column="14" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_bio.jsx" timestamp="1486329881267">
         <mark key="'" line="30" column="2" />
@@ -1178,11 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
-      <jump line="108" column="4" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
-      <jump line="60" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
-      <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
       <jump line="124" column="29" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
       <jump line="100" column="0" filename="$USER_HOME$/Work/kibela/spec/models/board_spec.rb" />
@@ -1264,7 +1258,6 @@
       <jump line="92" column="9" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="68" column="2" filename="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" />
       <jump line="121" column="20" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
-      <jump line="143" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="53" column="30" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="276" column="11" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
@@ -1278,13 +1271,19 @@
       <jump line="173" column="69" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="84" column="49" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="67" column="5" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="65" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="127" column="17" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="72" column="34" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="135" column="25" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="143" column="27" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="42" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpc1NlY3VyaXR5Q29kZUhlbHBPcGVuOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAgICA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPgogICAgICAgIHt0aGlzLnN0YXRlLnZhbGlkYXRpb25FcnJvcn0KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.mount('#card-element')</text>
+        <text>.bind(this)</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -1293,31 +1292,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpc1NlY3VyaXR5Q29kZUhlbHBPcGVuOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwogICAgICAgICAgLy8gZGlzcGxheUVycm9yLnRleHRDb250ZW50ID0gZXZlbnQuZXJyb3IubWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPgogICAgICAgIHt0aGlzLnN0YXRlLnZhbGlkYXRpb25FcnJvcn0KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGRpc3BsYXlFcnJvci50ZXh0Q29udGVudCA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjYXJkRXJyb3IiPjwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YXIgZGlzcGxheUVycm9yID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NhcmQtZXJyb3JzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWRlZCBzdHJpcGUuanMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdC5vbmxvYWQgPSAoKSA9PiB7CiAgICB9Owo=</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9zdHJpcGUuY29tL2RvY3MvY3VzdG9tLWZvcm0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0cmlwZS5qcyBpcyBsb2FkZWQnKTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzU3RyaXBlUmVhZHk6IHRydWUgfSk7CiAgICAgIG9uQ29tcGxldGUoKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jYXJkLm9uKCdjaGFuZ2UnLCBmdW5jdGlvbihldmVudCkgewogICAgICB9LmJpbmQodGhpcykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoc2NyaXB0KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZXJyb3IpIHsKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBlcnJvcjogZXZlbnQuZXJyb3IubWVzc2FnZSB9KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IGVycm9yOiBudWxsIH0pOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdC5hc3luYyA9IHRydWU7Cg==</text>
+        <text encoding="base64">CiAgICB0aGlzLnN0cmlwZSA9IG51bGw7CiAgICB0aGlzLmNhcmQgPSBudWxsOwogICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
