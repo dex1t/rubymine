@@ -152,6 +152,9 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1492145273564">
+        <mark key="'" line="92" column="9" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_bio.jsx" timestamp="1486329881267">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="3" column="31" />
@@ -278,11 +281,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/locales/en.yml" timestamp="1492027937834">
-        <mark key="[" line="739" column="53" />
-        <mark key="]" line="739" column="38" />
-        <mark key="." line="739" column="38" />
-        <mark key="^" line="739" column="38" />
+      <file name="$USER_HOME$/Work/kibela/config/locales/en.yml" timestamp="1492144593075">
+        <mark key="[" line="433" column="53" />
+        <mark key="]" line="433" column="45" />
+        <mark key="." line="433" column="45" />
+        <mark key="^" line="433" column="45" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/decorators/blog_decorator.rb" timestamp="1486143780010">
         <mark key="[" line="1" column="7" />
@@ -342,6 +345,9 @@
         <mark key="]" line="18" column="26" />
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" timestamp="1492144652715">
+        <mark key="'" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
@@ -668,11 +674,11 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1492022935671">
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="396" column="0" />
-        <mark key="^" line="431" column="57" />
-        <mark key="." line="396" column="0" />
+      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1492144548178">
+        <mark key="[" line="401" column="63" />
+        <mark key="]" line="401" column="63" />
+        <mark key="^" line="401" column="63" />
+        <mark key="." line="401" column="63" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1490821011532">
         <mark key="'" line="396" column="32" />
@@ -889,11 +895,11 @@
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/plans/upgrade.html.haml" timestamp="1492029226783">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/plans/upgrade.html.haml" timestamp="1492144275484">
+        <mark key="[" line="15" column="92" />
+        <mark key="]" line="15" column="49" />
+        <mark key="^" line="15" column="49" />
+        <mark key="." line="15" column="49" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/analysis_db.rake" timestamp="1483824400140">
         <mark key="'" line="105" column="4" />
@@ -1168,8 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Work/kibela/app/models/board.rb" />
-      <jump line="46" column="15" filename="$USER_HOME$/Work/kibela/client/components/headnote_editor/headnote_editor_container.jsx" />
       <jump line="26" column="7" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="41" column="37" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" />
@@ -1268,10 +1272,12 @@
       <jump line="250" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="85" column="19" filename="$USER_HOME$/Work/kibela/app/views/teams/billing/status/index.html.haml" />
       <jump line="327" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
+      <jump line="33" column="14" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
+      <jump line="92" column="9" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICVocgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50X2Ftb3VudDog6Kmm55So5pyf6ZaT57WC5LqG5b6M44Gu44GK5pSv5omV44Gv44CB5pyI6aGN44Gn44Om44O844K244O85pWww5cle2Ftb3VudF93aXRoX3RheH3lhoYgKOeojui+vOOBvykK</text>
       </register>
       <register name="-" type="4">
         <text>.price-table</text>
@@ -1280,7 +1286,7 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAua3MtY2hlY2sgewogICAgICAgICAgZmlsbDogJGdyZWVuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50X2Ftb3VudDog6Kmm55So5pyf6ZaT57WC5LqG5b6M44Gu44GK5pSv5omV44Gv44CB5pyI6aGN44Gn44Om44O844K244O85pWww5cle2Ftb3VudF93aXRoX3RheH3lhoYgKOeojui+vOOBvykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICVocgo=</text>
