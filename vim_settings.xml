@@ -84,13 +84,6 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1492212541229">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="141" column="22" />
-        <mark key="]" line="146" column="21" />
-        <mark key="." line="146" column="21" />
-        <mark key="^" line="146" column="21" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_bio.jsx" timestamp="1486329881267">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="3" column="31" />
@@ -124,11 +117,9 @@
         <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1492212279431">
-        <mark key="'" line="275" column="11" />
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
-        <mark key="^" line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" timestamp="1489183028618">
         <mark key="[" line="27" column="21" />
@@ -1011,12 +1002,6 @@
         <mark key="]" line="136" column="46" />
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/plans/upgrade.html.haml" timestamp="1492144275484">
-        <mark key="[" line="15" column="92" />
-        <mark key="]" line="15" column="49" />
-        <mark key="^" line="15" column="49" />
-        <mark key="." line="15" column="49" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/sign_up/sign_up_form_container.jsx" timestamp="1487781017037">
         <mark key="[" line="115" column="6" />
