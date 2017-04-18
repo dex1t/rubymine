@@ -9,8 +9,8 @@
   <template name="imm" value="{(() =&gt; {&#10;$template$&#10;})()}" description="immediate function for jsx" toReformat="false" toShortenFQNames="true">
     <variable name="template" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_EXPRESSION" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
@@ -51,15 +51,15 @@
   </template>
   <template name="st" value="this.state.$END$" description="state" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JS_EXPRESSION" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="pr" value="this.props.$END$" description="props" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JS_EXPRESSION" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
