@@ -185,6 +185,7 @@
       <file name="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" timestamp="1492156609586">
         <mark key="'" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/jobs/concerns/importers/resource_creatable.rb" timestamp="1492598584620" />
       <file name="$USER_HOME$/Work/kibela/app/models/entry_board.rb" timestamp="1491383741334">
         <mark key="[" line="1" column="71" />
         <mark key="]" line="1" column="57" />
@@ -706,6 +707,7 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/jobs/importers/qiita_team_importer_job.rb" timestamp="1492598362061" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="58" />
