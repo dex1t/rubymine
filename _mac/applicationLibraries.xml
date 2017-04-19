@@ -5216,6 +5216,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/kibela-importer-d70448f2b18f/lib" />
       </SOURCES>
     </library>
+    <library name="kibela-importer (v0.1.0@e4fa02, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/kibela-importer-e4fa02953012/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/kibela-importer-e4fa02953012/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/kibela-importer-e4fa02953012/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/kibela-importer-e4fa02953012/lib" />
+      </SOURCES>
+    </library>
     <library name="kibela-importer (v0.1.0@fb72de, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/kibela-importer-fb72de43d1d4/bin" />

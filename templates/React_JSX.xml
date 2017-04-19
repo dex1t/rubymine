@@ -16,7 +16,7 @@
   </template>
   <template name="con" value="constructor(props) {&#10;  super(props);&#10;  this.state = {&#10;    $END$&#10;  };&#10;}" description="react constructor" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JSX_HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}" description="componentDidMount" toReformat="false" toShortenFQNames="true">
