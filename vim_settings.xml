@@ -451,6 +451,12 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/spec/client/components/registration/registration_form_user.spec.jsx" timestamp="1492620672411">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" timestamp="1489399588488">
         <mark key="[" line="94" column="33" />
         <mark key="]" line="95" column="25" />
@@ -1133,7 +1139,13 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" timestamp="1492619110444" />
+      <file name="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" timestamp="1492620713272">
+        <mark key="'" line="116" column="25" />
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/blogs_controller.rb" timestamp="1491242008373">
         <mark key="'" line="58" column="15" />
         <mark key="[" line="9" column="35" />
@@ -1162,7 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="250" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="85" column="19" filename="$USER_HOME$/Work/kibela/app/views/teams/billing/status/index.html.haml" />
       <jump line="327" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
@@ -1262,6 +1273,7 @@
       <jump line="133" column="2" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="254" column="7" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
       <jump line="43" column="35" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
+      <jump line="116" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
