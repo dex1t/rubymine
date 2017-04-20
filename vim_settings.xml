@@ -888,6 +888,7 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/jobs/notifications/clean_notification_job.rb" timestamp="1492707043114" />
       <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/plans/index.html.haml" timestamp="1492027375732">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="17" />
