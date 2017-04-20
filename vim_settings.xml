@@ -418,6 +418,7 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/entry/share_menu_container.jsx" timestamp="1492718902593" />
       <file name="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" timestamp="1490792603592">
         <mark key="'" line="31" column="9" />
         <mark key="[" line="18" column="0" />
@@ -863,8 +864,8 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1492612967220">
-        <mark key="'" line="396" column="32" />
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1492718935739">
+        <mark key="'" line="411" column="17" />
         <mark key="[" line="408" column="0" />
         <mark key="]" line="412" column="60" />
         <mark key="." line="43" column="49" />
@@ -1175,7 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="85" column="19" filename="$USER_HOME$/Work/kibela/app/views/teams/billing/status/index.html.haml" />
       <jump line="327" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="33" column="14" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
@@ -1275,6 +1275,7 @@
       <jump line="254" column="7" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
       <jump line="43" column="35" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="116" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
+      <jump line="411" column="17" filename="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
