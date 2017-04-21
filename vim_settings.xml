@@ -143,12 +143,12 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1492763028614">
+      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1492765081798">
         <mark key="'" line="195" column="11" />
-        <mark key="[" line="194" column="41" />
-        <mark key="]" line="194" column="40" />
-        <mark key="^" line="194" column="40" />
-        <mark key="." line="194" column="40" />
+        <mark key="[" line="146" column="33" />
+        <mark key="]" line="146" column="31" />
+        <mark key="^" line="146" column="31" />
+        <mark key="." line="146" column="31" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_bio.jsx" timestamp="1486329881267">
         <mark key="'" line="30" column="2" />
@@ -490,8 +490,8 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" timestamp="1492617063995">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" timestamp="1492765073985">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="23" />
         <mark key="." line="40" column="0" />
@@ -1179,7 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="2" filename="$USER_HOME$/Work/kibela/otama/app/controllers/otama/teams_controller.rb" />
       <jump line="121" column="20" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="53" column="30" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
@@ -1279,6 +1278,7 @@
       <jump line="357" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="157" column="1" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="7" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
+      <jump line="42" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
