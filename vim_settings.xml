@@ -252,9 +252,6 @@
       </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/teams/billing/methods_controller.rb" timestamp="1493036521650">
         <mark key="[" line="29" column="45" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/home/all.html.haml" timestamp="1490822688488">
         <mark key="[" line="11" column="13" />
@@ -541,11 +538,12 @@
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1493034796301">
-        <mark key="[" line="197" column="57" />
-        <mark key="]" line="197" column="50" />
-        <mark key="^" line="197" column="50" />
-        <mark key="." line="197" column="50" />
+      <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1493039414129">
+        <mark key="'" line="143" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="196" column="50" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/registration/registration_form_user.spec.jsx" timestamp="1492620672411">
         <mark key="[" line="11" column="34" />
@@ -774,7 +772,7 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/lib/api_exceptions.rb" timestamp="1490790818810">
+      <file name="$USER_HOME$/Work/kibela/lib/api_exceptions.rb" timestamp="1493039388456">
         <mark key="'" line="39" column="7" />
         <mark key="[" line="28" column="5" />
         <mark key="]" line="32" column="26" />
@@ -831,11 +829,11 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="97" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/locales/en.json" timestamp="1493034010897">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/Work/kibela/client/locales/en.json" timestamp="1493039436642">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/sign_up/users_controller.rb" timestamp="1487776886181">
         <mark key="[" line="27" column="51" />
@@ -1223,8 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
-      <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="163" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="182" column="6" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="37" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
@@ -1323,10 +1319,12 @@
       <jump line="238" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="51" column="30" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="236" column="14" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
+      <jump line="138" column="13" filename="$USER_HOME$/Work/kibela/client/locales/ja.json" />
+      <jump line="144" column="16" filename="$USER_HOME$/Work/kibela/client/locales/ja.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn5pSv5omV44GE5pa55rOV44GM55m76Yyy44GV44KM44G+44GX44GfJwo=</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uIjogIkV4cGlyYXRpb24gKE1vbnRoL1llYXIpIiwK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1338,31 +1336,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaWxsaW5nRm9ybS1lcnJvck1lc3NhZ2UiPgogICAgICAgICAgICB7dGhpcy5zdGF0ZS5zdHJpcGVFcnJvck1lc3NhZ2V9CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn5pSv5omV44GE5pa55rOV44GM55m76Yyy44GV44KM44G+44GX44GfJwo=</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uIjogIkV4cGlyYXRpb24gKE1vbnRoL1llYXIpIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkIDUwMAo=</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uIjogIuacieWKueacn+mZkCAo5pyIL+W5tCkiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2Nzcy1saW50OmRpc2FibGUgU2VsZWN0b3JGb3JtYXQK</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn5pSv5omV44GE5pa55rOV44GM55m76Yyy44GV44KM44G+44GX44GfJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNweDsK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkIDUwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogM3B4Owo=</text>
+        <text encoding="base64">ICAgICAgLy8gc2Nzcy1saW50OmRpc2FibGUgU2VsZWN0b3JGb3JtYXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RyaXBlRXJyb3JNZXNzYWdlOiBudWxsIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogM3B4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPgogICAgICAgICAge3RoaXMuc3RhdGUuZXJyb3JNZXNzYWdlfQogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RyaXBlRXJyb3JNZXNzYWdlOiBudWxsIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
