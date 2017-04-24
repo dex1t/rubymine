@@ -788,11 +788,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1493021454865">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="306" column="7" />
-        <mark key="]" line="311" column="0" />
-        <mark key="." line="311" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1493022894998">
+        <mark key="'" line="300" column="25" />
+        <mark key="[" line="316" column="17" />
+        <mark key="]" line="317" column="23" />
+        <mark key="^" line="317" column="23" />
+        <mark key="." line="317" column="23" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/setting/_avatar_setting_box.scss" timestamp="1492618124973">
         <mark key="[" line="40" column="16" />
@@ -1018,12 +1019,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1493021421227">
+      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1493022816503">
         <mark key="'" line="147" column="38" />
-        <mark key="[" line="149" column="11" />
-        <mark key="]" line="149" column="45" />
-        <mark key="^" line="149" column="45" />
-        <mark key="." line="149" column="45" />
+        <mark key="[" line="147" column="33" />
+        <mark key="]" line="147" column="32" />
+        <mark key="^" line="147" column="32" />
+        <mark key="." line="147" column="32" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
@@ -1178,7 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="30" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="276" column="11" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="198" column="16" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
@@ -1278,10 +1278,11 @@
       <jump line="155" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
       <jump line="147" column="38" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="300" column="25" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>formc</text>
@@ -1293,31 +1294,31 @@
         <text encoding="base64">ICAgIG91dGxpbmU6IDA7CiAgICBib3JkZXItY29sb3I6ICRmb3JtRm9jdXM7CiAgICBiYWNrZ3JvdW5kOiAkd2hpdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAmLWZvcm0gewogICAgJi1icmFuZEljb24gewogICAgICBtYXJnaW46IDRweDsKICAgIH0KCiAgICAmLXJvdyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIHBhZGRpbmc6IDEwcHggMDsKCiAgICAgIGgzIHsKICAgICAgICBtYXJnaW46IGF1dG8gMDsKICAgICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4OwogICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzTmFtZT0iYmlsbGluZy1mb3JtLWJyYW5kSWNvbiIKICAgICAgICAgICAgIGFsdD0ibWFzdGVyY2FyZCIKICAgICAgICAgICAgIHdpZHRoPSI0MHB4IgogICAgICAgICAgICAgaGVpZ2h0PSI0MHB4IgogICAgICAgICAgICAgc3JjPSIvaW1hZ2VzL2NyZWRpdF9jYXJkL21hc3RlcmNhcmQuc3ZnIi8+CiAgICAgICAgPGltZyBjbGFzc05hbWU9ImJpbGxpbmctZm9ybS1icmFuZEljb24iCiAgICAgICAgICAgICBhbHQ9InZpc2EiCiAgICAgICAgICAgICB3aWR0aD0iNDFweCIKICAgICAgICAgICAgIGhlaWdodD0iNDFweCIKICAgICAgICAgICAgIHNyYz0iL2ltYWdlcy9jcmVkaXRfY2FyZC92aXNhLnN2ZyIvPgogICAgICAgIDxpbWcgY2xhc3NOYW1lPSJiaWxsaW5nLWZvcm0tYnJhbmRJY29uIgogICAgICAgICAgICAgYWx0PSJhbWVyaWNhbiBleHByZXNzIgogICAgICAgICAgICAgd2lkdGg9IjI3cHgiCiAgICAgICAgICAgICBoZWlnaHQ9IjQwcHgiCiAgICAgICAgICAgICBzcmM9Ii9pbWFnZXMvY3JlZGl0X2NhcmQvYW1leC5zdmciLz4K</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL0BpbmNsdWRlIGlucHV0RmllbGRGb2N1czsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAkd2hpdGU7Cg==</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQtZGVmYXVsdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAmLWZvcm0gewogICAgJi1icmFuZEljb24gewogICAgICBtYXJnaW46IDRweDsKICAgIH0KCiAgICAmLXJvdyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIHBhZGRpbmc6IDEwcHggMDsKCiAgICAgIGgzIHsKICAgICAgICBtYXJnaW46IGF1dG8gMDsKICAgICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4OwogICAgICB9CiAgICB9CgogICAgJi1jdmNNb2RhbCB7CiAgICAgIHBhZGRpbmc6IDIwcHg7CiAgICAgIG1heC13aWR0aDogNDAwcHg7CgogICAgICBwICsgcCB7CiAgICAgICAgbWFyZ2luLXRvcDogNXB4OwogICAgICB9CiAgICB9CgogICAgJi1jYW5jZWxCdXR0b24uYnV0dG9uIHsKICAgICAgbWFyZ2luLWxlZnQ6IDIwcHg7CiAgICB9CiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9J3NpZ25VcC1mb3JtLXBhc3N3b3JkQ29uZmlybWF0aW9uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9J3NpZ25VcC1mb3JtLXBhc3N3b3JkJwo=</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQtZGVmYXVsdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
