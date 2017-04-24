@@ -37,6 +37,9 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.js" timestamp="1493036226636">
+        <mark key="[" line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_bio.jsx" timestamp="1486329881267">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="3" column="31" />
@@ -247,6 +250,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/teams/billing/methods_controller.rb" timestamp="1493036521650">
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/home/all.html.haml" timestamp="1490822688488">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="28" />
@@ -450,12 +459,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1493031552462">
-        <mark key="'" line="238" column="0" />
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="357" column="39" />
-        <mark key="." line="357" column="0" />
-        <mark key="^" line="331" column="25" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1493035827545">
+        <mark key="'" line="236" column="14" />
+        <mark key="[" line="308" column="12" />
+        <mark key="]" line="227" column="25" />
+        <mark key="." line="227" column="25" />
+        <mark key="^" line="227" column="25" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/feed/_entry.html.haml" timestamp="1487757526489">
         <mark key="[" line="2" column="61" />
@@ -532,6 +541,12 @@
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1493034796301">
+        <mark key="[" line="197" column="57" />
+        <mark key="]" line="197" column="50" />
+        <mark key="^" line="197" column="50" />
+        <mark key="." line="197" column="50" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/registration/registration_form_user.spec.jsx" timestamp="1492620672411">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="14" column="32" />
@@ -550,12 +565,12 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1493031209936">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="208" column="28" />
-        <mark key="]" line="208" column="27" />
-        <mark key="^" line="208" column="27" />
-        <mark key="." line="208" column="27" />
+      <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1493034994748">
+        <mark key="'" line="51" column="30" />
+        <mark key="[" line="189" column="36" />
+        <mark key="]" line="189" column="40" />
+        <mark key="^" line="189" column="40" />
+        <mark key="." line="189" column="40" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
@@ -652,6 +667,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/users/settings_controller.rb" timestamp="1493035271785" />
       <file name="$USER_HOME$/Work/kibela/app/views/shared/feed/_entry_with_snippet.html.haml" timestamp="1487763250996">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="7" />
@@ -815,11 +831,11 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="97" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/locales/en.json" timestamp="1492207581205">
-        <mark key="[" line="14" column="129" />
-        <mark key="]" line="14" column="127" />
-        <mark key="^" line="14" column="127" />
-        <mark key="." line="14" column="127" />
+      <file name="$USER_HOME$/Work/kibela/client/locales/en.json" timestamp="1493034010897">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/sign_up/users_controller.rb" timestamp="1487776886181">
         <mark key="[" line="27" column="51" />
@@ -1049,11 +1065,6 @@
         <mark key="^" line="14" column="57" />
         <mark key="." line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" timestamp="1492619087784">
-        <mark key="'" line="254" column="7" />
-        <mark key="[" line="241" column="0" />
-        <mark key="." line="241" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/wiki_templates/wikis/new.html.haml" timestamp="1487078053770">
         <mark key="[" line="2" column="106" />
         <mark key="]" line="2" column="129" />
@@ -1212,8 +1223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
-      <jump line="53" column="34" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="163" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
@@ -1312,10 +1321,12 @@
       <jump line="163" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="376" column="18" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="238" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
+      <jump line="51" column="30" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
+      <jump line="236" column="14" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2Nzcy1saW50OmRpc2FibGUgU2VsZWN0b3JGb3JtYXQK</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn5pSv5omV44GE5pa55rOV44GM55m76Yyy44GV44KM44G+44GX44GfJwo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1327,31 +1338,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaWxsaW5nRm9ybS1lcnJvck1lc3NhZ2UiPgogICAgICAgICAgICB7dGhpcy5zdGF0ZS5zdHJpcGVFcnJvck1lc3NhZ2V9CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2Nzcy1saW50OmRpc2FibGUgU2VsZWN0b3JGb3JtYXQK</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaFs6c3VjY2Vzc10gPSAn5pSv5omV44GE5pa55rOV44GM55m76Yyy44GV44KM44G+44GX44GfJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNweDsK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkIDUwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogM3B4Owo=</text>
+        <text encoding="base64">ICAgICAgLy8gc2Nzcy1saW50OmRpc2FibGUgU2VsZWN0b3JGb3JtYXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RyaXBlRXJyb3JNZXNzYWdlOiBudWxsIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogM3B4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPgogICAgICAgICAge3RoaXMuc3RhdGUuZXJyb3JNZXNzYWdlfQogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RyaXBlRXJyb3JNZXNzYWdlOiBudWxsIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJlcnJvciI+CiAgICAgICAgICAgIHt0aGlzLnN0YXRlLmVycm9yTWVzc2FnZX0KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIE5PVEU6IERvIG5vdCBhZGQgIm5hbWUiIGF0dHIgdG8gaW5wdXQgY29udHJvbHMgZm9yIHNlY3VyaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPgogICAgICAgICAge3RoaXMuc3RhdGUuZXJyb3JNZXNzYWdlfQogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
