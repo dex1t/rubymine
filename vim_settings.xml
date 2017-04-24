@@ -538,7 +538,7 @@
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1493039414129">
+      <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1493040186848">
         <mark key="'" line="143" column="16" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -828,12 +828,6 @@
         <mark key="]" line="97" column="13" />
         <mark key="^" line="97" column="13" />
         <mark key="." line="97" column="13" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/client/locales/en.json" timestamp="1493039436642">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/sign_up/users_controller.rb" timestamp="1487776886181">
         <mark key="[" line="27" column="51" />
