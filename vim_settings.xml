@@ -700,12 +700,6 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1493056111641">
-        <mark key="[" line="422" column="52" />
-        <mark key="]" line="422" column="54" />
-        <mark key="^" line="422" column="54" />
-        <mark key="." line="422" column="54" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1492718935739">
         <mark key="'" line="411" column="17" />
         <mark key="[" line="408" column="0" />
@@ -971,11 +965,8 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_login.scss" timestamp="1487067662405">
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="21" />
-        <mark key="^" line="53" column="21" />
-        <mark key="." line="53" column="21" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_login.scss" timestamp="1493151845256">
+        <mark key="[" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/layouts/editor.html.haml" timestamp="1487077993019">
         <mark key="[" line="10" column="86" />
@@ -1217,7 +1208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="14" column="119" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="388" column="2" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="15" column="3" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
@@ -1317,6 +1307,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="32" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="152" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
+      <jump line="686" column="42" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
