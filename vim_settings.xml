@@ -369,12 +369,6 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_entry_toc.scss" timestamp="1493196412930">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_board_list.scss" timestamp="1491311802755">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="161" column="15" />
@@ -1058,6 +1052,12 @@
         <mark key="]" line="62" column="71" />
         <mark key="." line="62" column="71" />
         <mark key="^" line="62" column="71" />
+      </file>
+      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493237547486">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
