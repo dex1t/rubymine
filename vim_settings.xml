@@ -591,6 +591,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493243800064">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="4" column="66" />
+        <mark key="^" line="4" column="66" />
+        <mark key="." line="4" column="66" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" timestamp="1490821971681">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="22" column="21" />
@@ -1053,11 +1059,10 @@
         <mark key="." line="62" column="71" />
         <mark key="^" line="62" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493241287210">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
+      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493243424562">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
@@ -1326,28 +1331,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGhvZ2UgPSAxOwpjb25zb2xlLmxvZyhob2dlKTsK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA+IHVsID4gdWwgPiBsaSB7CiAgICBwYWRkaW5nLWxlZnQ6IDFlbTsKICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIOODjeOCueODiOOBp+OBr+OBquOBj0wyMuOBruODjeOCrOODhuOCo+ODluODnuODvOOCuOODs+OCkgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDVweCAwOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGV0IGhvZ2UgPSAxOwpjb25zb2xlLmxvZyhob2dlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICA+IHVsID4gdWwgPiBsaSB7CiAgICBwYWRkaW5nLWxlZnQ6IDFlbTsKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIOODjeOCueODiOOBp+OBr+OBquOBj0wyMuOBruODjeOCrOODhuOCo+ODluODnuODvOOCuOODs+OCkgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDVweCAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
