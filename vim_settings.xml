@@ -304,9 +304,9 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493364360674">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="22" />
+      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493367665762">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -965,11 +965,11 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1493365420538">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1493368513253">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/hello.js" timestamp="1493360554488">
         <mark key="[" line="12" column="18" />
@@ -1077,6 +1077,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493371015536">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/board_list/board_list_container.spec.jsx" timestamp="1486657887803">
         <mark key="[" line="11" column="29" />
@@ -1239,7 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="2" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="15" column="3" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="380" column="87" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="86" column="6" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
@@ -1339,10 +1344,11 @@
       <jump line="152" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
       <jump line="686" column="42" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
       <jump line="18" column="22" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuYm90a2l0LmxvZygpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdob2doZW9naGVvaGdvZWhnb2Vob2doZW9naG9lJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>// eslint-disable global-require</text>
@@ -1351,34 +1357,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihjb250cm9sbGVyKSB7CiAgICB0aGlzLmNvbnRyb2xsZXIgPSBjb250cm9sbGVyOwogIH0KCiAgcnVuKCkgewogICAgdGhpcy5jb250cm9sbGVyLmhlYXJzKCdwaW5nJywgWydkaXJlY3RfbWVzc2FnZScsICdkaXJlY3RfbWVudGlvbicsICdtZW50aW9uJ10sIChib3QsIG1lc3NhZ2UpID0+IHsKICAgICAgYm90LnJlcGx5KG1lc3NhZ2UsICdwb25nJyk7CiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3QucmVwbHkobXNnLCAnc3RyZWFtIGlzIG5vdCBmb3VuZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuYm90a2l0LmxvZygpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdob2doZW9naGVvaGdvZWhnb2Vob2doZW9naG9lJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm90LnJlcGx5KG1lc3NhZ2UsICdwb25nJyk7Cg==</text>
+        <text encoding="base64">CgogICAgLy8gdGhpcy5jbGllbnQuc3RyZWFtKCdzdGF0dXNlcy9maWx0ZXInLCB7IHRyYWNrIH0sIChzdHJlYW0pID0+IHsKICAgIC8vICAgc3RyZWFtLm9uKCdkYXRhJywgKHR3ZWV0KSA9PiB7CiAgICAvLyAgICAgY29uc29sZS5sb2codHdlZXQpOwogICAgLy8gICAgIGNvbnN0IHVybCA9IGBodHRwOi8vdHdpdHRlci5jb20vJHt0d2VldC51c2VyLnNjcmVlbl9uYW1lfS9zdGF0dXMvJHt0d2VldC5pZF9zdHJ9YDsKICAgIC8vCiAgICAvLyAgICAgYm90LnJlcGx5KG1lc3NhZ2UsIHsKICAgIC8vICAgICAgIHRleHQ6IHVybCwKICAgIC8vICAgICAgIHVzZXJuYW1lOiAndHdpdHRlcicsCiAgICAvLyAgICAgICBpY29uX2Vtb2ppOiAnOmJpcmQ6JywKICAgIC8vICAgICB9KTsKICAgIC8vICAgfSk7CiAgICAvLwogICAgLy8gICBzdHJlYW0ub24oJ2Vycm9yJywgKGVycm9yKSA9PiB7CiAgICAvLyAgICAgYm90LmJvdGtpdC5sb2coJ0Vycm9yOiBUd2l0dGVyIFN0cmVhbSAnLCBlcnJvcik7CiAgICAvLyAgIH0pOwogICAgLy8gfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoYW5uZWw6IGNoYW5uZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICBib3Quc3RhcnRUeXBpbmcobXNnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3QucmVwbHkoCiAgICAgICAgICAgIAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3QucmVwbHkobXNnLCBgJHt0aGlzLnN0cmVhbS5wYXJhbXN9YCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0cmVhbS50cmFjayk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0cmVhbSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnN0cmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
