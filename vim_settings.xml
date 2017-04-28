@@ -15,11 +15,10 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493290444157">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="32" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493357100739">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -489,11 +488,11 @@
         <mark key="^" line="95" column="25" />
         <mark key="." line="95" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493290379958">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="4" />
+      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493357078323">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
@@ -1323,7 +1322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEJvdGtpdCBmcm9tICdib3RraXQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC8vIE5PVEU6IGh0dHBzOi8vZ2l0aHViLmNvbS9iaXRqb3VybmV5L2tpYmVsYS9wdWxsLzM2NzA=</text>
@@ -1335,31 +1334,31 @@
         <text encoding="base64">Y29udHJvbGxlci5zcGF3bih7CiAgdG9rZW46IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9UT0tFTiwKfSkuc3RhcnRSVE0oKGVycikgPT4gewogIGlmIChlcnIpIHsKICAgIHRocm93IG5ldyBFcnJvcihlcnIpOwogIH0KfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEJvdGtpdCBmcm9tICdib3RraXQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAndXNlIHN0cmljdCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcmVnaXN0ZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQm90a2l0ID0gcmVxdWlyZSgnYm90a2l0Jyk7Cgpjb25zdCBjb250cm9sbGVyID0gQm90a2l0LnNsYWNrYm90KHsKICBkZWJ1ZzogZmFsc2UsCn0pOwoKY29udHJvbGxlci5zcGF3bih7CiAgaWYgKGVycikgewogICAgdGhyb3cgbmV3IEVycm9yKGVycik7CiAgfQp9KTsKCi8vIHNheSBoaQpjb250cm9sbGVyLmhlYXJzKCdoaScsIFsnZGlyZWN0X21lc3NhZ2UnLCAnZGlyZWN0X21lbnRpb24nLCAnbWVudGlvbiddLCAoYm90LCBtZXNzYWdlKSA9PiB7CiAgYm90LnJlcGx5KG1lc3NhZ2UsICdoaScpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSkuc3RhcnRSVE0oKGVycikgPT4gewo=</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b2tlbjogcHJvY2Vzcy5lbnYuU0xBQ0tfQk9UX1RPS0VOLAo=</text>
+        <text encoding="base64">aW1wb3J0IEJvdGtpdCBmcm9tICdib3RraXQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcmVnaXN0ZXInKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
