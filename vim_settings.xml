@@ -285,6 +285,9 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/sparrowbot/README.md" timestamp="1493374235894">
+        <mark key="[" line="2" column="100" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/blogs.html.haml" timestamp="1485468285631">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="4" />
@@ -304,11 +307,11 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493367665762">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493374160522">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+        <mark key="." line="1" column="57" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" timestamp="1490821971681">
         <mark key="'" line="54" column="0" />
@@ -720,9 +723,6 @@
         <mark key="." line="433" column="45" />
         <mark key="^" line="433" column="45" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/notification_center/notifications.jsx" timestamp="1493057379995">
-        <mark key="'" line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/helpers/board_helper.rb" timestamp="1491513926099">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="10" column="70" />
@@ -742,9 +742,6 @@
         <mark key="]" line="18" column="26" />
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/jobs/importers/qiita_team_importer_job.rb" timestamp="1492610608327">
-        <mark key="'" line="12" column="73" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
@@ -1123,9 +1120,6 @@
         <mark key="]" line="2" column="129" />
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/dropdown_button.jsx" timestamp="1493057257424">
-        <mark key="'" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1491512712955">
         <mark key="'" line="197" column="2" />
