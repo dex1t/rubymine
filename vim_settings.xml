@@ -15,10 +15,12 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493357100739">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493360515042">
+        <mark key="'" line="18" column="22" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="19" column="70" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -302,9 +304,9 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493290008198">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
+      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493359557115">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -488,11 +490,11 @@
         <mark key="^" line="95" column="25" />
         <mark key="." line="95" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493357078323">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="12" />
+      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493360756715">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
@@ -687,6 +689,12 @@
         <mark key="]" line="52" column="21" />
         <mark key="^" line="52" column="21" />
         <mark key="." line="52" column="21" />
+      </file>
+      <file name="$USER_HOME$/Work/sparrowbot/Procfile" timestamp="1493359680285">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/methods/index.html.haml" timestamp="1493061859759">
         <mark key="[" line="8" column="107" />
@@ -952,10 +960,11 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/hello.js" timestamp="1493290322065">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/hello.js" timestamp="1493360554488">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Work/kibela/db/migrate/20170404063119_change_headnotes_board_id_to_null_false.rb" timestamp="1491291805085">
         <mark key="[" line="0" column="65" />
@@ -1219,7 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="119" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="388" column="2" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="15" column="3" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
       <jump line="380" column="87" filename="$USER_HOME$/Work/kibela/client/locales/en.json" />
@@ -1319,46 +1327,47 @@
       <jump line="32" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="152" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
       <jump line="686" column="42" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
+      <jump line="18" column="22" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIE5PVEU6IGh0dHBzOi8vZ2l0aHViLmNvbS9iaXRqb3VybmV5L2tpYmVsYS9wdWxsLzM2NzA=</text>
+        <text>// eslint-disable global-require</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29udHJvbGxlci5zcGF3bih7CiAgdG9rZW46IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9UT0tFTiwKfSkuc3RhcnRSVE0oKGVycikgPT4gewogIGlmIChlcnIpIHsKICAgIHRocm93IG5ldyBFcnJvcihlcnIpOwogIH0KfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAndXNlIHN0cmljdCcK</text>
+        <text encoding="base64">Y29uc3QgaG9nZSA9IHJlcXVpcmUoJ2ZzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIGVzbGludC1kaXNhYmxlIGdsb2JhbC1yZXF1aXJlLCBpbXBvcnQvbm8tZHluYW1pYy1yZXF1aXJlICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIGVzbGludC1kaXNhYmxlIGdsb2JhbC1yZXF1aXJlLCBpbXBvcnQvbm8tZHluYW1pYy1yZXF1aXJlICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
+        <text encoding="base64">ICBjb25zdCBob2dlID0gcmVxdWlyZSgnZnMnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEJvdGtpdCBmcm9tICdib3RraXQnOwo=</text>
+        <text encoding="base64">Y29uc3QgaG9nZSA9IHJlcXVpcmUoJ2ZzJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlIGdsb2JhbC1yZXF1aXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcmVnaXN0ZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
