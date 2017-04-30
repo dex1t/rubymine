@@ -15,12 +15,11 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493561594717">
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493562219118">
         <mark key="'" line="32" column="8" />
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="45" column="49" />
-        <mark key="^" line="45" column="49" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -1349,7 +1348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>// eslint-disable global-require</text>
@@ -1361,16 +1360,16 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgc3RhdGljIGNoZWNrRW52KCkgewogIH0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgc3RhdGljIGNoZWNrRW52KCkgewogIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1379,13 +1378,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgZnMucmVhZGRpclN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3NraWxscycpKS5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgIGNvbnN0IFNraWxsID0gcmVxdWlyZShgLi9za2lsbHMvJHtmaWxlfWApOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCiAgICAgIG5ldyBTa2lsbCh0aGlzLmNvbnRyb2xsZXIpLnJ1bigpOwogICAgfSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgogICAgZnMucmVhZGRpclN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3NraWxscycpKS5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgIGNvbnN0IFNraWxsID0gcmVxdWlyZShgLi9za2lsbHMvJHtmaWxlfWApOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCiAgICAgIG5ldyBTa2lsbCh0aGlzLmNvbnRyb2xsZXIpLnJ1bigpOwogICAgfSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5zZXR1cFdlYnNlcnZlcihwcm9jZXNzLmVudi5QT1JULCAoKSA9PiB7CiAgICAgIHRoaXMuY29udHJvbGxlci5jcmVhdGVPYXV0aEVuZHBvaW50cyh0aGlzLmNvbnRyb2xsZXIud2Vic2VydmVyLCAoZXJyLCByZXEsIHJlcykgPT4gewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIHJlcy5zdGF0dXMoNTAwKS5zZW5kKGBFUlJPUjogJHtlcnJ9YCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJlcy5zZW5kKCdTdWNjZXNzIScpOwogICAgICAgIH0KICAgICAgfSk7CiAgICAgIHRoaXMuY29udHJvbGxlci5jcmVhdGVXZWJob29rRW5kcG9pbnRzKHRoaXMuY29udHJvbGxlci53ZWJzZXJ2ZXIpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
