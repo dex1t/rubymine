@@ -664,12 +664,12 @@
         <mark key="^" line="64" column="35" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" timestamp="1493583456886">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" timestamp="1493585923825">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="41" column="29" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/wiki_templates/edit.html.haml" timestamp="1487078032514">
         <mark key="[" line="2" column="98" />
@@ -986,6 +986,12 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/Work/sparrowbot/.eslintrc.json" timestamp="1493588750688">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/home/all_entries.html.haml" timestamp="1487580651088">
         <mark key="[" line="9" column="93" />
         <mark key="]" line="9" column="84" />
@@ -1081,12 +1087,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493383286983">
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493589255885">
         <mark key="'" line="30" column="6" />
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="26" column="26" />
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="55" column="19" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/board_list/board_list_container.spec.jsx" timestamp="1486657887803">
         <mark key="[" line="11" column="29" />
@@ -1348,44 +1354,44 @@
       <jump line="30" column="8" filename="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICR7dHdlZXQudXNlci5uYW1lfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>// eslint-disable global-require</text>
+        <text encoding="base64">ICR7dHdlZXQudXNlci5uYW1lfQ==</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuYW1lOiAnYWN0aW9uJywKICAgICAgICAgICAgICAgIHRleHQ6ICdMaWtlJywKICAgICAgICAgICAgICAgIHZhbHVlOiAnbGlrZScsCiAgICAgICAgICAgICAgICB0eXBlOiAnYnV0dG9uJywKICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHdlZXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhvZ2UgPSAiaG9nZSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaG9nZSgnYScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgY2FsbGJhY2tfaWQ6ICcxMjMnLAogICAgICAgICAgICBhdHRhY2htZW50X3R5cGU6ICdkZWZhdWx0JywKICAgICAgICAgICAgYWN0aW9uczogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJuYW1lIjoieWVzIiwKICAgICAgICAgICAgICAgICJ0ZXh0IjogIlllcyEiLAogICAgICAgICAgICAgICAgInZhbHVlIjogInllcyIsCiAgICAgICAgICAgICAgICAidHlwZSI6ICJidXR0b24iLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInRleHQiOiAiTm8hIiwKICAgICAgICAgICAgICAgICJuYW1lIjogIm5vIiwKICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJkZWxldGUiLAogICAgICAgICAgICAgICAgInN0eWxlIjogImRhbmdlciIsCiAgICAgICAgICAgICAgICAidHlwZSI6ICJidXR0b24iLAogICAgICAgICAgICAgICAgImNvbmZpcm0iOiB7CiAgICAgICAgICAgICAgICAgICJ0aXRsZSI6ICJBcmUgeW91IHN1cmU/IiwKICAgICAgICAgICAgICAgICAgInRleHQiOiAiVGhpcyB3aWxsIGRvIHNvbWV0aGluZyEiLAogICAgICAgICAgICAgICAgICAib2tfdGV4dCI6ICJZZXMiLAogICAgICAgICAgICAgICAgICAiZGlzbWlzc190ZXh0IjogIk5vIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgaG9nZSAoZSkgPT4gewogICAgcmV0dXJuIGU7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU6ICdodHRwczovL2dvb2dsZS5jb20vJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnLi4uJywK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHdlZXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibmFtZSI6Im5vIiwKICAgICAgICAgICAgICAgICJ0ZXh0IjogIlJldHdlZXQiLAogICAgICAgICAgICAgICAgInZhbHVlIjogIm5vIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgICAgICAgICAic3R5bGUiOiAicHJpbWFyeSIsCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfXRoaXMuYnVpbGRUd2VldEF0dGFjaG1lbnQodHdlZXQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAibmFtZSI6InllcyIsCiAgICAgICAgICAgICAgICAidGV4dCI6ICJMaWtlIiwKICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJsaWtlIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgICAgICAgICAic3R5bGUiOiAiZGFuZ2VyIiwK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0gYGh0dHA6Ly90d2l0dGVyLmNvbS8ke3R3ZWV0LnVzZXIuc2NyZWVuX25hbWV9L3N0YXR1cy8ke3R3ZWV0LmlkX3N0cn1gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU6ICdhY3Rpb25zJywK</text>
+        <text encoding="base64">ICAgICAgImF1dGhvcl9pY29uIjogImh0dHA6Ly9mbGlja3IuY29tL2ljb25zL2JvYmJ5LmpwZyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
