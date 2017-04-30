@@ -15,11 +15,11 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493457364181">
-        <mark key="'" line="36" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493558470241">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -309,11 +309,11 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493383468191">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493556846803">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/board_dropdown_button.jsx" timestamp="1490821971681">
         <mark key="'" line="54" column="0" />
@@ -495,11 +495,11 @@
         <mark key="^" line="95" column="25" />
         <mark key="." line="95" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493382154579">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493558500171">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/jquery/intercom_setting.js" timestamp="1487785940330">
         <mark key="[" line="7" column="140" />
@@ -663,7 +663,8 @@
         <mark key="^" line="64" column="35" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" timestamp="1493385102736">
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" timestamp="1493558565612">
+        <mark key="'" line="30" column="8" />
         <mark key="[" line="35" column="34" />
         <mark key="]" line="35" column="29" />
         <mark key="^" line="35" column="29" />
@@ -1243,9 +1244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="6" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
-      <jump line="113" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
-      <jump line="105" column="14" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="161" column="10" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="161" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
@@ -1343,10 +1341,13 @@
       <jump line="29" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
       <jump line="30" column="6" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
       <jump line="24" column="17" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
+      <jump line="30" column="1" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
+      <jump line="32" column="8" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
+      <jump line="30" column="8" filename="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdXJsID0gcmVxdWlyZSgndXJsJyk7Cg==</text>
+        <text encoding="base64">CiAgc3RhdGljIGNoZWNrRW52KCkgewogIH0K</text>
       </register>
       <register name="-" type="4">
         <text>// eslint-disable global-require</text>
@@ -1358,10 +1359,10 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdXJsID0gcmVxdWlyZSgndXJsJyk7Cg==</text>
+        <text encoding="base64">CiAgc3RhdGljIGNoZWNrRW52KCkgewogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1373,16 +1374,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgZnMucmVhZGRpclN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3NraWxscycpKS5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgIGNvbnN0IFNraWxsID0gcmVxdWlyZShgLi9za2lsbHMvJHtmaWxlfWApOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCiAgICAgIG5ldyBTa2lsbCh0aGlzLmNvbnRyb2xsZXIpLnJ1bigpOwogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGlkcyA9IG1lc3NhZ2UuY2FsbGJhY2tfaWQuc3BsaXQoL1wtLyk7CiAgICAgIHZhciB1c2VyX2lkID0gaWRzWzBdOwogICAgICB2YXIgaXRlbV9pZCA9IGlkc1sxXTsKCiAgICAgIHRoaXMuY29udHJvbGxlci5zdG9yYWdlLnVzZXJzLmdldCh1c2VyX2lkLCBmdW5jdGlvbihlcnIsIHVzZXIpIHsKCiAgICAgICAgaWYgKCF1c2VyKSB7CiAgICAgICAgICB1c2VyID0gewogICAgICAgICAgICBpZDogdXNlcl9pZCwKICAgICAgICAgICAgbGlzdDogW10KICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGZvciAodmFyIHggPSAwOyB4IDwgdXNlci5saXN0Lmxlbmd0aDsgeCsrKSB7CiAgICAgICAgICBpZiAodXNlci5saXN0W3hdLmlkID09IGl0ZW1faWQpIHsKICAgICAgICAgICAgaWYgKG1lc3NhZ2UuYWN0aW9uc1swXS52YWx1ZT09J2ZsYWcnKSB7CiAgICAgICAgICAgICAgdXNlci5saXN0W3hdLmZsYWdnZWQgPSAhdXNlci5saXN0W3hdLmZsYWdnZWQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG1lc3NhZ2UuYWN0aW9uc1swXS52YWx1ZT09J2RlbGV0ZScpIHsKICAgICAgICAgICAgICB1c2VyLmxpc3Quc3BsaWNlKHgsMSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CgoKICAgICAgICB2YXIgcmVwbHkgPSB7CiAgICAgICAgICB0ZXh0OiAnSGVyZSBpcyA8QCcgKyB1c2VyX2lkICsgJz5zIGxpc3Q6JywKICAgICAgICAgIGF0dGFjaG1lbnRzOiBbXSwKICAgICAgICB9CgogICAgICAgIGZvciAodmFyIHggPSAwOyB4IDwgdXNlci5saXN0Lmxlbmd0aDsgeCsrKSB7CiAgICAgICAgICByZXBseS5hdHRhY2htZW50cy5wdXNoKHsKICAgICAgICAgICAgdGl0bGU6IHVzZXIubGlzdFt4XS50ZXh0ICsgKHVzZXIubGlzdFt4XS5mbGFnZ2VkPyAnICpGTEFHR0VEKicgOiAnJyksCiAgICAgICAgICAgIGNhbGxiYWNrX2lkOiB1c2VyX2lkICsgJy0nICsgdXNlci5saXN0W3hdLmlkLAogICAgICAgICAgICBhdHRhY2htZW50X3R5cGU6ICdkZWZhdWx0JywKICAgICAgICAgICAgYWN0aW9uczogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJuYW1lIjoiZmxhZyIsCiAgICAgICAgICAgICAgICAidGV4dCI6ICI6d2F2aW5nX2JsYWNrX2ZsYWc6IEZsYWciLAogICAgICAgICAgICAgICAgInZhbHVlIjogImZsYWciLAogICAgICAgICAgICAgICAgInR5cGUiOiAiYnV0dG9uIiwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJ0ZXh0IjogIkRlbGV0ZSIsCiAgICAgICAgICAgICAgICAibmFtZSI6ICJkZWxldGUiLAogICAgICAgICAgICAgICAgInZhbHVlIjogImRlbGV0ZSIsCiAgICAgICAgICAgICAgICAic3R5bGUiOiAiZGFuZ2VyIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgICAgICAgICAiY29uZmlybSI6IHsKICAgICAgICAgICAgICAgICAgInRpdGxlIjogIkFyZSB5b3Ugc3VyZT8iLAogICAgICAgICAgICAgICAgICAidGV4dCI6ICJUaGlzIHdpbGwgZG8gc29tZXRoaW5nISIsCiAgICAgICAgICAgICAgICAgICJva190ZXh0IjogIlllcyIsCiAgICAgICAgICAgICAgICAgICJkaXNtaXNzX3RleHQiOiAiTm8iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9KQogICAgICAgIH0KCiAgICAgICAgYm90LnJlcGx5SW50ZXJhY3RpdmUobWVzc2FnZSwgcmVwbHkpOwogICAgICAgIHRoaXMuY29udHJvbGxlci5zdG9yYWdlLnVzZXJzLnNhdmUodXNlcik7CgoK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5zZXR1cFdlYnNlcnZlcihwcm9jZXNzLmVudi5QT1JULCAoKSA9PiB7CiAgICAgIHRoaXMuY29udHJvbGxlci5jcmVhdGVPYXV0aEVuZHBvaW50cyh0aGlzLmNvbnRyb2xsZXIud2Vic2VydmVyLCAoZXJyLCByZXEsIHJlcykgPT4gewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIHJlcy5zdGF0dXMoNTAwKS5zZW5kKGBFUlJPUjogJHtlcnJ9YCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJlcy5zZW5kKCdTdWNjZXNzIScpOwogICAgICAgIH0KICAgICAgfSk7CiAgICAgIHRoaXMuY29udHJvbGxlci5jcmVhdGVXZWJob29rRW5kcG9pbnRzKHRoaXMuY29udHJvbGxlci53ZWJzZXJ2ZXIpOwogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBib3QgPSBCb3QgbmV3KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
