@@ -15,11 +15,12 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493562219118">
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493578402020">
         <mark key="'" line="32" column="8" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -1348,7 +1349,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWc6IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>// eslint-disable global-require</text>
@@ -1360,19 +1361,19 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWc6IGZhbHNlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgc3RhdGljIGNoZWNrRW52KCkgewogIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgc3RhdGljIGNoZWNrRW52KCkgewogIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1381,10 +1382,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgZnMucmVhZGRpclN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3NraWxscycpKS5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgIGNvbnN0IFNraWxsID0gcmVxdWlyZShgLi9za2lsbHMvJHtmaWxlfWApOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCiAgICAgIG5ldyBTa2lsbCh0aGlzLmNvbnRyb2xsZXIpLnJ1bigpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgZnMucmVhZGRpclN5bmMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3NraWxscycpKS5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgIGNvbnN0IFNraWxsID0gcmVxdWlyZShgLi9za2lsbHMvJHtmaWxlfWApOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCiAgICAgIG5ldyBTa2lsbCh0aGlzLmNvbnRyb2xsZXIpLnJ1bigpOwogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
