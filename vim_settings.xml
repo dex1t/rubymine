@@ -932,11 +932,11 @@
         <mark key="^" line="2" column="104" />
         <mark key="." line="2" column="104" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/like.js" timestamp="1493593885321">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/like.js" timestamp="1493594842374">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/application.scss" timestamp="1484932979497">
         <mark key="[" line="27" column="21" />
@@ -1093,12 +1093,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493593002097">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="69" column="23" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493595015440">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/board_list/board_list_container.spec.jsx" timestamp="1486657887803">
         <mark key="[" line="11" column="29" />
@@ -1258,8 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="10" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
-      <jump line="161" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" />
       <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
@@ -1358,46 +1355,48 @@
       <jump line="32" column="8" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
       <jump line="30" column="8" filename="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" />
       <jump line="0" column="11" filename="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/Work/sparrowbot/app/skills/like.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgXTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR3ZWV0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICR7dHdlZXQudXNlci5uYW1lfQ==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRleHQ6IGA6aGVhcnQ6IExpa2VkIGJ5IDxAJHttc2cudXNlcn0+YCwK</text>
+        <text encoding="base64">Y29uc3QgVHdpdHRlciA9IHJlcXVpcmUoJ3R3aXR0ZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR3ZWV0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIG9yaWdpbmFsTXNnLmF0dGFjaG1lbnRzID0gWwogICAgICAgIHsKICAgICAgICAgIGNhbGxiYWNrX2lkOiAnMTIzJywKICAgICAgICAgIGF0dGFjaG1lbnRfdHlwZTogJ2RlZmF1bHQnLAogICAgICAgICAgdGV4dDogYDpoZWFydDogTGlrZWQgYnkgPEAke21zZy51c2VyfT5gLAogICAgICAgICAgYWN0aW9uczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgbmFtZTogJ2FjdGlvbicsCiAgICAgICAgICAgICAgdGV4dDogJ1JldHdlZXQnLAogICAgICAgICAgICAgIHZhbHVlOiAncmV0d2VldCcsCiAgICAgICAgICAgICAgdHlwZTogJ2J1dHRvbicsCiAgICAgICAgICAgIH0sCiAgICAgICAgICBdLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpIHRocm93IGVycm9yOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiBgYAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmV4dE1zZy5hdHRhY2htZW50c1swXS5hY3Rpb25zID0gW3sKICAgICAgICBuYW1lOiAncmV0d2VldCcsCiAgICAgICAgdGV4dDogJ1JldHdlZXQnLAogICAgICAgIHR5cGU6ICdidXR0b24nLAogICAgICB9XTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFja19pZDogbXNnLmNhbGxiYWNrX2lkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRhY2htZW50X3R5cGU6ICdkZWZhdWx0JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXR0YWNobWVudF90eXBlOiAnZGVmYXVsdCcsCg==</text>
+        <text encoding="base64">CiAgICAgIGNvbnN0IG5leHRNc2cgPSBtc2cub3JpZ2luYWxfbWVzc2FnZTsKICAgICAgbmV4dE1zZy5hdHRhY2htZW50cy5wdXNoKHsKICAgICAgICBjb2xvcjogJyMwMGFjZWQnLAogICAgICAgIHRleHQ6IGA6aGVhcnQ6IExpa2VkIGJ5IDxAJHttc2cudXNlcn0+YCwKICAgICAgfSk7CiAgICAgIGJvdC5yZXBseUludGVyYWN0aXZlKG1zZywgbmV4dE1zZyk7CiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
