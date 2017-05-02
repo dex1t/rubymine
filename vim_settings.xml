@@ -15,12 +15,12 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493578402020">
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493741550524">
         <mark key="'" line="32" column="8" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+        <mark key="[" line="5" column="77" />
+        <mark key="]" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+        <mark key="^" line="5" column="72" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -792,7 +792,6 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/node_modules/botkit/lib/SlackBot.js" timestamp="1493560446598" />
       <file name="$USER_HOME$/Work/infra/itamae/roles/app-kibela/app_td-agent.rb" timestamp="1483112031152">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1093,8 +1092,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493595015440">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493741490458">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="25" />
         <mark key="." line="40" column="0" />
@@ -1257,7 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
       <jump line="163" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
@@ -1348,7 +1346,6 @@
       <jump line="152" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
       <jump line="686" column="42" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
       <jump line="18" column="22" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
       <jump line="30" column="6" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
       <jump line="24" column="17" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
       <jump line="30" column="1" filename="$USER_HOME$/Work/sparrowbot/app/bot.js" />
@@ -1357,10 +1354,12 @@
       <jump line="0" column="11" filename="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" />
       <jump line="23" column="28" filename="$USER_HOME$/Work/sparrowbot/app/skills/like.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
+      <jump line="29" column="42" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgIGNvbnNvbGUubG9nKCc9PT09PScpOwogICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>process.env.REDISTOGO_URL</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1368,8 +1367,8 @@
       <register name="/" type="4">
         <text>batch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgVHdpdHRlciA9IHJlcXVpcmUoJ3R3aXR0ZXInKTsK</text>
+      <register name="0" type="4">
+        <text>process.env.REDISTOGO_URL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgIGNvbnNvbGUubG9nKCc9PT09PScpOwogICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
