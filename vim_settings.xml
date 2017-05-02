@@ -961,11 +961,11 @@
         <mark key="^" line="10" column="109" />
         <mark key="." line="10" column="109" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app.json" timestamp="1493644022274">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="39" column="18" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app.json" timestamp="1493645259671">
+        <mark key="[" line="31" column="96" />
+        <mark key="]" line="28" column="94" />
+        <mark key="^" line="28" column="94" />
+        <mark key="." line="28" column="94" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/profile_shape.jsx" timestamp="1486326777365">
         <mark key="[" line="1" column="34" />
@@ -1401,7 +1401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJXRUJfQ09OQ1VSUkVOQ1kiOiB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJUaGUgbnVtYmVyIG9mIHByb2Nlc3NlcyB0byBydW4uIiwKICAgICAgInZhbHVlIjogIjUiCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1413,31 +1413,31 @@
         <text encoding="base64">ICAgICJUV0lUVEVSX0FDQ0VTU19UT0tFTiI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIllvdXIgVHdpdHRlciBBY2NvdW50IENyZWRlbnRpYWxzIGZvciB0aGlzIGJvdCAoaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tKSIsCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJXRUJfQ09OQ1VSUkVOQ1kiOiB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJUaGUgbnVtYmVyIG9mIHByb2Nlc3NlcyB0byBydW4uIiwKICAgICAgInZhbHVlIjogIjUiCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJSRURJU19VUkwiOiB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJSZWRpcyBVUkwgZm90IGJvdGtpdCBzdG9yYWdlIiwKICAgICAgInZhbHVlIjogInJlZGlzOi8vZm9vOmJhckBleGFtcGxlLmNvbTo2Mzc5IgogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzY2hlZHVsZXI6c3RhbmRhcmQiCg==</text>
+        <text encoding="base64">ICAgICJSRURJU19VUkwiOiB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJSZWRpcyBVUkwgZm90IGJvdGtpdCBzdG9yYWdlIiwKICAgICAgInZhbHVlIjogInJlZGlzOi8vZm9vOmJhckBleGFtcGxlLmNvbTo2Mzc5IgogICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJoZXJva3UtcmVkaXM6aG9iYnktZGV2IiwK</text>
+        <text encoding="base64">ICAgICJzY2hlZHVsZXI6c3RhbmRhcmQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIkJvdCBVc2VyIE9BdXRoIEFjY2VzcyBUb2tlbiAoaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMpIiwK</text>
+        <text encoding="base64">ICAgICJoZXJva3UtcmVkaXM6aG9iYnktZGV2IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInZhbHVlIjogInJlZGlzOi8vZm9vOmJhckBleGFtcGxlLmNvbTo2Mzc5Igo=</text>
+        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIkJvdCBVc2VyIE9BdXRoIEFjY2VzcyBUb2tlbiAoaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMpIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImdlbmVyYXRvciI6ICJzZWNyZXQiCg==</text>
+        <text encoding="base64">ICAgICAgInZhbHVlIjogInJlZGlzOi8vZm9vOmJhckBleGFtcGxlLmNvbTo2Mzc5Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJwb3N0ZGVwbG95IjogImJ1bmRsZSBleGVjIHJha2UgYm9vdHN0cmFwIgogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgImdlbmVyYXRvciI6ICJzZWNyZXQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAic3VjY2Vzc191cmwiOiAiL3dlbGNvbWUiLAo=</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJwb3N0ZGVwbG95IjogImJ1bmRsZSBleGVjIHJha2UgYm9vdHN0cmFwIgogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
