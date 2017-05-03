@@ -153,12 +153,12 @@
         <mark key="^" line="24" column="64" />
         <mark key="." line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" timestamp="1493591622086">
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" timestamp="1493804953818">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="7" column="5" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_price_table.html.haml" timestamp="1492021789103">
         <mark key="'" line="20" column="8" />
@@ -320,12 +320,12 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493796639571">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="34" column="71" />
-        <mark key="]" line="34" column="71" />
-        <mark key="." line="34" column="71" />
-        <mark key="^" line="34" column="71" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493805238852">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/batch_td-agent.rb" timestamp="1483113523753">
         <mark key="[" line="15" column="27" />
@@ -709,11 +709,12 @@
         <mark key="^" line="0" column="150" />
         <mark key="." line="0" column="150" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493595015440">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" timestamp="1493806196401">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/Work/demaespider/demaespider/items.py" timestamp="1492348434409">
         <mark key="[" line="11" column="1" />
@@ -1006,11 +1007,11 @@
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/like.js" timestamp="1493595644756">
-        <mark key="'" line="21" column="28" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/like.js" timestamp="1493806175655">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/cookbooks/datadog/files/etc/dd-agent/conf.d/fluentd.yaml" timestamp="1483114989191">
         <mark key="[" line="15" column="23" />
@@ -1297,10 +1298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
-      <jump line="16" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
-      <jump line="67" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
-      <jump line="163" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="182" column="6" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
       <jump line="37" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
       <jump line="170" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" />
@@ -1397,46 +1394,50 @@
       <jump line="0" column="11" filename="$USER_HOME$/Work/sparrowbot/app/skills/ping.js" />
       <jump line="23" column="28" filename="$USER_HOME$/Work/sparrowbot/app/skills/like.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
+      <jump line="42" column="30" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
+      <jump line="76" column="24" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
+      <jump line="11" column="14" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFNsYWNrIEFwcCBbb2F1dGggc2V0dGluZ10oaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMvKS4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NhbGxiYWNrISEhIScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFNsYWNrIEFwcCBbb2F1dGggc2V0dGluZ10oaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMvKS4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">NS4gU2V0IGBodHRwczovL3lvdXItZG9tYWluLmhlcm9rdWFwcC5jb20vb2F1dGhgIHRvIHJlZGlyZWN0IHVybCBvbiB5b3VyIFNsYWNrIEFwcCBbb2F1dGggc2V0dGluZ10oaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMvKS4K</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5oZWFycyhbJ15zdGFydCBzdHJlYW1pbmcgIiguKikiJCcsICdec3RhcnQgc3RyZWFtaW5nJCddLCAnZGlyZWN0X21lbnRpb24nLCAoYm90LCBtc2cpID0+IHsKICAgICAgY29uc3QgcXVlcnkgPSBtc2cubWF0Y2hbMV0gJiYgbXNnLm1hdGNoWzFdLnRyaW0oKTsKICAgICAgaWYgKHRoaXMuc3RyZWFtKSB7CiAgICAgICAgYm90LnJlcGx5KG1zZywgYEFscmVhZHkgc3RyZWFtaW5nIGJ5ICIke3RoaXMuc3RyZWFtLnF1ZXJ5fSIgOm5vX21vdXRoOmApOwogICAgICAgIHJldHVybjsKICAgICAgfSBlbHNlIGlmICghcXVlcnkgfHwgcXVlcnkubGVuZ3RoIDwgMCkgewogICAgICAgIGJvdC5yZXBseShtc2csICdObyBxdWVyeSBzcGVjaWZpZWQgOmNyeTpcblVzYWdlOiBzdGFydCBzdHJlYW1pbmcgIlR3aXR0ZXIgc2VhcmNoIHF1ZXJ5IicpCiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgICBib3QuYm90a2l0LmxvZygnU3RyZWFtaW5nIFF1ZXJ5OicsIHF1ZXJ5KTsKICAgICAgYm90LnJlcGx5KG1zZywgYE9LOm9rX2hhbmQ6IFN0YXJ0IHN0cmVhbWluZyBieSAke3F1ZXJ5fWApOwogICAgICB0aGlzLnN0YXJ0U3RyZWFtaW5nKGJvdCwgbXNnLCBxdWVyeSk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NhbGxiYWNrISEhIScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJXRUJfQ09OQ1VSUkVOQ1kiOiB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJUaGUgbnVtYmVyIG9mIHByb2Nlc3NlcyB0byBydW4uIiwKICAgICAgInZhbHVlIjogIjUiCiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcXVlcnkgPSBtc2cubWF0Y2hbMV0gJiYgbXNnLm1hdGNoWzFdLnRyaW0oKTsKICAgICAgaWYgKHRoaXMuc3RyZWFtKSB7CiAgICAgICAgYm90LnJlcGx5KG1zZywgYEFscmVhZHkgc3RyZWFtaW5nIGJ5ICIke3RoaXMuc3RyZWFtLnF1ZXJ5fSIgOm5vX21vdXRoOmApOwogICAgICAgIHJldHVybjsKICAgICAgfSBlbHNlIGlmICghcXVlcnkgfHwgcXVlcnkubGVuZ3RoIDwgMCkgewogICAgICAgIGJvdC5yZXBseShtc2csICdObyBxdWVyeSBzcGVjaWZpZWQgOmNyeTpcblVzYWdlOiBzdGFydCBzdHJlYW1pbmcgIlR3aXR0ZXIgc2VhcmNoIHF1ZXJ5IicpCiAgICAgICAgcmV0dXJuOwogICAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJSRURJU19VUkwiOiB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJSZWRpcyBVUkwgZm90IGJvdGtpdCBzdG9yYWdlIiwKICAgICAgInZhbHVlIjogInJlZGlzOi8vZm9vOmJhckBleGFtcGxlLmNvbTo2Mzc5IgogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzY2hlZHVsZXI6c3RhbmRhcmQiCg==</text>
+        <text encoding="base64">Y29uc3QgVHdpdHRlciA9IHJlcXVpcmUoJ3R3aXR0ZXInKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJoZXJva3UtcmVkaXM6aG9iYnktZGV2IiwK</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpZW50ID0gbmV3IFR3aXR0ZXIoewogICAgICBjb25zdW1lcl9rZXk6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZLAogICAgICBjb25zdW1lcl9zZWNyZXQ6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfU0VDUkVULAogICAgICBhY2Nlc3NfdG9rZW5fa2V5OiBwcm9jZXNzLmVudi5UV0lUVEVSX0FDQ0VTU19UT0tFTiwKICAgICAgYWNjZXNzX3Rva2VuX3NlY3JldDogcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfU0VDUkVULAogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIkJvdCBVc2VyIE9BdXRoIEFjY2VzcyBUb2tlbiAoaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMpIiwK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlciA9IHNwYXJyb3dib3QuY29udHJvbGxlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInZhbHVlIjogInJlZGlzOi8vZm9vOmJhckBleGFtcGxlLmNvbTo2Mzc5Igo=</text>
+        <text encoding="base64">Y29uc3QgVHdpdHRlciA9IHJlcXVpcmUoJ3R3aXR0ZXInKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImdlbmVyYXRvciI6ICJzZWNyZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
