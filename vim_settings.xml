@@ -320,12 +320,12 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493578402020">
+      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1493796639571">
         <mark key="'" line="32" column="8" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+        <mark key="[" line="34" column="71" />
+        <mark key="]" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+        <mark key="^" line="34" column="71" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/batch_td-agent.rb" timestamp="1483113523753">
         <mark key="[" line="15" column="27" />
@@ -1282,7 +1282,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/README.md" timestamp="1493795397447">
+      <file name="$USER_HOME$/Work/sparrowbot/README.md" timestamp="1493796544588">
         <mark key="[" line="18" column="83" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
