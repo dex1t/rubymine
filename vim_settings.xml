@@ -1282,11 +1282,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/README.md" timestamp="1493796544588">
-        <mark key="[" line="18" column="83" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="2" column="58" />
+      <file name="$USER_HOME$/Work/sparrowbot/README.md" timestamp="1493797624297">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1492718935739">
         <mark key="'" line="411" column="17" />
@@ -1399,17 +1399,17 @@
       <jump line="5" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/stream.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFNsYWNrIEFwcCBbb2F1dGggc2V0dGluZ10oaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMvKS4=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IFNsYWNrIEFwcCBbb2F1dGggc2V0dGluZ10oaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMvKS4=</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJUV0lUVEVSX0FDQ0VTU19UT0tFTiI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIllvdXIgVHdpdHRlciBBY2NvdW50IENyZWRlbnRpYWxzIGZvciB0aGlzIGJvdCAoaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tKSIsCiAgICB9LAo=</text>
+        <text encoding="base64">NS4gU2V0IGBodHRwczovL3lvdXItZG9tYWluLmhlcm9rdWFwcC5jb20vb2F1dGhgIHRvIHJlZGlyZWN0IHVybCBvbiB5b3VyIFNsYWNrIEFwcCBbb2F1dGggc2V0dGluZ10oaHR0cHM6Ly9hcGkuc2xhY2suY29tL2FwcHMvKS4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
