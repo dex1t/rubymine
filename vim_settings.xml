@@ -970,11 +970,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494193786665">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494196783003">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/hello.js" timestamp="1493360554488">
         <mark key="[" line="12" column="18" />
@@ -1353,10 +1354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFNlYXJjaCA9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1cnJlbnRTZWFyY2gpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>60000</text>
+        <text encoding="base64">dHdlZXRzLnN0YXR1c2VzWzBdICYmIHR3ZWV0cy5zdGF0dXNlc1swXS5pZF9zdHI=</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -1365,31 +1366,31 @@
         <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5oZWFycyhbJ3N0b3Agc2VhcmNoaW5nJywgJ3N0b3Agc2VhcmNoJ10sICdkaXJlY3RfbWVudGlvbicsIChib3QsIG1zZykgPT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFNlYXJjaCA9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1cnJlbnRTZWFyY2gpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5jdXJyZW50U2VhcmNoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjdXJyZW50KGNoYW5uZWxJZCkgewogICAgdGhpcy5jb250cm9sbGVyLnN0b3JhZ2UuY2hhbm5lbHMuZ2V0KGNoYW5uZWxJZCwgKGVyciwgZGF0YSkgPT4gewoKICAgIH0pOwogIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5zdG9yYWdlLmNoYW5uZWxzLmFsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVzdW1lCg==</text>
+        <text encoding="base64">ICAgIGNvc250IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaGluZyA9IHsKICAgICAgICAgIHF1ZXJ5OiBkYXRhLnNlYXJjaGluZy5xdWVyeSwKICAgICAgICAgIHNpbmNlSWQ6IGRhdGEuc2VhcmNoaW5nLnNpbmNlSWQsCiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICBzaW5jZVR3ZWV0SWQ6ICwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJvdC5zdGFydFR5cGluZyhtc2cpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYm90LmJvdGtpdC5sb2coJ0N1cnJlbnQgU2luY2VUd2VldElkOicsIHNpbmNlSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaW5jZVR3ZWV0SWQ6IG51bGwK</text>
+        <text encoding="base64">ICAgICAgYm90LnN0YXJ0VHlwaW5nKG1zZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VhcmNoaW5nID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5xdWVyeSA9IHF1ZXJ5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
