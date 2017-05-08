@@ -725,11 +725,11 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494237531260">
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="93" column="12" />
-        <mark key="." line="93" column="12" />
-        <mark key="^" line="93" column="12" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494238911298">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/home/all_entries.html.haml" timestamp="1487580651088">
         <mark key="[" line="9" column="93" />
@@ -1352,8 +1352,8 @@
       <jump line="55" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHdlZXRzLnN0YXR1c2VzWzBdICYmIHR3ZWV0cy5zdGF0dXNlc1swXS5pZF9zdHI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jaGFubmVscy4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dHdlZXRzLnN0YXR1c2VzWzBdICYmIHR3ZWV0cy5zdGF0dXNlc1swXS5pZF9zdHI=</text>
@@ -1365,31 +1365,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2hSZXF1ZXN0KGJvdCwgaWQsIHF1ZXJ5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNpbmNlSWQgPSB0aGlzLnNlYXJjaFN0YXRlW2lkXS5zaW5jZUlkOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGFubmVscy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaEpvYihib3QsIG1zZywgcXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWFyY2hKb2IoYm90LCBtc2csIHF1ZXJ5KSB7CiAgICAgIHRoaXMucXVlcnkgPSBxdWVyeTsKICAgICAgY29uc3Qgc2luY2VJZCA9IGRhdGEgJiYgZGF0YS5zaW5jZVR3ZWV0SWQ7CiAgICAgIHRoaXMuc2VhcmNoKGJvdCwgbXNnLCBxdWVyeSwgc2luY2VJZCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNpbmNlSWQgPSB0aGlzLnNlYXJjaFN0YXRlW2lkXS5zaW5jZUlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaEpvYihib3QsIG1zZywgcXVlcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5zdG9yYWdlLmNoYW5uZWxzLmdldChtc2cuY2hhbm5lbCwgKGVyciwgZGF0YSkgPT4gewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzZWFyY2hKb2IoYm90LCBtc2csIHF1ZXJ5KSB7CiAgICAgIHRoaXMucXVlcnkgPSBxdWVyeTsKICAgICAgY29uc3Qgc2luY2VJZCA9IGRhdGEgJiYgZGF0YS5zaW5jZVR3ZWV0SWQ7CiAgICAgIHRoaXMuc2VhcmNoKGJvdCwgbXNnLCBxdWVyeSwgc2luY2VJZCk7CiAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VhcmNoU3RhdGUgPSB7fTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1cnJlbnRTZWFyY2gpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5zdG9yYWdlLmNoYW5uZWxzLmdldChtc2cuY2hhbm5lbCwgKGVyciwgZGF0YSkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
