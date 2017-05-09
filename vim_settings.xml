@@ -718,11 +718,11 @@
         <mark key="." line="55" column="39" />
         <mark key="^" line="55" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494331554396">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="17" column="14" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494333138717">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/locales/en.yml" timestamp="1492144593075">
         <mark key="[" line="433" column="53" />
@@ -968,12 +968,10 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494329248965">
-        <mark key="'" line="139" column="23" />
-        <mark key="[" line="141" column="39" />
-        <mark key="]" line="141" column="39" />
-        <mark key="." line="141" column="39" />
-        <mark key="^" line="141" column="39" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494332703937">
+        <mark key="'" line="90" column="26" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="63" column="6" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/hello.js" timestamp="1493360554488">
         <mark key="[" line="12" column="18" />
@@ -1255,7 +1253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="9" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="63" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="56" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
@@ -1355,10 +1352,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/like.js" />
       <jump line="22" column="10" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
       <jump line="139" column="23" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
+      <jump line="90" column="26" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gYm90LnNheSh7CiAgICAgIC8vICAgY2hhbm5lbDogbXNnLmNoYW5uZWwsCiAgICAgIC8vICAgdGhyZWFkX3RzOiBtc2cub3JpZ2luYWxfbWVzc2FnZS50cywKICAgICAgLy8gICB0ZXh0OiBgPEAke21zZy51c2VyfT4gaGV5ISFgLAogICAgICAvLyB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dHdlZXRzLnN0YXR1c2VzWzBdICYmIHR3ZWV0cy5zdGF0dXNlc1swXS5pZF9zdHI=</text>
@@ -1367,34 +1365,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5vbignaW50ZXJhY3RpdmVfbWVzc2FnZV9jYWxsYmFjaycsIChib3QsIG1zZykgPT4gewogICAgICBzd2l0Y2ggKG1zZy5hY3Rpb25zWzBdLm5hbWUpIHsKICAgICAgICBjYXNlICdsaWtlJzoKICAgICAgICAgIHRoaXMubGlrZShib3QsIG1zZyk7CiAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlICd1bmxpa2UnOgogICAgICAgICAgdGhpcy51bmxpa2UoYm90LCBtc2cpOwogICAgICAgICAgYnJlYWs7CiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgIC8vIGRvIG5vdGhpbmcKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgYm90LnN0YXJ0Q29udmVyc2F0aW9uSW5UaHJlYWQocGFyZW50TXNnLCAoZXJyLCBjb252bykgPT4gewogICAgICAgIGNvbnZvLmFkZFF1ZXN0aW9uKCdIb3cgZG8geW91IHJlcGx5PycsIChyZXMsIGMpID0+IHsKICAgICAgICAgIGMuc2F5KCdDb29sLCB5b3Ugc2FpZDogJyArIHJlcy50ZXh0KTsKICAgICAgICAgIGMubmV4dCgpOwogICAgICAgIH0sIHt9LCAnZGVmYXVsdCcpOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gYm90LnNheSh7CiAgICAgIC8vICAgY2hhbm5lbDogbXNnLmNoYW5uZWwsCiAgICAgIC8vICAgdGhyZWFkX3RzOiBtc2cub3JpZ2luYWxfbWVzc2FnZS50cywKICAgICAgLy8gICB0ZXh0OiBgPEAke21zZy51c2VyfT4gaGV5ISFgLAogICAgICAvLyB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LHt9LCdkZWZhdWx0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5oZWFycygnaGknLCAnZGlyZWN0X21lbnRpb24nLCAoYm90LCBtc2cpID0+IHsKICAgICAgYm90LnN0YXJ0Q29udmVyc2F0aW9uSW5UaHJlYWQobXNnLCAoZXJyLCBjb252bykgPT4gewogICAgICAgIGNvbnNvbGUubG9nKG1zZyk7CiAgICAgICAgY29udm8uYWRkUXVlc3Rpb24oJ3dvdycsIChyZXMsIGNudikgPT4gewogICAgICAgICAgY252LnNheSgnV293OiAnICsgcmVzLnRleHQpOwogICAgICAgICAgY252Lm5leHQoKTsKICAgICAgICB9LCB7fSwgJ2RlZmF1bHQnKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyZW50TXNnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb252by5hZGRRdWVzdGlvbignSG93IGFyZSB5b3U/JyxmdW5jdGlvbihyZXNwb25zZSxjb252bykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbXMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnZvLnNheSgnQ29vbCwgeW91IHNhaWQ6ICcgKyByZXNwb25zZS50ZXh0KTsKICAgICAgICAgIGNvbnZvLm5leHQoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaWQgPSBtc2cuY2hhbm5lbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
