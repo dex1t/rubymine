@@ -462,6 +462,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494411003010">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/methods/index.html.haml" timestamp="1493061859759">
         <mark key="[" line="8" column="107" />
         <mark key="]" line="8" column="110" />
@@ -505,6 +511,12 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/tweet.js" timestamp="1494411000951">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/activityMeter/_user_activity_meter.scss" timestamp="1486418253322">
         <mark key="[" line="8" column="0" />
@@ -767,12 +779,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" timestamp="1493060494389">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/shared/profile/popup.spec.js" timestamp="1489400850263">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="11" />
@@ -865,12 +871,6 @@
         <mark key="]" line="5" column="71" />
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" timestamp="1492765073985">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
@@ -1364,7 +1364,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpZW50LnBvc3QoJ2Zhdm9yaXRlcy9kZXN0cm95JywgeyBpZDogbXNnLmNhbGxiYWNrX2lkIH0sICgpID0+IHsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZW1vamlDb252ZXJ0b3IgPSBuZXcgZW1vamlDb252ZXJ0b3IoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>60000</text>
@@ -1376,28 +1376,28 @@
         <text encoding="base64">ICAgIHRoaXMuY2xpZW50LnBvc3QoJ3N0YXR1c2VzL3JldHdlZXQnLCB7IGlkOiBtc2cuY2FsbGJhY2tfaWQgfSwgKCkgPT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpZW50LnBvc3QoJ2Zhdm9yaXRlcy9kZXN0cm95JywgeyBpZDogbXNnLmNhbGxiYWNrX2lkIH0sICgpID0+IHsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZW1vamlDb252ZXJ0b3IgPSBuZXcgZW1vamlDb252ZXJ0b3IoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJyMwMGFjZWQnLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5vbignaW50ZXJhY3RpdmVfbWVzc2FnZV9jYWxsYmFjaycsIChib3QsIG1zZykgPT4gewogICAgICBpZiAobXNnLmFjdGlvbnNbMF0ubmFtZSAhPT0gJ3JldHdlZXQnKSB7CiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jbGllbnQucG9zdCgnc3RhdHVzZXMvcmV0d2VldCcsIHsgaWQ6IG1zZy5jYWxsYmFja19pZCB9LCAoKSA9PiB7CiAgICAgICAgY29uc3QgbmV4dE1zZyA9IG1zZy5vcmlnaW5hbF9tZXNzYWdlOwogICAgICAgIG5leHRNc2cuYXR0YWNobWVudHMucHVzaCh7CiAgICAgICAgICBjb2xvcjogJyMwMGFjZWQnLAogICAgICAgICAgdGV4dDogYDpyZWN5Y2xlOiBSZXR3ZWV0ZWQgYnkgPEAke21zZy51c2VyfT5gLAogICAgICAgIH0pOwogICAgICAgIGJvdC5yZXBseUludGVyYWN0aXZlKG1zZywgbmV4dE1zZyk7CiAgICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgZW1vamlDb252ZXJ0b3IgPSByZXF1aXJlKCdlbW9qaS1qcycpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY2xpZW50LnBvc3QoJ2Zhdm9yaXRlcy9kZXN0cm95JywgeyBpZDogbXNnLmNhbGxiYWNrX2lkIH0sICgpID0+IHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV4dE1zZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogJyMwMGFjZWQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGluZGV4IGlzICR7cmVtb3ZlSWR4fWApOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5vbignaW50ZXJhY3RpdmVfbWVzc2FnZV9jYWxsYmFjaycsIChib3QsIG1zZykgPT4gewogICAgICBpZiAobXNnLmFjdGlvbnNbMF0ubmFtZSAhPT0gJ3JldHdlZXQnKSB7CiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1bmxpa2UhISEhIScpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jbGllbnQucG9zdCgnc3RhdHVzZXMvcmV0d2VldCcsIHsgaWQ6IG1zZy5jYWxsYmFja19pZCB9LCAoKSA9PiB7CiAgICAgICAgY29uc3QgbmV4dE1zZyA9IG1zZy5vcmlnaW5hbF9tZXNzYWdlOwogICAgICAgIG5leHRNc2cuYXR0YWNobWVudHMucHVzaCh7CiAgICAgICAgICBjb2xvcjogJyMwMGFjZWQnLAogICAgICAgICAgdGV4dDogYDpyZWN5Y2xlOiBSZXR3ZWV0ZWQgYnkgPEAke21zZy51c2VyfT5gLAogICAgICAgIH0pOwogICAgICAgIGJvdC5yZXBseUludGVyYWN0aXZlKG1zZywgbmV4dE1zZyk7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
