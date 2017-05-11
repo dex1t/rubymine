@@ -748,12 +748,11 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494259683407">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="122" column="93" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494504354166">
+        <mark key="'" line="27" column="22" />
+        <mark key="[" line="151" column="25" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/home/all_entries.html.haml" timestamp="1487580651088">
         <mark key="[" line="9" column="93" />
@@ -1262,7 +1261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="56" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="57" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
@@ -1362,10 +1360,11 @@
       <jump line="24" column="6" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
       <jump line="25" column="36" filename="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" />
       <jump line="36" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" />
+      <jump line="27" column="22" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXBseVRleHQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>\:[a-zA-Z0-9-_+]+\:</text>
@@ -1374,34 +1373,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpZW50LnBvc3QoJ3N0YXR1c2VzL3JldHdlZXQnLCB7IGlkOiBtc2cuY2FsbGJhY2tfaWQgfSwgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlci5oZWFycyhbJ15zZWFyY2ggKC4qKSQnLCAnXnNlYXJjaCQnXSwgJ2RpcmVjdF9tZW50aW9uJywgKGJvdCwgbXNnKSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXBseVRleHQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYucnhfY29sb25zID0gbmV3IFJlZ0V4cCgnJywgJ2cnKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbXNnLnBhcnNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW1vamlDb252ZXJ0b3IgPSBuZXcgZW1vamlDb252ZXJ0b3IoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZW1vamlDb252ZXJ0b3IgPSByZXF1aXJlKCdlbW9qaS1qcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXBseVRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpZW50LnBvc3QoJ2Zhdm9yaXRlcy9kZXN0cm95JywgeyBpZDogbXNnLmNhbGxiYWNrX2lkIH0sICgpID0+IHsK</text>
+        <text encoding="base64">ICAgIHNlbGYucnhfY29sb25zID0gbmV3IFJlZ0V4cCgnJywgJ2cnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
