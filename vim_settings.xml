@@ -569,6 +569,12 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
+      <file name="$USER_HOME$/Work/clerkbot/README.md" timestamp="1494768350680">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="11" column="82" />
+        <mark key="^" line="11" column="82" />
+        <mark key="." line="11" column="82" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/wiki_template_editor/wiki_template_editor_container.jsx" timestamp="1490792461963">
         <mark key="'" line="239" column="39" />
         <mark key="[" line="37" column="0" />
@@ -783,6 +789,12 @@
         <mark key="]" line="8" column="53" />
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/Work/clerkbot/app/skills/stats.js" timestamp="1494768240057">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -1047,6 +1059,10 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/clerkbot/app/skills/ping.js" timestamp="1494764114580">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_blog_author.scss" timestamp="1486562668716">
         <mark key="'" line="26" column="0" />
@@ -1398,7 +1414,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgogICAgdGhpcy50d2l0dGVyQ2xpZW50ID0gbmV3IFR3aXR0ZXIoewogICAgICBjb25zdW1lcl9rZXk6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZLAogICAgICBjb25zdW1lcl9zZWNyZXQ6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfU0VDUkVULAogICAgICBhY2Nlc3NfdG9rZW5fa2V5OiBwcm9jZXNzLmVudi5UV0lUVEVSX0FDQ0VTU19UT0tFTiwKICAgICAgYWNjZXNzX3Rva2VuX3NlY3JldDogcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfU0VDUkVULAogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="-" type="4">
         <text>`Oops :persevere: ${err[0].message}`</text>
@@ -1407,37 +1423,37 @@
         <text>batch</text>
       </register>
       <register name="0" type="4">
-        <text>`https://twitter.com/${tweet.user.screen_name}/status/${tweet.id_str}`</text>
+        <text>this.buildAttachment(r[0], r[1])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgogICAgdGhpcy50d2l0dGVyQ2xpZW50ID0gbmV3IFR3aXR0ZXIoewogICAgICBjb25zdW1lcl9rZXk6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZLAogICAgICBjb25zdW1lcl9zZWNyZXQ6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfU0VDUkVULAogICAgICBhY2Nlc3NfdG9rZW5fa2V5OiBwcm9jZXNzLmVudi5UV0lUVEVSX0FDQ0VTU19UT0tFTiwKICAgICAgYWNjZXNzX3Rva2VuX3NlY3JldDogcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfU0VDUkVULAogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgVHdpdHRlciA9IHJlcXVpcmUoJ3R3aXR0ZXInKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVtYmVyU3RhdHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZICYmCiAgICBwcm9jZXNzLmVudi5UV0lUVEVSX0NPTlNVTUVSX1NFQ1JFVCAmJgogICAgcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfVE9LRU4gJiYK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbWJlclN0YXRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJUV0lUVEVSX0NPTlNVTUVSX0tFWSI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIlR3aXR0ZXIgQXBwbGljYXRpb24gU2V0dGluZ3MgaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tIgogICAgfSwKICAgICJUV0lUVEVSX0NPTlNVTUVSX1NFQ1JFVCI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIlR3aXR0ZXIgQXBwbGljYXRpb24gU2V0dGluZ3MgaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tIgogICAgfSwKICAgICJUV0lUVEVSX0FDQ0VTU19UT0tFTiI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIllvdXIgVHdpdHRlciBBY2NvdW50IENyZWRlbnRpYWxzIGZvciB0aGlzIGJvdCBodHRwczovL2FwcHMudHdpdHRlci5jb20iCiAgICB9LAogICAgIlRXSVRURVJfQUNDRVNTX1NFQ1JFVCI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIllvdXIgVHdpdHRlciBBY2NvdW50IENyZWRlbnRpYWxzIGZvciB0aGlzIGJvdCBodHRwczovL2FwcHMudHdpdHRlci5jb20iCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzc2lnbm1lbnRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VFdJVFRFUl9DT05TVU1FUl9LRVk9eG5NdzUyaWk2YzRCVGJTOWlUWTlROUVVOApUV0lUVEVSX0NPTlNVTUVSX1NFQ1JFVD1yaExiTmhRMzV6OW1QcFhxVVN3SVFjWWJyYWxKOXE2UHpyb2VjM0F1blNyS0FWVFlSRApUV0lUVEVSX0FDQ0VTU19UT0tFTj04NTczMTI4NDE2OTg3Mjk5ODQtUzg3SFNhVHpIMXlVZkduZGN6QzZsVEZjR2ZURThrVApUV0lUVEVSX0FDQ0VTU19TRUNSRVQ9REtPZ205T3Eya2xsU1dIWEwzWUN5T3dVRkhMdGxlMHd2TE56c2ZEQUFFMlRMCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh1bmFzc2lnbmVkQ291bnQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHdlZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1454,8 +1470,8 @@
         <entry>batch</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
