@@ -227,7 +227,6 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/node_modules/botkit/lib/CoreBot.js" timestamp="1494334958934" />
       <file name="$USER_HOME$/Work/kibela/client/components/shared/loading_indicator.jsx" timestamp="1493060086406">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -411,6 +410,12 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
+      <file name="$USER_HOME$/Work/clerkbot/app.json" timestamp="1494762724963">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/migration/tokubai.rake" timestamp="1485549765286">
         <mark key="'" line="74" column="4" />
         <mark key="[" line="294" column="14" />
@@ -463,6 +468,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Work/clerkbot/.env" timestamp="1494762220208">
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="5" column="81" />
+        <mark key="." line="5" column="81" />
+        <mark key="^" line="5" column="81" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/analysis_db.rake" timestamp="1483824400140">
         <mark key="'" line="105" column="4" />
@@ -755,11 +766,23 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/Work/clerkbot/app/bot.js" timestamp="1494763002100">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="58" />
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
+      </file>
+      <file name="$USER_HOME$/Work/clerkbot/index.js" timestamp="1494762243740">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+        <mark key="^" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -1117,9 +1140,6 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_login.scss" timestamp="1493151845256">
-        <mark key="[" line="4" column="20" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/layouts/editor.html.haml" timestamp="1487077993019">
         <mark key="[" line="10" column="86" />
         <mark key="]" line="10" column="109" />
@@ -1378,7 +1398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgdGhpcy50d2l0dGVyQ2xpZW50ID0gbmV3IFR3aXR0ZXIoewogICAgICBjb25zdW1lcl9rZXk6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZLAogICAgICBjb25zdW1lcl9zZWNyZXQ6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfU0VDUkVULAogICAgICBhY2Nlc3NfdG9rZW5fa2V5OiBwcm9jZXNzLmVudi5UV0lUVEVSX0FDQ0VTU19UT0tFTiwKICAgICAgYWNjZXNzX3Rva2VuX3NlY3JldDogcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfU0VDUkVULAogICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>`Oops :persevere: ${err[0].message}`</text>
@@ -1390,31 +1410,31 @@
         <text>`https://twitter.com/${tweet.user.screen_name}/status/${tweet.id_str}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgdGhpcy50d2l0dGVyQ2xpZW50ID0gbmV3IFR3aXR0ZXIoewogICAgICBjb25zdW1lcl9rZXk6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZLAogICAgICBjb25zdW1lcl9zZWNyZXQ6IHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfU0VDUkVULAogICAgICBhY2Nlc3NfdG9rZW5fa2V5OiBwcm9jZXNzLmVudi5UV0lUVEVSX0FDQ0VTU19UT0tFTiwKICAgICAgYWNjZXNzX3Rva2VuX3NlY3JldDogcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfU0VDUkVULAogICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHdlZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV4dE1zZy50ZXh0ID0gJ1R3ZWV0ZWQgOmRpenp5Oic7Cg==</text>
+        <text encoding="base64">Y29uc3QgVHdpdHRlciA9IHJlcXVpcmUoJ3R3aXR0ZXInKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmV4dE1zZy5hdHRhY2htZW50c1swXS5hY3Rpb25zID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LlRXSVRURVJfQ09OU1VNRVJfS0VZICYmCiAgICBwcm9jZXNzLmVudi5UV0lUVEVSX0NPTlNVTUVSX1NFQ1JFVCAmJgogICAgcHJvY2Vzcy5lbnYuVFdJVFRFUl9BQ0NFU1NfVE9LRU4gJiYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3QucmVwbHkobXNnLCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV4dE1zZyA9IG1zZy5vcmlnaW5hbF9tZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICJUV0lUVEVSX0NPTlNVTUVSX0tFWSI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIlR3aXR0ZXIgQXBwbGljYXRpb24gU2V0dGluZ3MgaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tIgogICAgfSwKICAgICJUV0lUVEVSX0NPTlNVTUVSX1NFQ1JFVCI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIlR3aXR0ZXIgQXBwbGljYXRpb24gU2V0dGluZ3MgaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tIgogICAgfSwKICAgICJUV0lUVEVSX0FDQ0VTU19UT0tFTiI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIllvdXIgVHdpdHRlciBBY2NvdW50IENyZWRlbnRpYWxzIGZvciB0aGlzIGJvdCBodHRwczovL2FwcHMudHdpdHRlci5jb20iCiAgICB9LAogICAgIlRXSVRURVJfQUNDRVNTX1NFQ1JFVCI6IHsKICAgICAgImRlc2NyaXB0aW9uIjogIllvdXIgVHdpdHRlciBBY2NvdW50IENyZWRlbnRpYWxzIGZvciB0aGlzIGJvdCBodHRwczovL2FwcHMudHdpdHRlci5jb20iCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVycikgewogICAgICAgIHRoaXMuY29udHJvbGxlci5ib3RraXQubG9nKCdFcnJvcjogYWNjb3VudC92ZXJpZnlfY3JlZGVudGlhbHMnLCBlcnIpOwogICAgICB9Cg==</text>
+        <text encoding="base64">VFdJVFRFUl9DT05TVU1FUl9LRVk9eG5NdzUyaWk2YzRCVGJTOWlUWTlROUVVOApUV0lUVEVSX0NPTlNVTUVSX1NFQ1JFVD1yaExiTmhRMzV6OW1QcFhxVVN3SVFjWWJyYWxKOXE2UHpyb2VjM0F1blNyS0FWVFlSRApUV0lUVEVSX0FDQ0VTU19UT0tFTj04NTczMTI4NDE2OTg3Mjk5ODQtUzg3SFNhVHpIMXlVZkduZGN6QzZsVEZjR2ZURThrVApUV0lUVEVSX0FDQ0VTU19TRUNSRVQ9REtPZ205T3Eya2xsU1dIWEwzWUN5T3dVRkhMdGxlMHd2TE56c2ZEQUFFMlRMCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnY2FuY2VsJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1zZy5hY3Rpb25zWzBdLm5hbWUgIT09ICd0d2VldCcpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHdlZXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
