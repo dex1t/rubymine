@@ -790,11 +790,11 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/Work/clerkbot/app/skills/stats.js" timestamp="1494768240057">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="11" column="5" />
-        <mark key="^" line="11" column="5" />
+      <file name="$USER_HOME$/Work/clerkbot/app/skills/stats.js" timestamp="1494780002680">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="67" />
+        <mark key="." line="31" column="67" />
+        <mark key="^" line="31" column="67" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483991458290">
         <mark key="'" line="25" column="25" />
@@ -1414,7 +1414,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>`Oops :persevere: ${err[0].message}`</text>
@@ -1426,28 +1426,28 @@
         <text>this.buildAttachment(r[0], r[1])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVtYmVyU3RhdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBib3Quc2F5KHsKICAgICAgICAgIGNoYW5uZWw6IG1zZy5jaGFubmVsLAogICAgICAgICAgdGV4dDogJ1RoaXMgaXMgdGhlIGN1cnJlbnQgb3BlbiBjb252ZXJzYXRpb24gOm1haWxib3hfd2l0aF9tYWlsOicsCiAgICAgICAgICBhdHRhY2htZW50czogW3RoaXMuYnVpbGRBdHRhY2htZW50KHJbMF0udW5hc3NpZ25lZCwgclsxXSldLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihyWzBdLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbWJlclN0YXRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh0aGlzLmJ1aWxkQXR0YWNobWVudChyWzBdLCByWzFdKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzc2lnbm1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh1bmFzc2lnbmVkQ291bnQpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVtYmVyU3RhdHMpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
