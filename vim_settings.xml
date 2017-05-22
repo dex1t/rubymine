@@ -513,7 +513,8 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/tweet.js" timestamp="1494411000951">
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/tweet.js" timestamp="1495436198159">
+        <mark key="'" line="56" column="22" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="0" column="29" />
@@ -748,7 +749,8 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1494505895857">
+      <file name="$USER_HOME$/Work/sparrowbot/app/skills/search.js" timestamp="1495436285099">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -1261,8 +1263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
-      <jump line="56" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="57" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="60" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" />
       <jump line="113" column="23" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
@@ -1360,7 +1360,9 @@
       <jump line="24" column="6" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
       <jump line="25" column="36" filename="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" />
       <jump line="36" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" />
-      <jump line="27" column="22" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
+      <jump line="56" column="22" filename="$USER_HOME$/Work/sparrowbot/app/skills/tweet.js" />
+      <jump line="139" column="23" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Work/sparrowbot/app/skills/search.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
