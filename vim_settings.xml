@@ -278,12 +278,12 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" timestamp="1496336447164">
+      <file name="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" timestamp="1496339449246">
         <mark key="'" line="69" column="12" />
-        <mark key="[" line="103" column="6" />
-        <mark key="]" line="103" column="3" />
-        <mark key="." line="103" column="3" />
-        <mark key="^" line="103" column="3" />
+        <mark key="[" line="111" column="73" />
+        <mark key="]" line="111" column="48" />
+        <mark key="." line="111" column="48" />
+        <mark key="^" line="111" column="48" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/controllers/sign_up/users_controller_spec.rb" timestamp="1487785513547">
         <mark key="[" line="64" column="0" />
