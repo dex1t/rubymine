@@ -888,7 +888,7 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496652367340" />
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496683680965" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/_popular_entries.html.haml" timestamp="1485468167030">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="20" />
@@ -982,6 +982,9 @@
       <file name="$USER_HOME$/Work/sparrowbot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1494328970305">
         <mark key="[" line="632" column="0" />
         <mark key="]" line="632" column="62" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" timestamp="1496683767692">
+        <mark key="'" line="131" column="7" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1492718935739">
         <mark key="'" line="411" column="17" />
@@ -1321,7 +1324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
       <jump line="42" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="107" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
@@ -1421,6 +1423,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/holiday.rake" />
       <jump line="279" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/holiday.rake" />
       <jump line="69" column="12" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" />
+      <jump line="131" column="7" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
