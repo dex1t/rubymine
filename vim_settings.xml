@@ -888,6 +888,7 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496652367340" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/_popular_entries.html.haml" timestamp="1485468167030">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="20" />
@@ -1089,8 +1090,6 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/attachment.rb" timestamp="1496264893142" />
-      <file name="$USER_HOME$/Work/kibela/spec/models/category_spec.rb" timestamp="1496260650240" />
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_webhook.scss" timestamp="1487335117837">
         <mark key="[" line="128" column="13" />
         <mark key="]" line="128" column="14" />
@@ -1205,7 +1204,6 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/.env.development" timestamp="1496268848640" />
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_shape.jsx" timestamp="1486325189845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
