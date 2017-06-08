@@ -1279,6 +1279,9 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/build/utils/markdown_modifier.js" timestamp="1496956018551">
+        <mark key="'" line="101" column="50" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/setting/avatar_setting_box.jsx" timestamp="1484932278194">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="33" />
@@ -1326,7 +1329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="107" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="96" column="22" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
       <jump line="46" column="27" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
@@ -1426,6 +1428,7 @@
       <jump line="69" column="12" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" />
       <jump line="131" column="7" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" />
       <jump line="110" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" />
+      <jump line="101" column="50" filename="$USER_HOME$/Work/kibela/build/utils/markdown_modifier.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
