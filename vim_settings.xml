@@ -21,12 +21,6 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/bot.js" timestamp="1494357517292">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -284,7 +278,13 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/teams/importers/qiita_teams/show.html.haml" timestamp="1495037192538" />
+      <file name="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" timestamp="1496344930690">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="67" column="59" />
+        <mark key="]" line="67" column="53" />
+        <mark key="." line="67" column="53" />
+        <mark key="^" line="67" column="53" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/spec/controllers/sign_up/users_controller_spec.rb" timestamp="1487785513547">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -353,10 +353,10 @@
         <mark key="^" line="0" column="150" />
         <mark key="." line="0" column="150" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/lib/tasks/unified_db.rake" timestamp="1485195138839">
+      <file name="$USER_HOME$/Work/kibela/lib/tasks/unified_db.rake" timestamp="1496336432494">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="125" column="26" />
-        <mark key="]" line="125" column="20" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="38" />
         <mark key="^" line="125" column="20" />
         <mark key="." line="125" column="20" />
       </file>
@@ -513,6 +513,11 @@
         <mark key="]" line="24" column="64" />
         <mark key="^" line="24" column="64" />
         <mark key="." line="24" column="64" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/lib/tasks/migration/holiday.rake" timestamp="1496267383949">
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="37" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/feed/_entry_with_snippet.html.haml" timestamp="1487763250996">
         <mark key="[" line="5" column="11" />
@@ -847,12 +852,6 @@
         <mark key="." line="157" column="15" />
         <mark key="^" line="157" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_button.scss" timestamp="1493060494389">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/shared/profile/biography.spec.js" timestamp="1486360713017">
         <mark key="[" line="4" column="61" />
         <mark key="]" line="4" column="57" />
@@ -889,17 +888,12 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496683680965" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/_popular_entries.html.haml" timestamp="1485468167030">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" timestamp="1492765073985">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/_profile.html.haml" timestamp="1487322828780">
         <mark key="[" line="0" column="0" />
@@ -989,6 +983,9 @@
         <mark key="[" line="632" column="0" />
         <mark key="]" line="632" column="62" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" timestamp="1496683767692">
+        <mark key="'" line="131" column="7" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.jsx" timestamp="1492718935739">
         <mark key="'" line="411" column="17" />
         <mark key="[" line="408" column="0" />
@@ -1007,12 +1004,6 @@
         <mark key="]" line="2" column="104" />
         <mark key="^" line="2" column="104" />
         <mark key="." line="2" column="104" />
-      </file>
-      <file name="$USER_HOME$/Work/sparrowbot/app/skills/like.js" timestamp="1494360841810">
-        <mark key="'" line="39" column="26" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/application.scss" timestamp="1484932979497">
         <mark key="[" line="27" column="21" />
@@ -1209,8 +1200,8 @@
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1491512712955">
-        <mark key="'" line="197" column="2" />
+      <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1496264293396">
+        <mark key="'" line="63" column="4" />
         <mark key="[" line="24" column="19" />
         <mark key="]" line="26" column="40" />
         <mark key="^" line="26" column="40" />
@@ -1333,13 +1324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="21" column="2" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="84" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="246" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
-      <jump line="22" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="54" column="24" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
-      <jump line="61" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
       <jump line="42" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="107" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
@@ -1433,46 +1417,53 @@
       <jump line="13" column="0" filename="$USER_HOME$/Work/kibela/app/views/shared/_setting_menu.html.haml" />
       <jump line="59" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/teams/importers/qiita_teams_controller.rb" />
       <jump line="0" column="11" filename="$USER_HOME$/Work/kibela/app/controllers/teams/importers/qiita_teams_controller.rb" />
+      <jump line="76" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" />
+      <jump line="49" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" />
+      <jump line="63" column="4" filename="$USER_HOME$/Work/kibela/app/models/wiki.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/holiday.rake" />
+      <jump line="279" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/holiday.rake" />
+      <jump line="69" column="12" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" />
+      <jump line="131" column="7" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIOOCpOODs+ODneODvOODiOapn+iDveOBr+ePvuWcqOa6luWCmeS4reOBp+OBmeOAggo=</text>
+        <text encoding="base64">ICAgIFdpa2kuc2tpcF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpub3RpZnlfZGVzdHJ1Y3Rpb24pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`Oops :persevere: ${err[0].message}`</text>
+        <text>Category.find_by_path(path)</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlIFRlYW1zCiAgbW9kdWxlIEltcG9ydGVycwogICAgY2xhc3MgUWlpdGFUZWFtc0NvbnRyb2xsZXIgPCBBcHBsaWNhdGlvbkNvbnRyb2xsZXIKICAgICAgaW5jbHVkZSBDb25jZXJuczo6SW1wb3J0YWJsZQoKICAgICAgYmVmb3JlX2FjdGlvbiBkbwogICAgICAgIHJlZGlyZWN0X3RvIHJvb3RfcGF0aCB1bmxlc3MgQmV0YUZlYXR1cmUuZW5hYmxlZD8oOmltcG9ydGVyKQogICAgICBlbmQKCiAgICAgIGRlZiBzaG93CiAgICAgICAgQGltcG9ydGluZyA9IFJlZGlzLmN1cnJlbnQuZ2V0KDo6SW1wb3J0ZXJzOjpRaWl0YVRlYW1JbXBvcnRlckpvYjo6UkVESVNfSU1QT1JUSU5HX0tFWSkucHJlc2VudD8KICAgICAgZW5kCgogICAgICBkZWYgY3JlYXRlKHFpaXRhX3RlYW1fbmFtZTosIGFwaV90b2tlbjosIGxvZ2luX2lkOiwgbG9naW5fcGFzc3dvcmQ6LCBpbXBvcnRfcHJpdmF0ZV9lbnRyeTogIjAiKQogICAgICAgIGNyZWRlbnRpYWxfc3RhdHVzID0gY2hlY2tfY3JlZGVudGlhbChxaWl0YV90ZWFtX25hbWU6IHFpaXRhX3RlYW1fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3Rva2VuOiBhcGlfdG9rZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2luX2lkOiBsb2dpbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5fcGFzc3dvcmQ6IGxvZ2luX3Bhc3N3b3JkKQogICAgICAgIHNldF9mbGFzaF9ieV9jcmVkZW50aWFsX3N0YXR1cyhjcmVkZW50aWFsX3N0YXR1cykKCiAgICAgICAgaWYgY3JlZGVudGlhbF9zdGF0dXMgPT0gOnN1Y2Nlc3MKICAgICAgICAgIGVucXVldWVfaW1wb3J0ZXJfam9iKAogICAgICAgICAgICBxaWl0YV90ZWFtX25hbWU6IHFpaXRhX3RlYW1fbmFtZSwKICAgICAgICAgICAgbG9naW5faWQ6IGxvZ2luX2lkLAogICAgICAgICAgICBlbmNyeXB0ZWRfYXBpX3Rva2VuOiBFbmNyeXB0b3IuZW5jcnlwdChhcGlfdG9rZW4pLAogICAgICAgICAgICBlbmNyeXB0ZWRfbG9naW5fcGFzc3dvcmQ6IEVuY3J5cHRvci5lbmNyeXB0KGxvZ2luX3Bhc3N3b3JkKSwKICAgICAgICAgICAgaW1wb3J0X3ByaXZhdGVfZW50cnk6IEFjdGl2ZVJlY29yZDo6VHlwZTo6Qm9vbGVhbi5uZXcudHlwZV9jYXN0X2Zyb21fdXNlcihpbXBvcnRfcHJpdmF0ZV9lbnRyeSksCiAgICAgICAgICApCiAgICAgICAgZW5kCgogICAgICAgIHJlZGlyZWN0X3RvIHRlYW1faW1wb3J0ZXJzX3FpaXRhX3RlYW1fcGF0aAogICAgICBlbmQKCiAgICAgIHByaXZhdGUKCiAgICAgICMgQHBhcmFtIFtTdHJpbmddIHFpaXRhX3RlYW1fbmFtZQogICAgICAjIEBwYXJhbSBbU3RyaW5nXSBhcGlfdG9rZW4KICAgICAgIyBAcGFyYW0gW1N0cmluZ10gbG9naW5faWQKICAgICAgIyBAcGFyYW0gW1N0cmluZ10gbG9naW5fcGFzc3dvcmQKICAgICAgIyBAcmV0dXJuIFtTeW1ib2xdCiAgICAgIGRlZiBjaGVja19jcmVkZW50aWFsKHFpaXRhX3RlYW1fbmFtZTosIGFwaV90b2tlbjosIGxvZ2luX2lkOiwgbG9naW5fcGFzc3dvcmQ6KQogICAgICAgIEtpYmVsYTo6SW1wb3J0ZXI6OlFpaXRhVGVhbS5uZXcoCiAgICAgICAgICB0ZWFtX25hbWU6IHFpaXRhX3RlYW1fbmFtZSwKICAgICAgICAgIHRva2VuOiBhcGlfdG9rZW4sCiAgICAgICAgICBsb2dpbl9pZDogbG9naW5faWQsCiAgICAgICAgICBsb2dpbl9wYXNzd29yZDogbG9naW5fcGFzc3dvcmQsCiAgICAgICAgKS5jaGVja19jcmVkZW50aWFsCiAgICAgIGVuZAoKICAgICAgIyBAcGFyYW0gW1N0cmluZ10gcWlpdGFfdGVhbV9uYW1lCiAgICAgICMgQHBhcmFtIFtTdHJpbmddIGxvZ2luX2lkCiAgICAgICMgQHBhcmFtIFtTdHJpbmddIGVuY3J5cHRlZF9hcGlfdG9rZW4KICAgICAgIyBAcGFyYW0gW1N0cmluZ10gZW5jcnlwdGVkX2xvZ2luX3Bhc3N3b3JkCiAgICAgICMgQHBhcmFtIFtCb29sZWFuXSBpbXBvcnRfcHJpdmF0ZV9lbnRyeQogICAgICBkZWYgZW5xdWV1ZV9pbXBvcnRlcl9qb2IocWlpdGFfdGVhbV9uYW1lOiwgbG9naW5faWQ6LCBlbmNyeXB0ZWRfYXBpX3Rva2VuOiwgZW5jcnlwdGVkX2xvZ2luX3Bhc3N3b3JkOiwgaW1wb3J0X3ByaXZhdGVfZW50cnk6KQogICAgICAgIDo6SW1wb3J0ZXJzOjpRaWl0YVRlYW1JbXBvcnRlckpvYi5wZXJmb3JtX2xhdGVyKAogICAgICAgICAgdGVhbV9pZDogVGVhbS5jdXJyZW50LmlkLAogICAgICAgICAgcWlpdGFfdGVhbV9uYW1lOiBxaWl0YV90ZWFtX25hbWUsCiAgICAgICAgICBsb2dpbl9pZDogbG9naW5faWQsCiAgICAgICAgICBlbmNyeXB0ZWRfYXBpX3Rva2VuOiBlbmNyeXB0ZWRfYXBpX3Rva2VuLAogICAgICAgICAgZW5jcnlwdGVkX2xvZ2luX3Bhc3N3b3JkOiBlbmNyeXB0ZWRfbG9naW5fcGFzc3dvcmQsCiAgICAgICAgICBpbXBvcnRfcHJpdmF0ZV9lbnRyeTogaW1wb3J0X3ByaXZhdGVfZW50cnksCiAgICAgICAgKQogICAgICBlbmQKICAgIGVuZAogIGVuZAplbmQK</text>
+        <text encoding="base64">ICAgIFdpa2kuc2tpcF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpub3RpZnlfZGVzdHJ1Y3Rpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIOOCpOODs+ODneODvOODiOapn+iDveOBr+ePvuWcqOa6luWCmeS4reOBp+OBmeOAggo=</text>
+        <text encoding="base64">ICAgICAgYXR0YWNoZW1lbnQuYXNzZXRfdXJsLmdzdWIoIi9wcml2YXRlLyN7VGVhbS5maW5kX2J5KHN1YmRvbWFpbjogRlJPTV9URUFNKS5pZH0vIiwgIi9wcml2YXRlLyN7VGVhbS5maW5kX2J5KHN1YmRvbWFpbjogVE9fVEVBTSkuaWR9LyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0jLSBpZiBCZXRhRmVhdHVyZS5lbmFibGVkPyg6aW1wb3J0ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gaWYgQmV0YUZlYXR1cmUuZW5hYmxlZD8oOmltcG9ydGVyKQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZSBDb25jZXJuczo6SW1wb3J0YWJsZQoKICAgICAgYmVmb3JlX2FjdGlvbiBkbwogICAgICAgIHJlZGlyZWN0X3RvIHJvb3RfcGF0aCB1bmxlc3MgQmV0YUZlYXR1cmUuZW5hYmxlZD8oOmltcG9ydGVyKQogICAgICBlbmQKCiAgICAgIGRlZiBzaG93CiAgICAgICAgQGltcG9ydGluZyA9IFJlZGlzLmN1cnJlbnQuZ2V0KDo6SW1wb3J0ZXJzOjpRaWl0YVRlYW1JbXBvcnRlckpvYjo6UkVESVNfSU1QT1JUSU5HX0tFWSkucHJlc2VudD8KICAgICAgZW5kCgogICAgICBkZWYgY3JlYXRlKHFpaXRhX3RlYW1fbmFtZTosIGFwaV90b2tlbjosIGxvZ2luX2lkOiwgbG9naW5fcGFzc3dvcmQ6LCBpbXBvcnRfcHJpdmF0ZV9lbnRyeTogIjAiKQogICAgICAgIGNyZWRlbnRpYWxfc3RhdHVzID0gY2hlY2tfY3JlZGVudGlhbChxaWl0YV90ZWFtX25hbWU6IHFpaXRhX3RlYW1fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3Rva2VuOiBhcGlfdG9rZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2luX2lkOiBsb2dpbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5fcGFzc3dvcmQ6IGxvZ2luX3Bhc3N3b3JkKQogICAgICAgIHNldF9mbGFzaF9ieV9jcmVkZW50aWFsX3N0YXR1cyhjcmVkZW50aWFsX3N0YXR1cykKCiAgICAgICAgaWYgY3JlZGVudGlhbF9zdGF0dXMgPT0gOnN1Y2Nlc3MKICAgICAgICAgIGVucXVldWVfaW1wb3J0ZXJfam9iKAogICAgICAgICAgICBxaWl0YV90ZWFtX25hbWU6IHFpaXRhX3RlYW1fbmFtZSwKICAgICAgICAgICAgbG9naW5faWQ6IGxvZ2luX2lkLAogICAgICAgICAgICBlbmNyeXB0ZWRfYXBpX3Rva2VuOiBFbmNyeXB0b3IuZW5jcnlwdChhcGlfdG9rZW4pLAogICAgICAgICAgICBlbmNyeXB0ZWRfbG9naW5fcGFzc3dvcmQ6IEVuY3J5cHRvci5lbmNyeXB0KGxvZ2luX3Bhc3N3b3JkKSwKICAgICAgICAgICAgaW1wb3J0X3ByaXZhdGVfZW50cnk6IEFjdGl2ZVJlY29yZDo6VHlwZTo6Qm9vbGVhbi5uZXcudHlwZV9jYXN0X2Zyb21fdXNlcihpbXBvcnRfcHJpdmF0ZV9lbnRyeSksCiAgICAgICAgICApCiAgICAgICAgZW5kCgogICAgICAgIHJlZGlyZWN0X3RvIHRlYW1faW1wb3J0ZXJzX3FpaXRhX3RlYW1fcGF0aAogICAgICBlbmQKCiAgICAgIHByaXZhdGUKCiAgICAgICMgQHBhcmFtIFtTdHJpbmddIHFpaXRhX3RlYW1fbmFtZQogICAgICAjIEBwYXJhbSBbU3RyaW5nXSBhcGlfdG9rZW4KICAgICAgIyBAcGFyYW0gW1N0cmluZ10gbG9naW5faWQKICAgICAgIyBAcGFyYW0gW1N0cmluZ10gbG9naW5fcGFzc3dvcmQKICAgICAgIyBAcmV0dXJuIFtTeW1ib2xdCiAgICAgIGRlZiBjaGVja19jcmVkZW50aWFsKHFpaXRhX3RlYW1fbmFtZTosIGFwaV90b2tlbjosIGxvZ2luX2lkOiwgbG9naW5fcGFzc3dvcmQ6KQogICAgICAgIEtpYmVsYTo6SW1wb3J0ZXI6OlFpaXRhVGVhbS5uZXcoCiAgICAgICAgICB0ZWFtX25hbWU6IHFpaXRhX3RlYW1fbmFtZSwKICAgICAgICAgIHRva2VuOiBhcGlfdG9rZW4sCiAgICAgICAgICBsb2dpbl9pZDogbG9naW5faWQsCiAgICAgICAgICBsb2dpbl9wYXNzd29yZDogbG9naW5fcGFzc3dvcmQsCiAgICAgICAgKS5jaGVja19jcmVkZW50aWFsCiAgICAgIGVuZAoKICAgICAgIyBAcGFyYW0gW1N0cmluZ10gcWlpdGFfdGVhbV9uYW1lCiAgICAgICMgQHBhcmFtIFtTdHJpbmddIGxvZ2luX2lkCiAgICAgICMgQHBhcmFtIFtTdHJpbmddIGVuY3J5cHRlZF9hcGlfdG9rZW4KICAgICAgIyBAcGFyYW0gW1N0cmluZ10gZW5jcnlwdGVkX2xvZ2luX3Bhc3N3b3JkCiAgICAgICMgQHBhcmFtIFtCb29sZWFuXSBpbXBvcnRfcHJpdmF0ZV9lbnRyeQogICAgICBkZWYgZW5xdWV1ZV9pbXBvcnRlcl9qb2IocWlpdGFfdGVhbV9uYW1lOiwgbG9naW5faWQ6LCBlbmNyeXB0ZWRfYXBpX3Rva2VuOiwgZW5jcnlwdGVkX2xvZ2luX3Bhc3N3b3JkOiwgaW1wb3J0X3ByaXZhdGVfZW50cnk6KQogICAgICAgIDo6SW1wb3J0ZXJzOjpRaWl0YVRlYW1JbXBvcnRlckpvYi5wZXJmb3JtX2xhdGVyKAogICAgICAgICAgdGVhbV9pZDogVGVhbS5jdXJyZW50LmlkLAogICAgICAgICAgcWlpdGFfdGVhbV9uYW1lOiBxaWl0YV90ZWFtX25hbWUsCiAgICAgICAgICBsb2dpbl9pZDogbG9naW5faWQsCiAgICAgICAgICBlbmNyeXB0ZWRfYXBpX3Rva2VuOiBlbmNyeXB0ZWRfYXBpX3Rva2VuLAogICAgICAgICAgZW5jcnlwdGVkX2xvZ2luX3Bhc3N3b3JkOiBlbmNyeXB0ZWRfbG9naW5fcGFzc3dvcmQsCiAgICAgICAgICBpbXBvcnRfcHJpdmF0ZV9lbnRyeTogaW1wb3J0X3ByaXZhdGVfZW50cnksCiAgICAgICAgKQogICAgICBlbmQKICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MjIwMDNtcwo=</text>
+        <text encoding="base64">ICAgICAgQ29tbWVudC5za2lwX2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOm5vdGlmeV9jcmVhdGlvbikKICAgICAgQ29tbWVudC5za2lwX2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOm5vdGlmeV9kZXN0cnVjdGlvbikKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgV2lraS5za2lwX2NhbGxiYWNrKDpzYXZlLCA6YmVmb3JlLCA6dG91Y2hfY29udGVudF91cGRhdGVkX2F0KQogICAgICBXaWtpLnNraXBfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6bm90aWZ5X2NyZWF0aW9uKQogICAgICBXaWtpLnNraXBfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6bm90aWZ5X3VwZGF0ZSkKICAgICAgV2lraS5za2lwX2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOm5vdGlmeV9kZXN0cnVjdGlvbikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
