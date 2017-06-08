@@ -227,6 +227,9 @@
         <mark key="." line="21" column="19" />
         <mark key="^" line="21" column="19" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" timestamp="1496959061687">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_horizontal_tab.scss" timestamp="1491993967903">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="54" column="58" />
@@ -353,6 +356,12 @@
         <mark key="^" line="0" column="150" />
         <mark key="." line="0" column="150" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_footer_navigation.scss" timestamp="1496960033779">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/unified_db.rake" timestamp="1496336432494">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="73" column="0" />
@@ -387,6 +396,12 @@
         <mark key="." line="108" column="20" />
         <mark key="^" line="108" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" timestamp="1496959947494">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/wikis/index.html.haml" timestamp="1490822763547">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="27" />
@@ -398,6 +413,12 @@
         <mark key="]" line="3" column="63" />
         <mark key="^" line="3" column="63" />
         <mark key="." line="3" column="63" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/edit_pane.tsx" timestamp="1496958163729">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="115" />
+        <mark key="^" line="33" column="115" />
+        <mark key="." line="33" column="115" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/setting/_setting.scss" timestamp="1491928642578">
         <mark key="[" line="64" column="4" />
@@ -555,12 +576,8 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" timestamp="1492617576647">
-        <mark key="'" line="80" column="19" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="114" column="24" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" timestamp="1496959781282">
+        <mark key="'" line="180" column="16" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/wiki_tree/wiki_feed.jsx" timestamp="1489426609414">
         <mark key="'" line="57" column="17" />
@@ -888,8 +905,10 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496954109774">
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496958308515">
         <mark key="'" line="110" column="0" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="71" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/_popular_entries.html.haml" timestamp="1485468167030">
         <mark key="[" line="4" column="35" />
@@ -909,6 +928,11 @@
         <mark key="]" line="15" column="41" />
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/editor_core.tsx" timestamp="1496958210727">
+        <mark key="'" line="306" column="27" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/database.yml" timestamp="1485192862916">
         <mark key="'" line="23" column="0" />
@@ -980,10 +1004,6 @@
         <mark key="]" line="11" column="52" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/Work/sparrowbot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1494328970305">
-        <mark key="[" line="632" column="0" />
-        <mark key="]" line="632" column="62" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" timestamp="1496683767692">
         <mark key="'" line="131" column="7" />
@@ -1077,10 +1097,6 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/Work/clerkbot/app/skills/ping.js" timestamp="1494764114580">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_blog_author.scss" timestamp="1486562668716">
         <mark key="'" line="26" column="0" />
@@ -1201,6 +1217,10 @@
         <mark key="]" line="2" column="129" />
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.tsx" timestamp="1496958199934">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="64" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1496264293396">
         <mark key="'" line="63" column="4" />
@@ -1329,12 +1349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="96" column="22" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
-      <jump line="46" column="27" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
-      <jump line="104" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="36" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
-      <jump line="117" column="36" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="39" column="144" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="90" column="21" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="116" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
@@ -1429,10 +1443,16 @@
       <jump line="131" column="7" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" />
       <jump line="110" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" />
       <jump line="101" column="50" filename="$USER_HOME$/Work/kibela/build/utils/markdown_modifier.js" />
+      <jump line="288" column="2" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
+      <jump line="66" column="4" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
+      <jump line="168" column="8" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
+      <jump line="306" column="27" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/editor_core.tsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" />
+      <jump line="180" column="16" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFdpa2kuc2tpcF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpub3RpZnlfZGVzdHJ1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQteHM7CiAgICBAaW5jbHVkZSBzbWFydHBob25lU2lkZVBhZGRpbmc7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGhlaWdodDogYXV0bzsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiAgICAmLWxpbmtzIHsKICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Category.find_by_path(path)</text>
@@ -1441,34 +1461,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFdpa2kuc2tpcF9jYWxsYmFjayg6Y29tbWl0LCA6YWZ0ZXIsIDpub3RpZnlfZGVzdHJ1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgZm9udC1kZWZhdWx0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXR0YWNoZW1lbnQuYXNzZXRfdXJsLmdzdWIoIi9wcml2YXRlLyN7VGVhbS5maW5kX2J5KHN1YmRvbWFpbjogRlJPTV9URUFNKS5pZH0vIiwgIi9wcml2YXRlLyN7VGVhbS5maW5kX2J5KHN1YmRvbWFpbjogVE9fVEVBTSkuaWR9LyIpCg==</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQteHM7CiAgICBAaW5jbHVkZSBzbWFydHBob25lU2lkZVBhZGRpbmc7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGhlaWdodDogYXV0bzsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiAgICAmLWxpbmtzIHsKICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3c6IGF1dG87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgLmVkaXRvci1wbGFpbkNvbnRlbnQgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgb3V0bGluZTogbm9uZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLXdlYmtpdC1ib3gtc2hhZG93OiBub25lOwogICAgICAtbW96LWJveC1zaGFkb3c6IG5vbmU7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29tbWVudC5za2lwX2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOm5vdGlmeV9jcmVhdGlvbikKICAgICAgQ29tbWVudC5za2lwX2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOm5vdGlmeV9kZXN0cnVjdGlvbikKCg==</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgY2xlYXJPdXRsaW5lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgV2lraS5za2lwX2NhbGxiYWNrKDpzYXZlLCA6YmVmb3JlLCA6dG91Y2hfY29udGVudF91cGRhdGVkX2F0KQogICAgICBXaWtpLnNraXBfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6bm90aWZ5X2NyZWF0aW9uKQogICAgICBXaWtpLnNraXBfY2FsbGJhY2soOmNvbW1pdCwgOmFmdGVyLCA6bm90aWZ5X3VwZGF0ZSkKICAgICAgV2lraS5za2lwX2NhbGxiYWNrKDpjb21taXQsIDphZnRlciwgOm5vdGlmeV9kZXN0cnVjdGlvbikKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQmx1cj17KCkgPT4geyB0aGlzLnByb3BzLmRpc3BhdGNoKCdmb2N1c0NvbnRlbnRCb3gnLCBmYWxzZSk7IH19Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
