@@ -888,7 +888,9 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496683680965" />
+      <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" timestamp="1496954109774">
+        <mark key="'" line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/_popular_entries.html.haml" timestamp="1485468167030">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="20" />
@@ -1324,7 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="107" column="25" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="96" column="22" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
@@ -1424,6 +1425,7 @@
       <jump line="279" column="0" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/holiday.rake" />
       <jump line="69" column="12" filename="$USER_HOME$/Work/kibela/lib/tasks/migration/kibela_to_kibela.rake" />
       <jump line="131" column="7" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" />
+      <jump line="110" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
