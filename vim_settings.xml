@@ -974,12 +974,12 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" timestamp="1487762363806">
-        <mark key="'" line="91" column="12" />
-        <mark key="[" line="228" column="39" />
-        <mark key="]" line="228" column="73" />
-        <mark key="^" line="228" column="73" />
-        <mark key="." line="228" column="73" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" timestamp="1496960672830">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="394" column="21" />
+        <mark key="]" line="394" column="20" />
+        <mark key="." line="394" column="20" />
+        <mark key="^" line="394" column="20" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/factories/boards.rb" timestamp="1491241204191">
         <mark key="[" line="2" column="37" />
@@ -1349,7 +1349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="144" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="90" column="21" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="116" column="0" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_container.jsx" />
       <jump line="76" column="13" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
@@ -1449,10 +1448,11 @@
       <jump line="306" column="27" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/editor_core.tsx" />
       <jump line="13" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" />
       <jump line="180" column="16" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" />
+      <jump line="35" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQteHM7CiAgICBAaW5jbHVkZSBzbWFydHBob25lU2lkZVBhZGRpbmc7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGhlaWdodDogYXV0bzsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiAgICAmLWxpbmtzIHsKICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBib2R5LmJvYXJkcy5zaG93ICNtYWluLAogIGJvZHkuaG9tZS5pbmRleCAjbWFpbiB7CiAgICBwYWRkaW5nOiAyMHB4IDAgMDsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Category.find_by_path(path)</text>
@@ -1461,7 +1461,7 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgZm9udC1kZWZhdWx0Owo=</text>
+        <text encoding="base64">ICBib2R5LmJvYXJkcy5zaG93ICNtYWluLAogIGJvZHkuaG9tZS5pbmRleCAjbWFpbiB7CiAgICBwYWRkaW5nOiAyMHB4IDAgMDsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBpbmNsdWRlIGZvbnQteHM7CiAgICBAaW5jbHVkZSBzbWFydHBob25lU2lkZVBhZGRpbmc7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGhlaWdodDogYXV0bzsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiAgICAmLWxpbmtzIHsKICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICB9Cg==</text>
