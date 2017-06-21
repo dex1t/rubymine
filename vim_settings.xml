@@ -46,11 +46,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" timestamp="1492023724326">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" timestamp="1498054472847">
+        <mark key="'" line="41" column="2" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo.jsx" timestamp="1491300956095">
         <mark key="'" line="24" column="0" />
@@ -1210,7 +1211,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/application_controller.rb" timestamp="1488801707639">
+      <file name="$USER_HOME$/Work/kibela/app/controllers/application_controller.rb" timestamp="1498053988023">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="9" />
@@ -1360,7 +1361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="41" column="17" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="332" column="19" filename="$USER_HOME$/Work/kibela/client/locales/ja.json" />
       <jump line="118" column="0" filename="$USER_HOME$/Work/kibela/client/locales/ja.json" />
@@ -1460,6 +1460,7 @@
       <jump line="124" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="52" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="30" column="47" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="41" column="2" filename="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
