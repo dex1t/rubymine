@@ -46,11 +46,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" timestamp="1492023724326">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" timestamp="1498054472847">
+        <mark key="'" line="41" column="2" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo.jsx" timestamp="1491300956095">
         <mark key="'" line="24" column="0" />
@@ -294,6 +295,12 @@
         <mark key="^" line="64" column="84" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/board_member/BoardMemberListModal.tsx" timestamp="1498586702815">
+        <mark key="[" line="115" column="37" />
+        <mark key="]" line="115" column="36" />
+        <mark key="^" line="115" column="36" />
+        <mark key="." line="115" column="36" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_wiki_template.json.jbuilder" timestamp="1490792333243">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="20" />
@@ -349,6 +356,12 @@
         <mark key="]" line="22" column="9" />
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/locales/ja.json" timestamp="1498586303803">
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="28" />
+        <mark key="^" line="62" column="28" />
+        <mark key="." line="62" column="28" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/teams/settings/outgoing_webhooks/generics/_help_link.html.haml" timestamp="1487815095350">
         <mark key="[" line="0" column="102" />
@@ -1210,7 +1223,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/application_controller.rb" timestamp="1488801707639">
+      <file name="$USER_HOME$/Work/kibela/app/controllers/application_controller.rb" timestamp="1498668240102">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="9" />
@@ -1360,7 +1373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="41" column="17" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
       <jump line="332" column="19" filename="$USER_HOME$/Work/kibela/client/locales/ja.json" />
       <jump line="118" column="0" filename="$USER_HOME$/Work/kibela/client/locales/ja.json" />
@@ -1460,6 +1472,7 @@
       <jump line="124" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="52" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="30" column="47" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="41" column="2" filename="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
