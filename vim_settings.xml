@@ -110,8 +110,8 @@
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" timestamp="1496959781282">
         <mark key="'" line="180" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1501508394270">
-        <mark key="'" line="47" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1501521471629">
+        <mark key="'" line="116" column="2" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="14" />
@@ -958,6 +958,13 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501521533548">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1340,12 +1347,6 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/models/recipe.rb" timestamp="1501510856438">
-        <mark key="[" line="194" column="25" />
-        <mark key="]" line="195" column="39" />
-        <mark key="." line="195" column="39" />
-        <mark key="^" line="195" column="39" />
-      </file>
       <file name="$USER_HOME$/Work/clerkbot/app/skills/stats.js" timestamp="1494780002680">
         <mark key="[" line="31" column="26" />
         <mark key="]" line="31" column="67" />
@@ -1416,8 +1417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
-      <jump line="57" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
       <jump line="66" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
       <jump line="80" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" />
@@ -1516,10 +1515,12 @@
       <jump line="53" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" />
+      <jump line="116" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8JS0gZWxzZSAlPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG1ha2UtaXQtbWluZV9fZGlhbG9n</text>
@@ -1528,34 +1529,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZXBzLmNyZWF0ZSEgaWYgc3RlcHMuZW1wdHk/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8JS0gZWxzZSAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGFsCg==</text>
+        <text encoding="base64">PCUgZW5kICU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCUgY2FjaGVfaWYgc3RlcC5wZXJzaXN0ZWQ/LCBbUmVnaW9uLmN1cnJlbnQsIHN0ZXBdIGRvICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYuc2F2ZSEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYudGl0bGUgPSAiQ29weSBvZiAje3RydW5rX3JlY2lwZS50aXRsZX0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1vZGFsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFYXNpbHkgZmluZCB5b3VyIHZlcnNpb24gYWdhaW4gdG8gY29vayBpdCBmYXN0ZXIgbmV4dCB0aW1lLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
