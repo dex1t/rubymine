@@ -110,12 +110,12 @@
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" timestamp="1496959781282">
         <mark key="'" line="180" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1501499507444">
+      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1501508394270">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="14" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="14" />
-        <mark key="." line="49" column="14" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/tasks/unified_db.rake" timestamp="1496336432494">
         <mark key="'" line="12" column="0" />
@@ -352,6 +352,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" timestamp="1501512131722">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="150" column="21" />
+        <mark key="]" line="151" column="13" />
+        <mark key="." line="151" column="13" />
+        <mark key="^" line="151" column="13" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/avatar_photo.jsx" timestamp="1491300956095">
         <mark key="'" line="24" column="0" />
@@ -957,11 +964,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_customize_modal.html.erb" timestamp="1501499102376">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="71" />
-        <mark key="." line="17" column="71" />
-        <mark key="^" line="17" column="71" />
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_customize_modal.html.erb" timestamp="1501511938613">
+        <mark key="[" line="14" column="100" />
+        <mark key="]" line="14" column="81" />
+        <mark key="^" line="14" column="81" />
+        <mark key="." line="14" column="81" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_webhook.scss" timestamp="1487335117837">
         <mark key="[" line="128" column="13" />
@@ -1333,6 +1340,12 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/app/models/recipe.rb" timestamp="1501510856438">
+        <mark key="[" line="194" column="25" />
+        <mark key="]" line="195" column="39" />
+        <mark key="." line="195" column="39" />
+        <mark key="^" line="195" column="39" />
+      </file>
       <file name="$USER_HOME$/Work/clerkbot/app/skills/stats.js" timestamp="1494780002680">
         <mark key="[" line="31" column="26" />
         <mark key="]" line="31" column="67" />
@@ -1403,7 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
       <jump line="6" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_form.scss" />
       <jump line="57" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
@@ -1503,46 +1515,47 @@
       <jump line="109" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
+      <jump line="18" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIEByZWNpcGUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IG1ha2UtaXQtbWluZV9fZGlhbG9n</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIEByZWNpcGUK</text>
+        <text encoding="base64">ICAgIHN0ZXBzLmNyZWF0ZSEgaWYgc3RlcHMuZW1wdHk/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vZGFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gUGF5ICU+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gdCgicmVjaXBlcy5jdXN0b21pc2UuYnV0dG9uIikgJT4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBSZXNxdWUucmVkaXMgPSAiaXAtMTcyLTMxLTEtMTQ1LmV1LXdlc3QtMi5jb21wdXRlLmludGVybmFsOjYzNzkiCg==</text>
+        <text encoding="base64">ICAgICAgICBFYXNpbHkgZmluZCB5b3VyIHZlcnNpb24gYWdhaW4gdG8gY29vayBpdCBmYXN0ZXIgbmV4dCB0aW1lLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
