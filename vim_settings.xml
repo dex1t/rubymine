@@ -839,6 +839,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/cookbooks/custom-db-configuration/recipes/default.rb" timestamp="1501586209213" />
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_shape.jsx" timestamp="1486325189845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -914,6 +915,9 @@
         <mark key="]" line="32" column="26" />
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/config/database_chat.yml" timestamp="1501585553126">
+        <mark key="'" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_horizontal_tab.scss" timestamp="1491993967903">
         <mark key="'" line="26" column="0" />
@@ -1417,7 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
       <jump line="66" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" />
       <jump line="80" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" />
       <jump line="133" column="2" filename="$USER_HOME$/Work/kibela/client/components/registration/registration_form_user.jsx" />
@@ -1517,6 +1520,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" />
       <jump line="116" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
+      <jump line="94" column="0" filename="$USER_HOME$/Work/global-web/config/database_chat.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
