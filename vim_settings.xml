@@ -916,8 +916,12 @@
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/config/database_chat.yml" timestamp="1501585553126">
-        <mark key="'" line="94" column="0" />
+      <file name="$USER_HOME$/Work/global-web/config/database_chat.yml" timestamp="1501587474870">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="1" />
+        <mark key="." line="37" column="1" />
+        <mark key="^" line="37" column="1" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_horizontal_tab.scss" timestamp="1491993967903">
         <mark key="'" line="26" column="0" />
@@ -1524,7 +1528,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JS0gZWxzZSAlPgo=</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZ2xvYmFsX2NoYXRfZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG1ha2UtaXQtbWluZV9fZGlhbG9n</text>
@@ -1536,34 +1540,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8JS0gZWxzZSAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZ2xvYmFsX2NoYXRfZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCUgZW5kICU+Cg==</text>
+        <text encoding="base64">ICBleV9zdGFnaW5nOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCUgY2FjaGVfaWYgc3RlcC5wZXJzaXN0ZWQ/LCBbUmVnaW9uLmN1cnJlbnQsIHN0ZXBdIGRvICU+Cg==</text>
+        <text encoding="base64">ICBkYXRhYmFzZTogZ2xvYmFsX2NoYXRfZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8PDogKmRlZmF1bHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2F2ZSEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYudGl0bGUgPSAiQ29weSBvZiAje3RydW5rX3JlY2lwZS50aXRsZX0iCg==</text>
+        <text encoding="base64">PCUgZW5kICU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">PCUgY2FjaGVfaWYgc3RlcC5wZXJzaXN0ZWQ/LCBbUmVnaW9uLmN1cnJlbnQsIHN0ZXBdIGRvICU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGFsCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNlbGYuc2F2ZSEK</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1580,8 +1584,8 @@
         <entry>batch</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
