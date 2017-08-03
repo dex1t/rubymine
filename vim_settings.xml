@@ -88,6 +88,12 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/db/migrate/20170803152634_add_caption_to_steps.rb" timestamp="1501774144121">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Work/clerkbot/index.js" timestamp="1494762243740">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="53" />
@@ -625,11 +631,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501758211753">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="63" />
-        <mark key="." line="0" column="63" />
+      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501774313866">
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="14" column="56" />
+        <mark key="^" line="14" column="56" />
+        <mark key="." line="14" column="56" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
