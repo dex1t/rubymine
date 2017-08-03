@@ -631,11 +631,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501774313866">
-        <mark key="[" line="14" column="68" />
-        <mark key="]" line="14" column="56" />
-        <mark key="^" line="14" column="56" />
-        <mark key="." line="14" column="56" />
+      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501775785673">
+        <mark key="[" line="14" column="258" />
+        <mark key="]" line="14" column="272" />
+        <mark key="^" line="14" column="272" />
+        <mark key="." line="14" column="272" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
@@ -684,6 +684,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/editor/fields/text_field.js.coffee" timestamp="1501775418201">
+        <mark key="'" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/registration/form.html.haml" timestamp="1492610766142">
         <mark key="[" line="0" column="4" />
@@ -796,10 +799,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/editor/records/record.js.coffee" timestamp="1501682736794">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="53" column="49" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/editor/records/record.js.coffee" timestamp="1501775457694">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170801164903_add_origin_image_id_to_steps.rb" timestamp="1501606230232">
         <mark key="[" line="2" column="49" />
@@ -1018,8 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="31" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="32" column="0" filename="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" />
       <jump line="152" column="19" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_base.scss" />
       <jump line="686" column="42" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
@@ -1118,10 +1120,12 @@
       <jump line="55" column="6" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="79" column="6" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="71" column="24" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
+      <jump line="23" column="15" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/editor/fields/text_field.js.coffee" />
+      <jump line="33" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/editor/fields/text_field.js.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJyZWNpcGUtc2hvd19fcHJpdmF0ZS1iYWRnZSI+PCU9IGljb24gOmxvY2sgJT4gPCU9IHQoInJlY2lwZXMuc2hvdy5wcml2YXRlIikgJT48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBsaW5rX3RvIGljb24oOmNsb3NlKSwgIiMiLCBjbGFzczogImZhaW50IiwgdGFiaW5kZXg6IC0xLCBkYXRhOiB7IGJlaGF2aW9yOiAiZGVsZXRlIiwgbWVzc2FnZTogdCgiY29tbW9uLmNvbmZpcm1fZGVsZXRlIikgfSAlPgo=</text>
       </register>
       <register name="-" type="4">
         <text>, make_changing: false</text>
@@ -1130,7 +1134,7 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJyZWNpcGUtc2hvd19fcHJpdmF0ZS1iYWRnZSI+PCU9IGljb24gOmxvY2sgJT4gPCU9IHQoInJlY2lwZXMuc2hvdy5wcml2YXRlIikgJT48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBsaW5rX3RvIGljb24oOmNsb3NlKSwgIiMiLCBjbGFzczogImZhaW50IiwgdGFiaW5kZXg6IC0xLCBkYXRhOiB7IGJlaGF2aW9yOiAiZGVsZXRlIiwgbWVzc2FnZTogdCgiY29tbW9uLmNvbmZpcm1fZGVsZXRlIikgfSAlPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCUgY2FjaGUgW1JlZ2lvbi5jdXJyZW50LCBAcmVjaXBlXSBkbyAlPgo=</text>
