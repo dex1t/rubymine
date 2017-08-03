@@ -985,12 +985,12 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501687297880">
+      <file name="$USER_HOME$/Work/global-web/app/views/steps/_step.html.erb" timestamp="1501697882018">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="63" />
-        <mark key="." line="0" column="63" />
-        <mark key="^" line="0" column="63" />
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+        <mark key="." line="14" column="90" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
@@ -1190,6 +1190,11 @@
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/models/step.rb" timestamp="1501697754557">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" timestamp="1496960672830">
         <mark key="'" line="35" column="0" />
@@ -1607,7 +1612,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZHVwX3N0ZXAub3JpZ2luX3N0ZXBfaWQgPSBzdGVwLmlkCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QHJlY2lwZS5vcmlnaW5fcmVjaXBlJi5zdGVwcyYuZmluZF9ieShwb3NpdGlvbjogc3RlcC5wb3NpdGlvbikmLmRlc2NyaXB0aW9u</text>
@@ -1616,34 +1621,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOnJlY2lwZXMsIDpvcmlnaW5fcmVjaXBlX2lkLCA6aW50ZWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCUgb3JpZ2luX3N0ZXAgPSBTdGVwLmZpbmQoc3RlcC5vcmlnaW5fc3RlcF9pZCkmLmRlc2NyaXB0aW9uICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZHVwX3N0ZXAub3JpZ2luX3N0ZXBfaWQgPSBzdGVwLmlkCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luX3N0ZXAgPSBzdGVwCg==</text>
+        <text encoding="base64">ICBkZWYgb3JpZ2luCiAgICAKICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCUgYmluZGluZy5wcnkgJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHVwX3N0ZXAub3JpZ2luX3N0ZXBfaWQgPSBzdGVwLmlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgb3JpZ2luX3N0ZXAgPSBzdGVwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbnMgewogICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICBjb2xvcjogJG9yYW5nZTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuY29udGVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbnMgewogICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICBjb2xvcjogJG9yYW5nZTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
