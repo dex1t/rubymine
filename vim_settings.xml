@@ -120,11 +120,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/db/migrate/20170808151926_create_ways_table.rb" timestamp="1502205964234">
+      <file name="$USER_HOME$/Work/global-web/db/migrate/20170808151926_create_ways_table.rb" timestamp="1502207123747">
         <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/feed/_home_feed_button.html.haml" timestamp="1487757013178">
         <mark key="[" line="4" column="0" />
