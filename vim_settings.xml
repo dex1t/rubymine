@@ -504,6 +504,7 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/app/controllers/replies_controller.rb" timestamp="1502284502230" />
       <file name="$USER_HOME$/Work/kibela/app/controllers/concerns/logrageable.rb" timestamp="1490941450648">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="55" column="48" />
@@ -1167,10 +1168,11 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502222473527">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502285036590">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/feed_items/_masonry.html.erb" timestamp="1500361014083">
         <mark key="[" line="15" column="9" />
@@ -1297,10 +1299,11 @@
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502221117644">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502285248579">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="2" column="87" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/cookbooks/datadog/files/etc/dd-agent/conf.d/fluentd.yaml" timestamp="1483114989191">
         <mark key="[" line="15" column="23" />
@@ -1330,9 +1333,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/searches/show.html.erb" timestamp="1502220339710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="48" column="8" />
+      <file name="$USER_HOME$/Work/global-web/app/views/searches/show.html.erb" timestamp="1502284576608">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="155" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/_profile.html.haml" timestamp="1487322828780">
         <mark key="[" line="0" column="0" />
@@ -1362,6 +1366,10 @@
         <mark key="]" line="394" column="20" />
         <mark key="." line="394" column="20" />
         <mark key="^" line="394" column="20" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/views/searches/_header.html.erb" timestamp="1502284957949">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" timestamp="1496959061687">
         <mark key="'" line="13" column="0" />
@@ -1716,7 +1724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" />
       <jump line="101" column="50" filename="$USER_HOME$/Work/kibela/build/utils/markdown_modifier.js" />
       <jump line="288" column="2" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
       <jump line="66" column="4" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
@@ -1816,10 +1823,11 @@
       <jump line="35" column="76" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
       <jump line="42" column="2" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="37" column="2" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
+      <jump line="48" column="4" filename="$USER_HOME$/Work/global-web/app/views/searches/show.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogNXB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9zcGFuPg==</text>
@@ -1828,34 +1836,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIDxoMSBjbGFzcz0icmVzdWx0cy1oZWFkZXJfX3RpdGxlIj4KICAgICAgPCU9IHQoInNlYXJjaGVzLnNob3cucmVzdWx0c190aXRsZV9odG1sIiwgcXVlcnk6IHF1ZXJ5X3dpdGhfbGlua3MocXVlcnksIHRva2VucyksIGNvdW50OiByZWNpcGVfY291bnQsIGNsYXNzX25hbWU6ICJyZXN1bHRzLWhlYWRlcl9fY291bnQgc3VidGxlIikgJT4KICAgIDwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogNXB4Owo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwlIGlmIEZlYXR1cmVUb2dnbGUuZW5hYmxlZD8oOnNob3dfY3JlYXRlX3JlY2lwZV9pZl9yZWNpcGVfbm90X2ZvdW5kKSAlPiA8cD48JT0gdCgic2VhcmNoZXMuc2hvdy5jYWxsX3RvX2FjdGlvbiIpICU+PC9wPgogICAgICA8JT0gbGlua190byBpY29uKDpwb3N0LCB0ZXh0OiB0KCJzZWFyY2hlcy5zaG93LmNyZWF0ZV9yZWNpcGUiKSksIHJlY2lwZXNfcGF0aCwgbWV0aG9kOiA6cG9zdCwgY2xhc3M6ICJidG4gYnRuLWNyZWF0ZS1yZWNpcGUgYnRuLWNyZWF0ZS1yZWNpcGUtLWxhcmdlIiwgZGF0YTogeyByZXF1aXJlX2xvZ2luOiB0cnVlLCAiY2xpY2stbG9nIjogY2xpY2tfbG9nX3BhcmFtcygic2VhcmNoZXMuY2xpY2tfY3JlYXRlX3JlY2lwZSIsIGtleXdvcmQ6IEBzZWFyY2gucXVlcnkpIH0gJT4KICAgIDwlIGVuZCAlPgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gbGlua190byB0eXBpY2FsX3dheS53YXksIHdheXNfc2VhcmNoX3BhdGgocTogdHlwaWNhbF93YXkud2F5KSwgY2xhc3M6ICd3YXlzX190eXBpY2FsLXdheV9fdGl0bGUnICU+CiAgICAgICAgICAgICAgPHVsIGNsYXNzPSJ3YXlzX19sZXZlbCI+CiAgICAgICAgICAgICAgICA8JSAocmFuZCg1KSArIDEpLnRpbWVzIGRvICU+CiAgICAgICAgICAgICAgICAgIDxsaT48JT0gaWNvbig6c3RhcikgJT48L2xpPgogICAgICAgICAgICAgICAgPCUgZW5kICU+CiAgICAgICAgICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICAgICAgICBzcGVsbGluZ19zdWdnZXN0aW9uczogbmlsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnM6IG5pbCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTBweDsK</text>
+        <text encoding="base64">PCU9IHJlbmRlciAiaGVhZGVyIiwgcXVlcnk6IEBzZWFyY2gucXVlcnksIHRva2VuczogQHNlYXJjaC50b2tlbnMsIHNwZWxsaW5nX3N1Z2dlc3Rpb25zOiBAc2VhcmNoLnNwZWxsaW5nX3N1Z2dlc3Rpb25zLCByZWNpcGVfY291bnQ6IEByZWNpcGVzLnNpemUgJT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ3YXlzX19sZXZlbF9fbGFiZWwiPmxldmVsOiA8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIEBxdWVyeSA9IHBhcmFtc1s6cV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JSAocmFuZCg1KSArIDEpLnRpbWVzIGRvICU+Cg==</text>
+        <text encoding="base64">ICAgIEByZWNpcGVzID0gV2F5LndoZXJlKHdheTogQHNlYXJjaC5xdWVyeSkub3JkZXIodHlwaWNhbDogOmRlc2MpLm1hcCgmOnJlY2lwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
