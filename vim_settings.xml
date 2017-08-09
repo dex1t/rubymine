@@ -44,6 +44,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/db/migrate/20170808195157_add_typical_to_ways.rb" timestamp="1502221941477">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/models/concerns/boardable.rb" timestamp="1491383487758">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="41" />
@@ -289,18 +295,18 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="241" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/ways/show.html.erb" timestamp="1502220961690">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="43" />
+      <file name="$USER_HOME$/Work/global-web/app/views/ways/show.html.erb" timestamp="1502222466148">
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="60" />
+        <mark key="^" line="25" column="60" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" timestamp="1502220896668">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="68" column="19" />
-        <mark key="." line="68" column="19" />
-        <mark key="^" line="68" column="19" />
+      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" timestamp="1502222866196">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170803134414_add_make_changing_to_recipes.rb" timestamp="1501767942972">
         <mark key="[" line="2" column="66" />
@@ -618,6 +624,10 @@
         <mark key="]" line="8" column="110" />
         <mark key="." line="8" column="110" />
         <mark key="^" line="8" column="110" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/db/migrate/20160511095506_add_columns_to_contest.rb" timestamp="1502221901967">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/headnotes/_headnote.html.haml" timestamp="1491289299608">
         <mark key="[" line="2" column="0" />
@@ -1157,7 +1167,7 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502221085674">
+      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502222473527">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -1706,7 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="7" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/base_container.tsx" />
       <jump line="110" column="0" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/comment_editor_container.tsx" />
       <jump line="101" column="50" filename="$USER_HOME$/Work/kibela/build/utils/markdown_modifier.js" />
       <jump line="288" column="2" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
@@ -1806,6 +1815,7 @@
       <jump line="135" column="48" filename="$USER_HOME$/Work/global-web/config/routes.rb" />
       <jump line="35" column="76" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
       <jump line="42" column="2" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
+      <jump line="37" column="2" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1818,34 +1828,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gbGlua190byB3YXlzX3NlYXJjaF9wYXRoKHdheTogdHlwaWNhbF93YXkud2F5KSBkbyAlPgogICAgICAgICAgICAgICAgPCU9IHRvZnVfaW1hZ2VfdGFnIHR5cGljYWxfd2F5LnJlY2lwZS5pbWFnZSwgc2l6ZTogIjExMHgxMTAiLCBjbGFzczogIndheXNfX3R5cGljYWwtd2F5X19pbWFnZSIgJT4KICAgICAgICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOmNvbnRlc3RzLCA6am9pbl9oZWFkZXIsIDpzdHJpbmcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8JSBwYWdpbmF0ZSBAcmVjaXBlcyAlPgo=</text>
+        <text encoding="base64">ICAgICAgJjpudGgtY2hpbGQobiszKSB7CiAgICAgICAgbWFyZ2luLWxlZnQ6IDA7CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpZG5pbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCAnL3dheXMvc2VhcmNoJywgdG86ICd3YXlzI3NlYXJjaCcK</text>
+        <text encoding="base64">ICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ3YXlzX190eXBpY2FsLXdheV9fdGl0bGUiPjwlPSB0eXBpY2FsX3dheS53YXkgJT48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ3YXlzX190eXBpY2FsLXdheV9fdGl0bGUiPjwlPSB0eXBpY2FsX3dheS53YXkgJT48L3A+Cg==</text>
+        <text encoding="base64">ICAgICJNYWtlIGl0IG1pbmUiIOOCkiDpgLEzIOOBp+e5sOOCiui/lOOBmeS7lee1hOOBv+OBqOOBrz8KICAgIOWIneWbnuOBr+e9ruOBhOOBqOOBhOOBpuOAgXJldGFpbuOBleOBm+OCi+OBk+OBqOOBq+mbhuS4rQoKICAgIDxpbWcgc3JjPSdodHRwczovL2doZS5ja3BkLmNvL3N0b3JhZ2UvdXNlci8xMTAvZmlsZXMvZjI5YTU5ZjYtNzk5Yy0xMWU3LTkyNjAtMTFhNDdlMjJkYWJjJyB3aWR0aD0nNTAlJz4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gbGlua190byB0eXBpY2FsX3dheS53YXksIHdheXNfc2VhcmNoX3BhdGgod2F5OiB0eXBpY2FsX3dheS53YXkpICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCU9IHRvZnVfaW1hZ2VfdGFnIHR5cGljYWxfd2F5LnJlY2lwZS5pbWFnZSwgc2l6ZTogIjExMHgxMTAiLCBjbGFzczogIndheXNfX3R5cGljYWwtd2F5X19pbWFnZSIgJT4K</text>
+        <text encoding="base64">ICA8JSBwYWdpbmF0ZSBAcmVjaXBlcyAlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
