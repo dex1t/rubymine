@@ -295,18 +295,18 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="241" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/ways/show.html.erb" timestamp="1502293068889">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="22" column="85" />
-        <mark key="^" line="22" column="85" />
+      <file name="$USER_HOME$/Work/global-web/app/views/ways/show.html.erb" timestamp="1502300083865">
+        <mark key="[" line="27" column="108" />
+        <mark key="]" line="27" column="123" />
+        <mark key="." line="27" column="123" />
+        <mark key="^" line="27" column="123" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" timestamp="1502293655928">
-        <mark key="'" line="37" column="2" />
-        <mark key="[" line="100" column="5" />
-        <mark key="]" line="90" column="19" />
-        <mark key="." line="90" column="19" />
-        <mark key="^" line="90" column="19" />
+      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" timestamp="1502300618002">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="137" column="13" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170803134414_add_make_changing_to_recipes.rb" timestamp="1501767942972">
         <mark key="[" line="2" column="66" />
@@ -1173,11 +1173,11 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502287837602">
-        <mark key="[" line="11" column="72" />
-        <mark key="]" line="11" column="64" />
-        <mark key="^" line="11" column="64" />
-        <mark key="." line="11" column="64" />
+      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502300198844">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/feed_items/_masonry.html.erb" timestamp="1500361014083">
         <mark key="[" line="15" column="9" />
@@ -1304,11 +1304,12 @@
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502293536771">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502300179247">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="100" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/cookbooks/datadog/files/etc/dd-agent/conf.d/fluentd.yaml" timestamp="1483114989191">
         <mark key="[" line="15" column="23" />
@@ -1729,13 +1730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="50" filename="$USER_HOME$/Work/kibela/build/utils/markdown_modifier.js" />
-      <jump line="288" column="2" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
-      <jump line="66" column="4" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
-      <jump line="168" column="8" filename="$USER_HOME$/Work/kibela/client/components/comment_editor/PlainEditorCore.tsx" />
-      <jump line="306" column="27" filename="$USER_HOME$/Work/kibela/client/components/shared/editor/editor_core.tsx" />
-      <jump line="13" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" />
-      <jump line="180" column="16" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" />
       <jump line="35" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" />
       <jump line="13" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="124" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
@@ -1829,46 +1823,53 @@
       <jump line="42" column="2" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="37" column="2" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="48" column="4" filename="$USER_HOME$/Work/global-web/app/views/searches/show.html.erb" />
+      <jump line="22" column="10" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
+      <jump line="7" column="0" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
+      <jump line="9" column="28" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
+      <jump line="29" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
+      <jump line="137" column="22" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
+      <jump line="10" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
+      <jump line="90" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IHNjcm9sbDsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>.recipe-list</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWl0YWJsZSBmb3IgeW91Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAkYm9yZGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IHNjcm9sbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3VpdGFibGUgZm9yIHlvdQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIGlmIGluZGV4ID09IDAgJT4KICAgICAgICAgICAgICAgIDwlIGVsc2UgJT4KICAgICAgICAgICAgICAgIDwlIGVuZCAlPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9IndheXNfX2xldmVsLWxhYmVsIj5zdWl0YWJsZSBmb3IgeW91PC9sYWJlbD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9IndheXNfX2w8L2xhYmVsPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dWwgY2xhc3M9IndheXNfX2xldmVsIj4KICAgICAgICAgICAgICAgIDwlIChyYW5kKDMpKS50aW1lcyBkbyAlPgogICAgICAgICAgICAgICAgICAgIDxsaT48JT0gaWNvbig6c3RhcikgJT48L2xpPgogICAgICAgICAgICAgICAgPCUgZW5kICU+CiAgICAgICAgICAgICAgPC91bD4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luOiAwOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDExMHB4Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZmxleDogMTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlPSByZW5kZXIgQHJlY2lwZXMgJT4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bGkgY2xhc3M9IndpZGUtY2FyZCByYW5rZWQtbGlzdF9faXRlbSIgZGF0YS1pZD0iPCU9IHJlY2lwZS5pZCAlPiIgaWQ9IjwlPSBkb21faWQocmVjaXBlKSAlPiI+CiAgICA8JT0gbGlua190byByZWNpcGUsIGNsYXNzOiAibWVkaWEiIGRvICU+CgogICAgICA8ZGl2IGNsYXNzPSJ3aWRlLWNhcmRfX3Bob3RvIG1lZGlhX19pbWctcmV2IG1lZGlhX19pbWctcmV2LS13aWRlIj4KICAgICAgICA8JT0gdG9mdV9pbWFnZV90YWcgcmVjaXBlLmltYWdlLCBzaXplOiAiMjYweDM2NiIsIHF1YWxpdHk6IDpsb3csIGFsdDogcmVjaXBlLnRpdGxlLCBjbGFzczogImltZy1yZXNwb25zaXZlIiAlPgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3M9Im1lZGlhX19ib2R5LW92ZXJmbG93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJieWxpbmUgc3VidGxlIGVsbGlwc2lzIj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJhbmtlZC1saXN0X19yYW5rIj48L2Rpdj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJieWxpbmVfX2ltZyI+PCU9IGF2YXRhciByZWNpcGUudXNlciAlPjwvc3Bhbj4KICAgICAgICAgIDwlPSByZWNpcGUudXNlci5uYW1lICU+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxoZWFkZXIgY2xhc3M9IndpZGUtY2FyZF9faGVhZGVyIj4KICAgICAgICAgIDxoMiBjbGFzcz0id2lkZS1jYXJkX190aXRsZSByZWNpcGUtdGl0bGUiPgogICAgICAgICAgICA8c3BhbiBkYXRhLWNsYW1wPSIyIj48JT0gcmVjaXBlLnRpdGxlIHx8IHQoImNvbW1vbi51bnRpdGxlZCIpICU+PC9zcGFuPgogICAgICAgICAgPC9oMj4KICAgICAgICAgIDwlPSByZW5kZXIgInJlY2lwZXMvbWV0YWRhdGEiLCByZWNpcGU6IHJlY2lwZSAlPgogICAgICAgIDwvaGVhZGVyPgoKICAgICAgICA8JT0gaW5ncmVkaWVudHNfc3VtbWFyeShyZWNpcGUpICU+CiAgICAgIDwvZGl2PgogICAgPCUgZW5kICU+CiAgPC9saT4K</text>
+        <text encoding="base64">ICAgIHVsLiYgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
