@@ -1173,11 +1173,11 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502300198844">
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/Work/global-web/app/controllers/ways_controller.rb" timestamp="1502364562583">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="69" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/feed_items/_masonry.html.erb" timestamp="1500361014083">
         <mark key="[" line="15" column="9" />
@@ -1833,7 +1833,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8JSBpZiBwYXJhbXNbOnBdICU+Cg==</text>
+        <text encoding="base64">ICAgIEBvdGhlcl93YXlzID0gV2F5LmFsbAo=</text>
       </register>
       <register name="-" type="4">
         <text>.recipe-list</text>
@@ -1845,31 +1845,31 @@
         <text encoding="base64">ICA8JSBpZiBwYXJhbXNbOnBdICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IHNjcm9sbDsK</text>
+        <text encoding="base64">ICAgIEBvdGhlcl93YXlzID0gV2F5LmFsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IHNjcm9sbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDExMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luOiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmxleDogMTsK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDExMHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZmxleDogMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVsLiYgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
