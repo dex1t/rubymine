@@ -1637,12 +1637,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" timestamp="1503393043261">
-        <mark key="'" line="32" column="7" />
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" timestamp="1503466439880">
+        <mark key="'" line="2" column="2" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
+        <mark key="^" line="38" column="2" />
         <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="65" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/shared/profile/user_trend_entry_list.spec.js" timestamp="1486562814794">
         <mark key="[" line="12" column="17" />
@@ -1706,8 +1706,8 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_action_bar.html.erb" timestamp="1503380777836">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_action_bar.html.erb" timestamp="1503466068162">
+        <mark key="'" line="66" column="195" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -1715,9 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
-      <jump line="30" column="47" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
-      <jump line="41" column="2" filename="$USER_HOME$/Work/kibela/app/controllers/externals_controller.rb" />
       <jump line="69" column="0" filename="$USER_HOME$/Work/global-web/Gemfile" />
       <jump line="171" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/admin/lib/components/containers/recipe_container.js.jsx" />
       <jump line="109" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
@@ -1815,46 +1812,49 @@
       <jump line="73" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="32" column="7" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
       <jump line="94" column="8" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
+      <jump line="66" column="195" filename="$USER_HOME$/Work/global-web/app/views/recipes/_action_bar.html.erb" />
+      <jump line="11" column="92" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
+      <jump line="2" column="2" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGJpbmRpbmcucHJ5ICU+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>search_path(q: typical_way.way) :</text>
+        <text>'You can make notes of attractive points for you. People also take notes of something they want to record.'</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCUgcGxhY2Vob2xkZXIgPSAnWW91IGNhbiBtYWtlIG5vdGVzIG9mIGF0dHJhY3RpdmUgcG9pbnRzIGZvciB5b3UuIFBlb3BsZSBhbHNvIHRha2Ugbm90ZXMgb2Ygc29tZXRoaW5nIHRoZXkgd2FudCB0byByZWNvcmQuJyAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGJpbmRpbmcucHJ5ICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+Cg==</text>
+        <text encoding="base64">PCUgZW5kICU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+Cg==</text>
+        <text encoding="base64">PCUgY2FjaGUgW1JlZ2lvbi5jdXJyZW50LCBAcmVjaXBlXSBkbyAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwIGlmIHNpZGViYXJfcmVjaXBlLnN0b3J5PyAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSB0cnVuY2F0ZSBzaWRlYmFyX3JlY2lwZS5zdG9yeSwgbGVuZ3RoOiA3MCBpZiBzaWRlYmFyX3JlY2lwZS5zdG9yeT8gJT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gdHJ1bmNhdGUgc2lkZWJhcl9yZWNpcGUuc3RvcnksIGxlbmd0aDogNzAgaWYgc2lkZWJhcl9yZWNpcGUub3JpZ2luX3JlY2lwZV9pZD8gJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbHNlICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImRvY3VtZW50X190aXRsZS1jb250YWluZXIgc3BsaXQtaGVhZGVyIj4KICAgICAgICAgICAgPGgyIGNsYXNzPSJkb2N1bWVudF9fdGl0bGUgc3BsaXQtaGVhZGVyX19tYWluIj5Ob3RlczwvaDI+CiAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
