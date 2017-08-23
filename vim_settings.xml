@@ -655,11 +655,11 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_sidebar_recipe.html.erb" timestamp="1503393560377">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_sidebar_recipe.html.erb" timestamp="1503470942535">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/app-kibela/templates/etc/td-agent/conf.d/s3.conf" timestamp="1483990520797">
         <mark key="[" line="8" column="37" />
@@ -1823,7 +1823,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
       </register>
       <register name="-" type="4">
         <text>'You can make notes of attractive points for you. People also take notes of something they want to record.'</text>
@@ -1835,31 +1835,31 @@
         <text encoding="base64">ICBsaW1pdCA9IDE0MCAtIGUudGFyZ2V0LnZhbHVlLmxlbmd0aAogICQoJyNtYWtlLWl0LW1pbmVfX2NvdW50ZXInKS5lbXB0eSgpLmFwcGVuZChsaW1pdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiByaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICA8JSBpZiBzaWRlYmFyX3JlY2lwZS5vcmlnaW5fcmVjaXBlX2lkPyAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgI21ha2UtaXQtbWluZV9fY291bnRlciB7CiAgICBmb250LXNpemU6IDgwJTsKICAgIHRleHQtYWxpZ246IHJpZ2h0OwogICAgY29sb3I6ICRncmF5OwogIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsaW1pdCA9IDE0MCAtIGUudGFyZ2V0LnZhbHVlLmxlbmd0aAogICQoJyNtYWtlLWl0LW1pbmVfX2NvdW50ZXInKS5lbXB0eSgpLmFwcGVuZChsaW1pdCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiByaWdodDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgI21ha2UtaXQtbWluZV9fY291bnRlciB7CiAgICBmb250LXNpemU6IDgwJTsKICAgIHRleHQtYWxpZ246IHJpZ2h0OwogICAgY29sb3I6ICRncmF5OwogIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gaWQ9Im1ha2UtaXQtbWluZV9fY291bnRlciI+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICBsaW1pdCA9IDE0MCAtIGUudGFyZ2V0LnZhbHVlLmxlbmd0aAogICQoJyNtYWtlLWl0LW1pbmVfX2NvdW50ZXInKS5lbXB0eSgpLmFwcGVuZChsaW1pdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW1pdCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gaWQ9Im1ha2UtaXQtbWluZV9fY291bnRlciI+PC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncHJlc3MnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW1pdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
