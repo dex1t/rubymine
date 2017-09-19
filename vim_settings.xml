@@ -325,13 +325,6 @@
         <mark key="." line="8" column="56" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1505833772432">
-        <mark key="'" line="42" column="14" />
-        <mark key="[" line="103" column="28" />
-        <mark key="]" line="103" column="87" />
-        <mark key="^" line="103" column="87" />
-        <mark key="." line="103" column="87" />
-      </file>
       <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502600433908">
         <mark key="'" line="73" column="4" />
         <mark key="[" line="56" column="37" />
@@ -415,11 +408,11 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/config/locales/en.yml" timestamp="1503380497280">
-        <mark key="[" line="947" column="44" />
-        <mark key="]" line="947" column="45" />
-        <mark key="^" line="947" column="45" />
-        <mark key="." line="947" column="45" />
+      <file name="$USER_HOME$/Work/global-web/config/locales/en.yml" timestamp="1505834425284">
+        <mark key="[" line="947" column="46" />
+        <mark key="]" line="947" column="43" />
+        <mark key="^" line="947" column="43" />
+        <mark key="." line="947" column="43" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493560246288">
         <mark key="[" line="1" column="26" />
