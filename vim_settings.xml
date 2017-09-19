@@ -190,12 +190,12 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1501784581788">
+      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1505837908221">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="17" column="74" />
-        <mark key="]" line="17" column="83" />
-        <mark key="." line="17" column="83" />
-        <mark key="^" line="17" column="83" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/decorators/blog_decorator.rb" timestamp="1486143780010">
         <mark key="[" line="1" column="7" />
@@ -236,9 +236,9 @@
         <mark key="." line="10" column="5" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_sidebar_recipe.html.erb" timestamp="1503470942535">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_sidebar_recipe.html.erb" timestamp="1505837099080">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="4" />
         <mark key="^" line="16" column="13" />
         <mark key="." line="21" column="0" />
       </file>
@@ -325,6 +325,12 @@
         <mark key="." line="8" column="56" />
         <mark key="^" line="8" column="56" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1505836718434">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+        <mark key="^" line="46" column="8" />
+      </file>
       <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502600433908">
         <mark key="'" line="73" column="4" />
         <mark key="[" line="56" column="37" />
@@ -370,6 +376,12 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="58" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1505837272476">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/blogs.html.haml" timestamp="1485468285631">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="4" />
@@ -408,11 +420,11 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/config/locales/en.yml" timestamp="1505834425284">
-        <mark key="[" line="947" column="46" />
-        <mark key="]" line="947" column="43" />
-        <mark key="^" line="947" column="43" />
-        <mark key="." line="947" column="43" />
+      <file name="$USER_HOME$/Work/global-web/config/locales/en.yml" timestamp="1505835966654">
+        <mark key="[" line="602" column="23" />
+        <mark key="]" line="602" column="28" />
+        <mark key="^" line="602" column="28" />
+        <mark key="." line="602" column="28" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493560246288">
         <mark key="[" line="1" column="26" />
@@ -682,6 +694,10 @@
         <mark key="]" line="130" column="10" />
         <mark key="." line="130" column="10" />
         <mark key="^" line="130" column="10" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_list.html.erb" timestamp="1505836725086">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_feed.scss" timestamp="1489399588488">
         <mark key="[" line="94" column="33" />
@@ -1792,7 +1808,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEFzc2V0cy5JbWFnZUNyZWRpdENhcmRWaXNhIHdpZHRoPSczMXB4JyBoZWlnaHQ9JzMxcHgnIGFsdD0ndmlzYScgLz4K</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'You can make notes of attractive points for you. People also take notes of something they want to record.'</text>
@@ -1801,34 +1817,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEFzc2V0cy5JbWFnZUNyZWRpdENhcmRBbWV4IHdpZHRoPScyMC41cHgnIGhlaWdodD0nMzAuNXB4JyBhbHQ9J2FtZXJpY2FuIGV4cHJlc3MnIC8+Cg==</text>
+        <text encoding="base64">PGxpIGNsYXNzPSJzaWRlYmFyLXJlY2lwZSBzaWRlYmFyLWxpc3RfX2l0ZW0iPgogIDwlPSBsaW5rX3RvIHNpZGViYXJfcmVjaXBlIGRvICU+CiAgICA8ZGl2IGNsYXNzPSJ5b3VyLXJlY2lwZS1saXN0X19pbWFnZSI+CiAgICAgIDwlPSB0b2Z1X2ltYWdlX3RhZyhzaWRlYmFyX3JlY2lwZS5pbWFnZSwgc2l6ZTogIjQ1eDY1IiwgY3JvcDogOmZpbGwsIHF1YWxpdHk6IDpsb3csIGFsdDogc2lkZWJhcl9yZWNpcGUudGl0bGUsIHBsYWNlaG9sZGVyOiB0cnVlKSAlPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJ5b3VyLXJlY2lwZS1saXN0X19ib2R5Ij4KICAgICAgPGRpdiBjbGFzcz0ic3Ryb25nIHJlY2lwZS10aXRsZSI+CiAgICAgICAgPCU9IGljb24oOmxvY2ssIGNsYXNzOiAic3VidGxlIikgaWYgc2lkZWJhcl9yZWNpcGUuZHJhZnQ/ICU+CiAgICAgICAgPCU9IHNpZGViYXJfcmVjaXBlLnRpdGxlX29yX2RlZmF1bHQgJT4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InN1YnRsZSB4LXNtYWxsIj4KICAgICAgICA8JT0gbCBzaWRlYmFyX3JlY2lwZS5hdXRob3JlZF9hdC50b19kYXRlLCBmb3JtYXQ6IDpsb25nIHVubGVzcyBzaWRlYmFyX3JlY2lwZS5vcmlnaW5fcmVjaXBlX2lkPyAlPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0ibWFrZS1pdC1taW5lX19zaWRlYmFyX19zdG9yeSI+CiAgICAgICAgPCUgaWYgc2lkZWJhcl9yZWNpcGUuc3Rvcnk/ICU+CiAgICAgICAgICA8c3BhbiBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPCUgZWxzZSAlPgogICAgICAgICAgWW91IGNhbiBtYWtlIG5vdGVzCiAgICAgICAgPCUgZW5kICU+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPCUgZW5kICU+CjwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEFzc2V0cy5JbWFnZUNyZWRpdENhcmRWaXNhIHdpZHRoPSczMXB4JyBoZWlnaHQ9JzMxcHgnIGFsdD0ndmlzYScgLz4K</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEFzc2V0cy5JbWFnZUNyZWRpdENhcmRKY2Igd2lkdGg9JzMwcHgnIGhlaWdodD0nMjJweCcgYWx0PSdqY2InIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIGlmIHNpZGViYXJfcmVjaXBlLnN0b3J5PyAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrbm93bGVkZ2Vfc2hhcmVfY2FwdGlvbjog57WE57mU44Gu6KaP5qih44Gr5b+c44GY44Gm44CB44Kq44O844OX44Oz44Gq5oOF5aCx5YWx5pyJ44GM44Gn44GN44KL5LuV57WE44G/44KS5o+Q5L6b44GX44G+44GZ44CC56S+5YaF44Gu5oOF5aCx44GM5rWB44KM44KL44OV44Kj44O844OJ44KS6KSH5pWw5L2c44KL44GT44Go44Gn44CB57WE57mU44GM5aSn44GN44GP44Gq44Gj44Gm44KC44CB6YGp5YiH44Gq5Lq644Gr6YGp5YiH44Gq5oOF5aCx44KS5bGK44GR44KJ44KM44G+44GZ44CCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIGVsc2UgJT4KICAgICAgICAgICAgICAgICAgICBZb3UgY2FuIG1ha2Ugbm90ZXMKICAgICAgICAgICAgICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
+        <text encoding="base64">ICAgIDwlPSByZW5kZXIgcGFydGlhbDogInJlY2lwZXMvc2lkZWJhcl9yZWNpcGUiLCBjb2xsZWN0aW9uOiByZWNpcGVzICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsK</text>
+        <text encoding="base64">ICAgIDwvdWw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDx1bCBpZD0iPCU9IG5hbWUgJT4iIGNsYXNzPSJzaWRlYmFyLWxpc3QgeW91ci1yZWNpcGUtbGlzdCIgZGF0YS1pbmZpbml0ZS1zY3JvbGw9IjwlPSB7IHZpZXdwb3J0OiAiI3NpZGViYXJfcmVjaXBlcyIsIHBhZ2luYXRpb246ICIjI3tuYW1lfV9wYWdpbmF0aW9uIiB9LnRvX2pzb24gJT4iPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicmVjaXBlcy9zaWRlYmFyX3JlY2lwZSIsIGNvbGxlY3Rpb246IHJlY2lwZXMgJT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIDx1bCBpZD0iPCU9IG5hbWUgJT5fcGFnaW5hdGlvbiIgY2xhc3M9InNpZGViYXItbGlzdCBwYWdpbmF0aW9uIHRleHQtY2VudGVyIj4KICAgIDwvdWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJHN1YlRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpPgogICAgICA8L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
