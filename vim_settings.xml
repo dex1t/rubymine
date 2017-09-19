@@ -420,11 +420,11 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/config/locales/en.yml" timestamp="1505835966654">
-        <mark key="[" line="602" column="23" />
-        <mark key="]" line="602" column="28" />
-        <mark key="^" line="602" column="28" />
-        <mark key="." line="602" column="28" />
+      <file name="$USER_HOME$/Work/global-web/config/locales/en.yml" timestamp="1505840245011">
+        <mark key="[" line="602" column="20" />
+        <mark key="]" line="602" column="19" />
+        <mark key="^" line="602" column="19" />
+        <mark key="." line="602" column="19" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/.env" timestamp="1493560246288">
         <mark key="[" line="1" column="26" />
