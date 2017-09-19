@@ -325,8 +325,8 @@
         <mark key="." line="8" column="56" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1501882549889">
-        <mark key="'" line="109" column="65" />
+      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1505833772432">
+        <mark key="'" line="42" column="14" />
         <mark key="[" line="103" column="28" />
         <mark key="]" line="103" column="87" />
         <mark key="^" line="103" column="87" />
@@ -1696,8 +1696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
-      <jump line="47" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="116" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="94" column="0" filename="$USER_HOME$/Work/global-web/config/database_chat.yml" />
@@ -1796,6 +1794,8 @@
       <jump line="117" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="162" column="12" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.tsx" />
       <jump line="26" column="3" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.tsx" />
+      <jump line="84" column="11" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
+      <jump line="42" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
