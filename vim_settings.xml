@@ -1091,13 +1091,6 @@
         <mark key="^" line="39" column="42" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/config/routes.rb" timestamp="1502221066362">
-        <mark key="'" line="135" column="48" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="33" column="40" />
-      </file>
       <file name="$USER_HOME$/Work/global-web/app/controllers/recipe_drafts_controller.rb" timestamp="1501684030745">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="18" />
