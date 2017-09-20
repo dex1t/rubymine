@@ -159,12 +159,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" timestamp="1505917363419">
+      <file name="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" timestamp="1505918778029">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="56" column="25" />
-        <mark key="." line="56" column="25" />
-        <mark key="^" line="56" column="25" />
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="62" column="13" />
+        <mark key="." line="62" column="13" />
+        <mark key="^" line="62" column="13" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_board_label.html.haml" timestamp="1487540803365">
         <mark key="[" line="4" column="16" />
@@ -383,12 +383,14 @@
         <mark key="." line="2" column="58" />
         <mark key="^" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1505917251832">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1505921232196">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="17" column="84" />
       </file>
+      <file name="$USER_HOME$/Work/global-web/app/helpers/images_helper.rb" timestamp="1505920808532" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/blogs.html.haml" timestamp="1485468285631">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="4" />
@@ -1718,7 +1720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="11" filename="$USER_HOME$/Work/global-web/Gemfile" />
       <jump line="12" column="21" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="43" column="0" filename="$USER_HOME$/Work/global-web/app/views/recipes/_action_bar.html.erb" />
       <jump line="186" column="0" filename="$USER_HOME$/Work/global-web/app/models/recipe.rb" />
@@ -1818,10 +1819,11 @@
       <jump line="15" column="6" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
+      <jump line="18" column="12" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB5YW1hbm90ZSA9Cg==</text>
+        <text encoding="base64">CiAgPCUgcmVjaXBlcy5lYWNoIGRvIHxzaWRlYmFyX3JlY2lwZXwgJT4KICAgICAgPGxpIGNsYXNzPSJzaWRlYmFyLXJlY2lwZSBzaWRlYmFyLWxpc3RfX2l0ZW0iPgogICAgICAgIDwlPSBsaW5rX3RvIHNpZGViYXJfcmVjaXBlIGRvICU+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InlvdXItcmVjaXBlLWxpc3RfX2ltYWdlIj4KICAgICAgICAgICAgICA8JT0gdG9mdV9pbWFnZV90YWcoc2lkZWJhcl9yZWNpcGUuaW1hZ2UsIHNpemU6ICI0NXg2NSIsIGNyb3A6IDpmaWxsLCBxdWFsaXR5OiA6bG93LCBhbHQ6IHNpZGViYXJfcmVjaXBlLnRpdGxlLCBwbGFjZWhvbGRlcjogdHJ1ZSkgJT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InlvdXItcmVjaXBlLWxpc3RfX2JvZHkiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN0cm9uZyByZWNpcGUtdGl0bGUiPgogICAgICAgICAgICAgICAgPCU9IGljb24oOmxvY2ssIGNsYXNzOiAic3VidGxlIikgaWYgc2lkZWJhcl9yZWNpcGUuZHJhZnQ/ICU+CiAgICAgICAgICAgICAgICA8JT0gc2lkZWJhcl9yZWNpcGUudGl0bGVfb3JfZGVmYXVsdCAlPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN1YnRsZSB4LXNtYWxsIj4KICAgICAgICAgICAgICAgIDwlPSBsIHNpZGViYXJfcmVjaXBlLmF1dGhvcmVkX2F0LnRvX2RhdGUsIGZvcm1hdDogOmxvbmcgdW5sZXNzIHNpZGViYXJfcmVjaXBlLm9yaWdpbl9yZWNpcGVfaWQ/ICU+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWFrZS1pdC1taW5lX19zaWRlYmFyX19zdG9yeSI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwlIGVuZCAlPgogICAgICA8L2xpPgogIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="-" type="4">
         <text>'You can make notes of attractive points for you. People also take notes of something they want to record.'</text>
@@ -1830,34 +1832,34 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGxpIGNsYXNzPSJzaWRlYmFyLXJlY2lwZSBzaWRlYmFyLWxpc3RfX2l0ZW0iPgogIDwlPSBsaW5rX3RvIHNpZGViYXJfcmVjaXBlIGRvICU+CiAgICA8ZGl2IGNsYXNzPSJ5b3VyLXJlY2lwZS1saXN0X19pbWFnZSI+CiAgICAgIDwlPSB0b2Z1X2ltYWdlX3RhZyhzaWRlYmFyX3JlY2lwZS5pbWFnZSwgc2l6ZTogIjQ1eDY1IiwgY3JvcDogOmZpbGwsIHF1YWxpdHk6IDpsb3csIGFsdDogc2lkZWJhcl9yZWNpcGUudGl0bGUsIHBsYWNlaG9sZGVyOiB0cnVlKSAlPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJ5b3VyLXJlY2lwZS1saXN0X19ib2R5Ij4KICAgICAgPGRpdiBjbGFzcz0ic3Ryb25nIHJlY2lwZS10aXRsZSI+CiAgICAgICAgPCU9IGljb24oOmxvY2ssIGNsYXNzOiAic3VidGxlIikgaWYgc2lkZWJhcl9yZWNpcGUuZHJhZnQ/ICU+CiAgICAgICAgPCU9IHNpZGViYXJfcmVjaXBlLnRpdGxlX29yX2RlZmF1bHQgJT4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InN1YnRsZSB4LXNtYWxsIj4KICAgICAgICA8JT0gbCBzaWRlYmFyX3JlY2lwZS5hdXRob3JlZF9hdC50b19kYXRlLCBmb3JtYXQ6IDpsb25nIHVubGVzcyBzaWRlYmFyX3JlY2lwZS5vcmlnaW5fcmVjaXBlX2lkPyAlPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0ibWFrZS1pdC1taW5lX19zaWRlYmFyX19zdG9yeSI+CiAgICAgICAgPCUgaWYgc2lkZWJhcl9yZWNpcGUuc3Rvcnk/ICU+CiAgICAgICAgICA8c3BhbiBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPCUgZWxzZSAlPgogICAgICAgICAgWW91IGNhbiBtYWtlIG5vdGVzCiAgICAgICAgPCUgZW5kICU+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPCUgZW5kICU+CjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8JT0gaW5nLmNhcGl0YWxpemUgJT4KICAgICAgICA8c3Bhbj48JT0gbWV0aG9kcy5jb3VudCAlPiBSZWNpcGVzPC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB5YW1hbm90ZSA9Cg==</text>
+        <text encoding="base64">CiAgPCUgcmVjaXBlcy5lYWNoIGRvIHxzaWRlYmFyX3JlY2lwZXwgJT4KICAgICAgPGxpIGNsYXNzPSJzaWRlYmFyLXJlY2lwZSBzaWRlYmFyLWxpc3RfX2l0ZW0iPgogICAgICAgIDwlPSBsaW5rX3RvIHNpZGViYXJfcmVjaXBlIGRvICU+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InlvdXItcmVjaXBlLWxpc3RfX2ltYWdlIj4KICAgICAgICAgICAgICA8JT0gdG9mdV9pbWFnZV90YWcoc2lkZWJhcl9yZWNpcGUuaW1hZ2UsIHNpemU6ICI0NXg2NSIsIGNyb3A6IDpmaWxsLCBxdWFsaXR5OiA6bG93LCBhbHQ6IHNpZGViYXJfcmVjaXBlLnRpdGxlLCBwbGFjZWhvbGRlcjogdHJ1ZSkgJT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InlvdXItcmVjaXBlLWxpc3RfX2JvZHkiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN0cm9uZyByZWNpcGUtdGl0bGUiPgogICAgICAgICAgICAgICAgPCU9IGljb24oOmxvY2ssIGNsYXNzOiAic3VidGxlIikgaWYgc2lkZWJhcl9yZWNpcGUuZHJhZnQ/ICU+CiAgICAgICAgICAgICAgICA8JT0gc2lkZWJhcl9yZWNpcGUudGl0bGVfb3JfZGVmYXVsdCAlPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9InN1YnRsZSB4LXNtYWxsIj4KICAgICAgICAgICAgICAgIDwlPSBsIHNpZGViYXJfcmVjaXBlLmF1dGhvcmVkX2F0LnRvX2RhdGUsIGZvcm1hdDogOmxvbmcgdW5sZXNzIHNpZGViYXJfcmVjaXBlLm9yaWdpbl9yZWNpcGVfaWQ/ICU+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWFrZS1pdC1taW5lX19zaWRlYmFyX19zdG9yeSI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgICAgICAgPCU9IHRydW5jYXRlIHNpZGViYXJfcmVjaXBlLnN0b3J5LCBsZW5ndGg6IDcwICU+CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwlIGVuZCAlPgogICAgICA8L2xpPgogIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gYXNzZXRfcGF0aCgicGxhY2Vob2xkZXIuZ2lmIikgJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gdG9mdV9pbWFnZV90YWcocmVjaXBlc1tpXS5pbWFnZSwgc2l6ZTogIjQ1eDY1IiwgY3JvcDogOmZpbGwsIHF1YWxpdHk6IDpsb3csIHBsYWNlaG9sZGVyOiB0cnVlKSAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gc2ltbWVyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JSBiaW5kaW5nLnByeSAlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gc3Rld2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHNvdXAKICAtIHNpbW1lcmVkCiAgLSBkZWVwLWZyaWVkCiAgLSBwYW4tZnJpZWQKICAtIHJvYXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIGdyaWxsZWQKICAtIHNhbGFkCiAgLSBmcnkKICAtIG92ZW4KICAtIGZyaWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gcmVjaXBlc1tdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHBhbi1mcmllZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+CgogICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
