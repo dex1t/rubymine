@@ -1124,11 +1124,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/config/yamanote.yml" timestamp="1505907103062">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/Work/global-web/config/yamanote.yml" timestamp="1505907717860">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/searches/show.html.erb" timestamp="1502284576608">
         <mark key="'" line="48" column="4" />
