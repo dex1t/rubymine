@@ -335,8 +335,8 @@
         <mark key="." line="8" column="56" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1506003462212">
-        <mark key="'" line="60" column="15" />
+      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1506007870883">
+        <mark key="'" line="95" column="15" />
         <mark key="[" line="24" column="138" />
         <mark key="]" line="24" column="155" />
         <mark key="." line="24" column="155" />
@@ -1730,7 +1730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="16" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="159" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="76" column="29" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="67" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
@@ -1830,6 +1829,7 @@
       <jump line="23" column="23" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
       <jump line="42" column="15" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
       <jump line="18" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/bookmarks.js.coffee" />
+      <jump line="95" column="15" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
