@@ -342,7 +342,8 @@
         <mark key="." line="24" column="155" />
         <mark key="^" line="24" column="155" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/bookmarks.js.coffee" timestamp="1506001637798">
+      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/bookmarks.js.coffee" timestamp="1506004645273">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="72" />
       </file>
@@ -1308,12 +1309,12 @@
         <mark key="^" line="31" column="135" />
         <mark key="." line="31" column="135" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" timestamp="1506003870220">
+      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" timestamp="1506004789160">
         <mark key="'" line="53" column="29" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="74" column="45" />
+        <mark key="[" line="60" column="72" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="52" />
+        <mark key="^" line="60" column="52" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/outgoing_webhook/outgoing_webhook_dropdown_button.jsx" timestamp="1487335174901">
         <mark key="[" line="10" column="0" />
@@ -1729,7 +1730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/editor/record_list.js.coffee" />
       <jump line="164" column="16" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="159" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="76" column="29" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
@@ -1829,10 +1829,11 @@
       <jump line="60" column="15" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="23" column="23" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
       <jump line="42" column="15" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
+      <jump line="18" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/bookmarks.js.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>.css(visibility: 'hidden')</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -1840,8 +1841,8 @@
       <register name="/" type="4">
         <text>batch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAkKCIjc2lkZWJhci1yZWNpcGVsaXN0LSIgKyBzZWN0aW9uKS5jaGlsZHJlbigpLmhpZGUoKTsK</text>
+      <register name="0" type="4">
+        <text>.css(visibility: 'hidden')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
