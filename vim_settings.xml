@@ -196,8 +196,8 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1506355933339">
-        <mark key="'" line="56" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1506358108782">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="32" />
         <mark key="." line="6" column="32" />
@@ -862,6 +862,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="18" column="54" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/models/activity_log.rb" timestamp="1506357238980">
+        <mark key="'" line="61" column="2" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/cookbooks/datadog/files/etc/dd-agent/conf.d/fluentd.yaml" timestamp="1483114989191">
         <mark key="[" line="15" column="23" />
@@ -1727,9 +1730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="88" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
-      <jump line="35" column="82" filename="$USER_HOME$/Work/global-web/app/views/recipes/_private_photo_comments.html.erb" />
-      <jump line="18" column="12" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
       <jump line="68" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/photo_comments_controller.rb" />
       <jump line="35" column="14" filename="$USER_HOME$/Work/global-web/app/controllers/photo_comments_controller.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/admin/recipes.js.coffee" />
@@ -1827,6 +1827,9 @@
       <jump line="72" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="0" column="87" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="32" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
+      <jump line="61" column="2" filename="$USER_HOME$/Work/global-web/app/models/activity_log.rb" />
+      <jump line="117" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
+      <jump line="50" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
