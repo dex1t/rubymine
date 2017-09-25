@@ -162,8 +162,8 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" timestamp="1506015281256">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" timestamp="1506354910246">
+        <mark key="'" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_board_label.html.haml" timestamp="1487540803365">
         <mark key="[" line="4" column="16" />
@@ -1727,7 +1727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="7" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="34" column="88" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
       <jump line="35" column="82" filename="$USER_HOME$/Work/global-web/app/views/recipes/_private_photo_comments.html.erb" />
       <jump line="18" column="12" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
@@ -1827,6 +1826,7 @@
       <jump line="63" column="29" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="72" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="0" column="87" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
+      <jump line="32" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
