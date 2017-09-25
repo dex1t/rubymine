@@ -163,11 +163,7 @@
         <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" timestamp="1506015281256">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="60" column="32" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="32" />
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_board_label.html.haml" timestamp="1487540803365">
         <mark key="[" line="4" column="16" />
@@ -614,13 +610,6 @@
         <mark key="]" line="294" column="14" />
         <mark key="^" line="294" column="14" />
         <mark key="." line="294" column="14" />
-      </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" timestamp="1506004013282">
-        <mark key="'" line="293" column="1" />
-        <mark key="[" line="273" column="33" />
-        <mark key="]" line="274" column="20" />
-        <mark key="." line="274" column="20" />
-        <mark key="^" line="274" column="20" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/drafts.html.haml" timestamp="1485202954662">
         <mark key="[" line="14" column="0" />
@@ -1316,10 +1305,6 @@
       </file>
       <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" timestamp="1506004789160">
         <mark key="'" line="53" column="29" />
-        <mark key="[" line="60" column="72" />
-        <mark key="]" line="60" column="52" />
-        <mark key="." line="60" column="52" />
-        <mark key="^" line="60" column="52" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/outgoing_webhook/outgoing_webhook_dropdown_button.jsx" timestamp="1487335174901">
         <mark key="[" line="10" column="0" />
