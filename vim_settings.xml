@@ -177,12 +177,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/models/user.rb" timestamp="1506361291842">
+      <file name="$USER_HOME$/Work/global-web/app/models/user.rb" timestamp="1506372783674">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="^" line="210" column="23" />
-        <mark key="." line="212" column="0" />
+        <mark key="[" line="210" column="34" />
+        <mark key="]" line="211" column="3" />
+        <mark key="^" line="211" column="3" />
+        <mark key="." line="211" column="3" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1493064023304">
         <mark key="'" line="93" column="0" />
@@ -1868,7 +1868,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IDUgaWYgdGhyZXNob2xkIDwgNQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNsYXNzPSJtaXktZm9sZGVyLWNvbnRlbnRzIg==</text>
@@ -1877,7 +1877,7 @@
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAkbGlnaHQtZ3JheTsK</text>
+        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IDUgaWYgdGhyZXNob2xkIDwgNQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
