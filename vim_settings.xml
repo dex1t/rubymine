@@ -344,12 +344,12 @@
         <mark key="." line="8" column="56" />
         <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1506361413314">
+      <file name="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" timestamp="1506364230590">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="0" column="85" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="56" column="40" />
+        <mark key="^" line="56" column="40" />
+        <mark key="." line="56" column="40" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/bookmarks.js.coffee" timestamp="1506004645273">
         <mark key="'" line="18" column="0" />
@@ -624,6 +624,13 @@
         <mark key="]" line="294" column="14" />
         <mark key="^" line="294" column="14" />
         <mark key="." line="294" column="14" />
+      </file>
+      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" timestamp="1506365346755">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="295" column="17" />
+        <mark key="]" line="296" column="18" />
+        <mark key="^" line="296" column="18" />
+        <mark key="." line="296" column="18" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/drafts.html.haml" timestamp="1485202954662">
         <mark key="[" line="14" column="0" />
@@ -1330,8 +1337,12 @@
         <mark key="^" line="31" column="135" />
         <mark key="." line="31" column="135" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" timestamp="1506004789160">
+      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" timestamp="1506364338211">
         <mark key="'" line="53" column="29" />
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/outgoing_webhook/outgoing_webhook_dropdown_button.jsx" timestamp="1487335174901">
         <mark key="[" line="10" column="0" />
@@ -1754,7 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="31" filename="$USER_HOME$/Work/global-web/app/controllers/photo_comments_controller.rb" />
       <jump line="70" column="7" filename="$USER_HOME$/Work/global-web/app/models/concerns/imageable.rb" />
       <jump line="42" column="85" filename="$USER_HOME$/Work/global-web/app/controllers/photo_comments_controller.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
@@ -1854,46 +1864,47 @@
       <jump line="109" column="4" filename="$USER_HOME$/Work/global-web/app/models/recipe.rb" />
       <jump line="40" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="76" column="0" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
+      <jump line="242" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIDwlPSBmb3JtX3RhZyBzaWRlYmFyX3BhdGgsIGNsYXNzOiAic2lkZWJhci1zZWFyY2hfX2ZpbHRlciIsIGRhdGE6IHsgYmVoYXZpb3I6ICJyZWZyZXNoX29uX2NoYW5nZSIsIHRhcmdldDogIiNzaWRlYmFyX3JlY2lwZV9icm93c2luZyIgfSBkbyAlPgogICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2hlcmUoInZpc2l0X2NvdW50ID49ID8iLCB0aHJlc2hvbGQp</text>
+        <text encoding="base64">IGNsYXNzPSJtaXktZm9sZGVyLWNvbnRlbnRzIg==</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IGF2ZXJhZ2UoOnZpc2l0X2NvdW50KQogICAgdGhyZXNob2xkID0gMTAgaWYgdGhyZXNob2xkIDwgMTAKCiAgICB3aGVyZSgidmlzaXRfY291bnQgPiA/IiwgdGhyZXNob2xkKS5vcmRlcih2aXNpdF9jb3VudDogOmRlc2MpCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAkbGlnaHQtZ3JheTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIDwlPSBmb3JtX3RhZyBzaWRlYmFyX3BhdGgsIGNsYXNzOiAic2lkZWJhci1zZWFyY2hfX2ZpbHRlciIsIGRhdGE6IHsgYmVoYXZpb3I6ICJyZWZyZXNoX29uX2NoYW5nZSIsIHRhcmdldDogIiNzaWRlYmFyX3JlY2lwZV9icm93c2luZyIgfSBkbyAlPgogICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgIDxsYWJlbCBjbGFzcz0ic2lkZWJhci1zZWFyY2hfX2ZpbHRlcl9fbGFiZWwgZmxleF9fc2VjdGlvbiBmbGV4X19zZWN0aW9uLS1tYWluIHNtYWxsIiBmb3I9InNpZGViYXJfcmVjaXBlc19kcmFmdCIgPgogICAgICAgICAgICA8JT0gdCgibGF5b3V0cy5zaWRlYmFyLnJlY2lwZXMub25seV9kcmFmdHMiKSAlPgogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4X19zZWN0aW9uIHN3aXRjaCI+CiAgICAgICAgICAgIDwlPSBjaGVja19ib3hfdGFnIDpzaWRlYmFyX3JlY2lwZXNfZHJhZnQsIHRydWUsIGZhbHNlLCBjbGFzczogInN3aXRjaF9fY2hlY2tib3giICU+CiAgICAgICAgICAgIDxsYWJlbCBmb3I9InNpZGViYXJfcmVjaXBlc19kcmFmdCIgY2xhc3M9InN3aXRjaF9fbGFiZWwgc3VidGxlIGljZiBpY2YtLWxvY2siPjwvbGFiZWw+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGp1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZsZXhfX3NlY3Rpb24gc3dpdGNoIj4KICAgICAgICAgICAgPCU9IGNoZWNrX2JveF90YWcgOnNpZGViYXJfcmVjaXBlc19kcmFmdCwgdHJ1ZSwgZmFsc2UsIGNsYXNzOiAic3dpdGNoX19jaGVja2JveCIgJT4KICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2lkZWJhcl9yZWNpcGVzX2RyYWZ0IiBjbGFzcz0ic3dpdGNoX19sYWJlbCBzdWJ0bGUgaWNmIGljZi0tbG9jayI+PC9sYWJlbD4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vcGFkZGluZzogM3B4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyZXF1ZW50X3VwZGF0ZV9yZWNpcGVzLnBsdWNrKDppZCkK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTVweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZCA9IDEwIGlmIHRocmVzaG9sZCA8IDEwCg==</text>
+        <text encoding="base64">ICAgIC8vYmFja2dyb3VuZDogJGJnLWdyYXk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
