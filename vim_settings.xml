@@ -1065,13 +1065,6 @@
         <mark key="^" line="24" column="46" />
         <mark key="." line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1495037882267">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="75" column="40" />
-        <mark key="^" line="75" column="40" />
-        <mark key="." line="75" column="40" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="58" />
