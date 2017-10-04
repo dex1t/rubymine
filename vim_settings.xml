@@ -558,6 +558,12 @@
         <mark key="^" line="33" column="115" />
         <mark key="." line="33" column="115" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1507117655656">
+        <mark key="[" line="895" column="44" />
+        <mark key="]" line="895" column="38" />
+        <mark key="^" line="895" column="38" />
+        <mark key="." line="895" column="38" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/setting/_setting.scss" timestamp="1491928642578">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="13" />
@@ -755,9 +761,6 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505924738455">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/wiki_tree/wiki_feed.jsx" timestamp="1489426609414">
         <mark key="'" line="57" column="17" />
@@ -1029,11 +1032,11 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/locales/en.yml" timestamp="1503919605539">
-        <mark key="[" line="537" column="0" />
-        <mark key="]" line="537" column="0" />
-        <mark key="." line="537" column="0" />
-        <mark key="^" line="433" column="45" />
+      <file name="$USER_HOME$/Work/kibela/config/locales/en.yml" timestamp="1507117706174">
+        <mark key="[" line="1046" column="65" />
+        <mark key="]" line="1046" column="56" />
+        <mark key="." line="1046" column="56" />
+        <mark key="^" line="1046" column="56" />
       </file>
       <file name="$USER_HOME$/Work/global-web/config/initializers/resque.rb" timestamp="1501497630391">
         <mark key="[" line="10" column="6" />
