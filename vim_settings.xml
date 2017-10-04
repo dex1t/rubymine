@@ -351,11 +351,6 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/bookmarks.js.coffee" timestamp="1506004645273">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="72" />
-      </file>
       <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502600433908">
         <mark key="'" line="73" column="4" />
         <mark key="[" line="56" column="37" />
@@ -769,6 +764,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="53" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" timestamp="1507120525469">
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="116" column="15" />
+        <mark key="^" line="116" column="15" />
+        <mark key="." line="116" column="15" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/tab.jsx" timestamp="1491926832837">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="57" />
@@ -1147,6 +1148,9 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" timestamp="1507119815919">
+        <mark key="'" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_trend_hot.html.haml" timestamp="1485468021955">
         <mark key="[" line="9" column="13" />
@@ -1588,6 +1592,7 @@
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.tsx" timestamp="1507119685369" />
       <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1496264293396">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="24" column="19" />
@@ -1767,7 +1772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="7" filename="$USER_HOME$/Work/global-web/app/models/concerns/imageable.rb" />
       <jump line="42" column="85" filename="$USER_HOME$/Work/global-web/app/controllers/photo_comments_controller.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
       <jump line="24" column="183" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
@@ -1867,6 +1871,7 @@
       <jump line="40" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="76" column="0" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="242" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
+      <jump line="21" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
