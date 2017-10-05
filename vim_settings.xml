@@ -181,11 +181,11 @@
         <mark key="." line="257" column="22" />
         <mark key="^" line="257" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" timestamp="1507122878097">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" timestamp="1507208696667">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/shared/_tabs.html.haml" timestamp="1491926430939">
         <mark key="[" line="1" column="19" />
@@ -336,11 +336,11 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_entry.scss" timestamp="1507207118973">
-        <mark key="[" line="215" column="25" />
-        <mark key="]" line="215" column="25" />
-        <mark key="." line="215" column="25" />
-        <mark key="^" line="215" column="25" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_entry.scss" timestamp="1507208824196">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="212" column="14" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" timestamp="1502600433908">
         <mark key="'" line="73" column="4" />
@@ -1260,10 +1260,10 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="162" column="61" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" timestamp="1507206308021">
-        <mark key="[" line="496" column="22" />
-        <mark key="]" line="496" column="21" />
-        <mark key="." line="496" column="21" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" timestamp="1507208464347">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
         <mark key="^" line="496" column="21" />
       </file>
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170801164903_add_origin_image_id_to_steps.rb" timestamp="1501606230232">
@@ -1812,7 +1812,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgc2l6ZSgxNnB4KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNsYXNzPSJtaXktZm9sZGVyLWNvbnRlbnRzIg==</text>
@@ -1824,31 +1824,31 @@
         <text encoding="base64">ICAgIEByZWNpcGUudXBkYXRlX2NvdW50ICs9IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgc2l6ZSgxNnB4KTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgc2l6ZSgxNnB4KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1mbGV4Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC5hdmF0YXIgewogICAgICBAaW5jbHVkZSBzaXplKDE2cHgpOwogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gZGV0YWlsOiBodHRwczovL2dpdGh1Yi5jb20vYml0am91cm5leS9raWJlbGEvcHVsbC8zNTQ4CiAgICAgID4gLmVudHJ5LXRpdGxlV2l0aEljb24gewogICAgICAgIGRpc3BsYXk6IGlubGluZTsKICAgICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNwYW4gewogICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQHJlY2lwZS51cGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgc2l6ZSgxNnB4KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgQGluY2x1ZGUgc2l6ZSgxNnB4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1mbGV4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
