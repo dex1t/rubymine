@@ -85,9 +85,6 @@
       <file name="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" timestamp="1507217586939">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="59" column="7" />
-        <mark key="]" line="61" column="14" />
-        <mark key="^" line="61" column="14" />
-        <mark key="." line="61" column="14" />
       </file>
       <file name="$USER_HOME$/Work/kibela/.scss-lint.yml" timestamp="1492029459718">
         <mark key="[" line="87" column="16" />
@@ -752,7 +749,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="53" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_editor.scss" timestamp="1507212577739" />
       <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/tab.jsx" timestamp="1491926832837">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="57" />
@@ -994,7 +990,6 @@
         <mark key="." line="55" column="39" />
         <mark key="^" line="55" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/board_list/BoardList.tsx" timestamp="1507217827268" />
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494363880997">
         <mark key="'" line="25" column="44" />
         <mark key="[" line="24" column="35" />
@@ -1225,7 +1220,6 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="48" column="21" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/decorators/board_decorator.rb" timestamp="1507205798882" />
       <file name="$USER_HOME$/Work/infra/itamae/roles/app-kibela/templates/etc/td-agent/conf.d/s3.conf" timestamp="1483990520797">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="34" />
@@ -1538,7 +1532,6 @@
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/entry_editor/entry_editor_container.tsx" timestamp="1507119685369" />
       <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1496264293396">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="24" column="19" />
