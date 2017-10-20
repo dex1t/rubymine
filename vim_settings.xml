@@ -27,10 +27,6 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_modal.scss" timestamp="1507213609944">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/models/headnote.rb" timestamp="1491287948859">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -82,18 +78,11 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/boards_controller.rb" timestamp="1507217586939">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="59" column="7" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/.scss-lint.yml" timestamp="1492029459718">
         <mark key="[" line="87" column="16" />
         <mark key="]" line="87" column="15" />
         <mark key="^" line="87" column="15" />
         <mark key="." line="87" column="15" />
-      </file>
-      <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/admin/resources/recipes.scss" timestamp="1505922746845">
-        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_steps.html.erb" timestamp="1503381665205">
         <mark key="[" line="2" column="0" />
@@ -134,10 +123,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_comment.scss" timestamp="1507216424432">
-        <mark key="'" line="135" column="2" />
-        <mark key="^" line="152" column="22" />
-      </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_private_photo_comments.html.erb" timestamp="1501881150971">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="179" />
@@ -168,9 +153,6 @@
         <mark key="]" line="4" column="33" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" timestamp="1506354910246">
-        <mark key="'" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_board_label.html.haml" timestamp="1487540803365">
         <mark key="[" line="4" column="16" />
@@ -287,9 +269,6 @@
         <mark key="." line="21" column="19" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" timestamp="1507216088744">
-        <mark key="'" line="191" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/demaespider/demaespider/items.py" timestamp="1492348434409">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
@@ -308,6 +287,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="24" column="14" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/bitjourney.com/app/views/top/index.html.haml" timestamp="1508514363049">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="31" column="102" />
+        <mark key="]" line="31" column="92" />
+        <mark key="^" line="31" column="92" />
+        <mark key="." line="31" column="92" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/initializers/simple_form.rb" timestamp="1487490059722">
         <mark key="'" line="54" column="0" />
@@ -703,6 +689,12 @@
         <mark key="^" line="24" column="64" />
         <mark key="." line="24" column="64" />
       </file>
+      <file name="$USER_HOME$/Work/bitjourney.com/app/assets/javascripts/news.js" timestamp="1508513511324">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/Work/global-web/app/views/step_images/_step_image.html.erb" timestamp="1501607681178">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="69" />
@@ -846,6 +838,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
+      <file name="$USER_HOME$/Work/bitjourney.com/app/assets/javascripts/application.js" timestamp="1508512652712">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/global-web/app/assets/javascripts/recipes.js.coffee" timestamp="1503468969197">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="98" column="51" />
@@ -872,9 +870,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="18" column="54" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/global-web/app/models/activity_log.rb" timestamp="1506357238980">
-        <mark key="'" line="61" column="2" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/cookbooks/datadog/files/etc/dd-agent/conf.d/fluentd.yaml" timestamp="1483114989191">
         <mark key="[" line="15" column="23" />
@@ -960,6 +955,12 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/Work/bitjourney.com/app/assets/javascripts/navigation.js" timestamp="1508513397618">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/wiki_templates/edit.html.haml" timestamp="1487078032514">
         <mark key="[" line="2" column="98" />
@@ -1131,9 +1132,6 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" timestamp="1507217714479">
-        <mark key="'" line="96" column="10" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_trend_hot.html.haml" timestamp="1485468021955">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="24" />
@@ -1221,10 +1219,6 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
         <mark key="^" line="240" column="5" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/users/settings_controller.rb" timestamp="1507217487180">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="68" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/entry_editor/entry_editor_container.spec.jsx" timestamp="1490822152668">
         <mark key="'" line="42" column="0" />
@@ -1674,6 +1668,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/bitjourney.com/app/assets/stylesheets/modules/_news_section.scss" timestamp="1508513531990">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="17" />
+        <mark key="^" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" timestamp="1502300618002">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="137" column="0" />
@@ -1745,7 +1745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/Work/global-web/app/views/searches/show.html.erb" />
       <jump line="22" column="10" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="7" column="0" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="9" column="28" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
@@ -1845,46 +1844,47 @@
       <jump line="328" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_entry.scss" />
       <jump line="20" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_entry.scss" />
       <jump line="92" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
+      <jump line="20" column="10" filename="$USER_HOME$/Work/bitjourney.com/app/views/top/index.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgYm9keSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgJWxpCiAgICAgICAgJXNwYW4ubmV3cy1kYXRlIDIwMTcvMDgvMDYKICAgICAgICAlc3BhbiAje2xpbmtfdG8gJ1J1YnlLYWlnaSAyMDE3JywgJ2h0dHA6Ly9ydWJ5a2FpZ2kub3JnLzIwMTcvc3BvbnNvcnMvI2JpdGpvdXJuZXknfeOBruOCtOODvOODq+ODieOCueODneODs+OCteODvOOBq+OBquOCiuOBvuOBl+OBnwo=</text>
       </register>
       <register name="-" type="4">
-        <text>guest_account</text>
+        <text encoding="base64">Jy5pcy1zdGlja3ktZW5hYmxlJywg</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNoYXJzZXQgJ1VURi04JzsKCi8vIEZyYW1ld29yawpAaW1wb3J0ICdub3JtYWxpemUuY3NzL25vcm1hbGl6ZSc7CgovLyBMaWJyYXJpZXMKQGltcG9ydCAnZm9udC1hd2Vzb21lLXNwcm9ja2V0cyc7CkBpbXBvcnQgJ2ZvbnQtYXdlc29tZSc7CkBpbXBvcnQgJ3ByaW1lci1tYXJrZG93bi9pbmRleCc7CkBpbXBvcnQgJ3N3ZWV0YWxlcnQvZGlzdC9zd2VldGFsZXJ0JzsKQGltcG9ydCAnYW5pbWF0ZS5jc3MvYW5pbWF0ZSc7CgovLyBTZXR0aW5ncwpAaW1wb3J0ICdzZXR0aW5ncy9jb2xvcic7CkBpbXBvcnQgJ3NldHRpbmdzL2dsb2JhbF92YXJpYWJsZSc7CgovLyBVdGlsaXRpZXMKQGltcG9ydCAndXRpbGl0aWVzLyonOwo=</text>
+        <text encoding="base64">ICAgICAgJWxpCiAgICAgICAgJXNwYW4ubmV3cy1kYXRlIDIwMTcvMDgvMDYKICAgICAgICAlc3BhbiAje2xpbmtfdG8gJ1J1YnlLYWlnaSAyMDE3JywgJ2h0dHA6Ly9ydWJ5a2FpZ2kub3JnLzIwMTcvc3BvbnNvcnMvI2JpdGpvdXJuZXknfeOBruOCtOODvOODq+ODieOCueODneODs+OCteODvOOBq+OBquOCiuOBvuOBl+OBnwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgYm9keSB7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC13ZWJraXQtcHJpbnQtY29sb3ItYWRqdXN0OiBleGFjdDsK</text>
+        <text encoding="base64">ICAgICAgJWxpLm1lbWJlcnMtbWVtYmVyQ29udGFpbmVyCiAgICAgICAgPSBpbWFnZV9zZXRfdGFnICdtb3RveWFtYS5wbmcnLCBjbGFzczogJ21lbWJlcnMtcGhvdG8nLCBhbHQ6ICdLYXp1eXVraSBNb3RveWFtYScKICAgICAgICAubWVtYmVycy1wb3NpdGlvbiBEZXNpZ25lcgogICAgICAgICVoMi5tZW1iZXJzLW5hbWUg5YWD5bGxIOWSjOS5iwogICAgICAgIC5tZW1iZXJzLWFjY291bnQKICAgICAgICAgID0gbGlua190byAnQGt1ZGFrdXJhZ2UnLCAnaHR0cHM6Ly90d2l0dGVyLmNvbS9rdWRha3VyYWdlJwogICAgICAgICVwLm1lbWJlcnMtZGVzY3JpcHRpb24KICAgICAgICAgIOWQjeWPpOWxi+W4gueri+Wkp+WtpuiKuOihk+W3peWtpumDqOOCkuWNkualreW+jOOAgeWItuS9nOS8muekvuOAgeOBr+OBpuOBquOAgeOCr+ODg+OCr+ODkeODg+ODieOBp1dlYuOCteODvOODk+OCueODu+OCouODl+ODquOBi+OCiURUUOOBvuOBp+OAgeioreioiOODu+ODh+OCtuOCpOODs+OBi+OCieWun+ijheOBvuOBp+ODh+OCtuOCpOODiuOBqOOBl+OBpuW+k+S6i+OAggogICAgICAgICAgJWJyIDIwMTblubQy5pyI44CBSmVsbHlmaXNoIERlc2lnbiDjg4fjgrbjgqTjg4rjgajjgZfjgabjg5Pjg4Pjg4jjgrjjg6Pjg7zjg4vjg7zjgavlj4LnlLvjgIIKICAgICAgJWxpLm1lbWJlcnMtbWVtYmVyQ29udGFpbmVyCiAgICAgICAgPSBpbWFnZV9zZXRfdGFnICdrZW5qdS5wbmcnLCBjbGFzczogJ21lbWJlcnMtcGhvdG8nLCBhbHQ6ICdLZW5qdSBXYWdhdHN1bWEnCiAgICAgICAgLm1lbWJlcnMtcG9zaXRpb24gRW5naW5lZXIKICAgICAgICAlaDIubWVtYmVycy1uYW1lIOaIkeWmuyDorJnmqLkKICAgICAgICAubWVtYmVycy1hY2NvdW50CiAgICAgICAgICA9IGxpbmtfdG8gJ0BrZW5qdScsICdodHRwczovL2dpdGh1Yi5jb20va2VuanUnCiAgICAgICAgJXAubWVtYmVycy1kZXNjcmlwdGlvbgogICAgICAgICAg5aSn5a2m5pmC5Luj44KI44KKTGlmZSBpcyBUZWNoIeOBruODoeODs+OCv+ODvOOBqOOBl+OBpuOAgWlPU+OChFdlYuOCouODl+ODqumWi+eZuuOBruaVmeiCsuOBq+azqOWKm+OAggogICAgICAgICAgJWJyIOagquW8j+S8muekvuODquOCr+ODq+ODvOODiOODm+ODvOODq+ODh+OCo+ODs+OCsOOCueOBp+OBruOCqOODs+OCuOODi+OCoue1jOmok+OCkue1jOOBpuOAgTIwMTblubQxMuaciOOAgeODk+ODg+ODiOOCuOODo+ODvOODi+ODvOOBq+WFpeekvuOAggo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2RlIHsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZDAzZTAxZi4uLiBSZW1vdmUgbWVtYmVycyBzZWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICDmnbHkuqzpg73nm67pu5LljLrlubPnlLoxLTIyLTEwIHplcGh5cjEwNAogICAgICAgICAgICAgID0gbGlua190byBpY29uKCdleHRlcm5hbC1saW5rJyksICdodHRwczovL2dvby5nbC9tYXBzL3pkMlZzaVZDcG1KMicsIGNsYXNzOiAnY29tcGFueS1leHRlcm5hbE1hcCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdlYmtpdC1wcmludC1jb2xvci1hZGp1c3Q6IGV4YWN0Owo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5lbnRyeS10aXRsZSB7CiAgICAgIG1hcmlnbi1ib3R0b206IDEwcHg7CiAgICB9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgZDAzZTAxZi4uLiBSZW1vdmUgbWVtYmVycyBzZWN0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgYXNpZGUgewogICAgZGlzcGxheTogbm9uZTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICA9IGxpbmtfdG8gJ0NvbnRhY3QnLCAnI2NvbnRhY3QnLCBkYXRhOiB7IHNjcm9sbDogdHJ1ZSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IGxpbmtfdG8gJ0NvbnRhY3QnLCAnI2NvbnRhY3QnLCBjbGFzczogJ3Ntb290aC1zY3JvbGwnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
