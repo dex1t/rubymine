@@ -2010,6 +2010,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-5.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v5.0.4@a808e2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-api (v5.0.4, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/lib" />
@@ -2018,6 +2026,32 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v5.0.4@a808e2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-api/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-api/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-api/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-api/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-dsl (v0.1.4@a808e2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-dsl/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-dsl/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-extensions (v0.0.22@a808e2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-extensions/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-extensions/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-model (v0.1.9, rbenv: 2.4.1) [gem]">
@@ -2062,6 +2096,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-transport-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v5.0.4@a808e2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-transport/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-transport/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-watcher (v0.0.1@a808e2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-watcher/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/elasticsearch-ruby-a808e27cbb02/elasticsearch-watcher/lib" />
       </SOURCES>
     </library>
     <library name="em-http-request (v1.1.5, rbenv: 2.4.1) [gem]">
