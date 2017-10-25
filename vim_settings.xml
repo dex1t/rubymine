@@ -180,10 +180,6 @@
         <mark key="." line="257" column="22" />
         <mark key="^" line="257" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/layouts/mailer.html.haml" timestamp="1508164788909">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="54" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/shared/_tabs.html.haml" timestamp="1491926430939">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="16" />
@@ -395,7 +391,8 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/teams/importers/qiita_teams_controller.rb" timestamp="1508931814663" />
+      <file name="$USER_HOME$/Work/kibela/app/controllers/teams/importers/qiita_teams_controller.rb" timestamp="1508935404757" />
+      <file name="$USER_HOME$/Work/kibela/app/services/concerns/importable_service.rb" timestamp="1508936649618" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/blogs.html.haml" timestamp="1485468285631">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="4" />
@@ -720,6 +717,7 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/services/importers/qiita_team_importer_service.rb" timestamp="1508936255911" />
       <file name="$USER_HOME$/Work/global-web/app/models/photo_comment.rb" timestamp="1501881075110">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="130" column="18" />
@@ -1096,6 +1094,7 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/services/importers/esa_importer_service.rb" timestamp="1508935072164" />
       <file name="$USER_HOME$/Work/clerkbot/app/skills/stats.js" timestamp="1494780002680">
         <mark key="[" line="31" column="26" />
         <mark key="]" line="31" column="67" />
@@ -1199,6 +1198,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/jobs/importers/esa_importer_job.rb" timestamp="1508934930284" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/_profile.html.haml" timestamp="1487322828780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1740,6 +1740,9 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/kibela-importer/lib/kibela/importer/qiita_team.rb" timestamp="1508936020188">
+        <mark key="'" line="52" column="50" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/setting/avatar_setting_box.jsx" timestamp="1484932278194">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="33" />
@@ -1786,7 +1789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="137" column="22" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="10" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="90" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
@@ -1886,6 +1888,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.ja.html.haml" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.en.html.haml" />
       <jump line="10" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="52" column="50" filename="$USER_HOME$/Work/kibela-importer/lib/kibela/importer/qiita_team.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
