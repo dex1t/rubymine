@@ -395,6 +395,7 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/teams/importers/qiita_teams_controller.rb" timestamp="1508931814663" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/blogs.html.haml" timestamp="1485468285631">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="4" />
@@ -1074,6 +1075,9 @@
         <mark key="^" line="24" column="46" />
         <mark key="." line="24" column="46" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1508931032883">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="58" />
@@ -1188,6 +1192,7 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/teams/importers/esas_controller.rb" timestamp="1508931405670" />
       <file name="$USER_HOME$/Work/kibela/app/views/users/_popular_entries.html.haml" timestamp="1485468167030">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="20" />
@@ -1781,7 +1786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="28" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="29" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="137" column="22" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="10" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
@@ -1881,6 +1885,7 @@
       <jump line="20" column="10" filename="$USER_HOME$/Work/bitjourney.com/app/views/top/index.html.haml" />
       <jump line="9" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.ja.html.haml" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.en.html.haml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1890,7 +1895,7 @@
         <text>.policy-date</text>
       </register>
       <register name="/" type="4">
-        <text>batch</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPSBsaW5rX3RvIGltYWdlX3RhZygndGVybXMvcG1hcmstamEuZ2lmJyksICdodHRwczovL3ByaXZhY3ltYXJrLmpwLycsIHRhcmdldDogJ19ibGFuaycK</text>
@@ -1927,9 +1932,9 @@
       </register>
     </registers>
     <search>
-      <last-search>batch</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>batch</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1938,6 +1943,7 @@
         <entry>whene</entry>
         <entry>when</entry>
         <entry>batch</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
