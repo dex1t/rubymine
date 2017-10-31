@@ -830,6 +830,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="241" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1509463937762" />
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_trend.scss" timestamp="1486562655947">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="60" column="22" />
@@ -936,6 +937,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="50" column="31" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" timestamp="1509463401485">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/bundle.js" timestamp="1487784239011">
         <mark key="[" line="17" column="0" />
@@ -1885,7 +1892,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>.policy-date</text>
@@ -1897,31 +1904,31 @@
         <text encoding="base64">ICAgICAgPSBsaW5rX3RvIGltYWdlX3RhZygndGVybXMvcG1hcmstamEuZ2lmJyksICdodHRwczovL3ByaXZhY3ltYXJrLmpwLycsIHRhcmdldDogJ19ibGFuaycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAlc2VjdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFsdAo=</text>
+        <text encoding="base64">Ly8gVE9ETzogSW5jbHVkZSBwbHVnaW4KPSBqYXZhc2NyaXB0X2luY2x1ZGVfdGFnICdodHRwczovL3VucGtnLmNvbS9tYXNvbnJ5LWxheW91dEA0L2Rpc3QvbWFzb25yeS5wa2dkLm1pbi5qcycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAlYnIK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAlYnIK</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICVwIDIwMTflubQz5pyIMTbml6UgOeadoe+8iOaoqeWIqeW4sOWxnu+8ieOCkuaUueWumgo=</text>
+        <text encoding="base64">ICAgIGlmIGFsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICVwIDIwMTblubQ45pyIMzHml6Ug5Yi25a6aCg==</text>
+        <text encoding="base64">ICAgICAgICAlYnIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmQ6IHJlZDsK</text>
+        <text encoding="base64">ICAgICAgICAlYnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJjpsYXN0LW9mLXR5cGUgewogICAgICAgIHBhZGRpbmctYm90dG9tOiAwOwogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICVwIDIwMTflubQz5pyIMTbml6UgOeadoe+8iOaoqeWIqeW4sOWxnu+8ieOCkuaUueWumgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
