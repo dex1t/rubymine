@@ -75,6 +75,12 @@
         <mark key="." line="75" column="24" />
         <mark key="^" line="75" column="24" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/pages/stylesheets/main.scss" timestamp="1510150083027">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/setting/avatar_setting_box.jsx" timestamp="1484932278194">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="33" />
@@ -253,11 +259,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/index.js" timestamp="1510148535284">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.js" timestamp="1510150406626">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/initializers/simple_form.rb" timestamp="1487490059722">
         <mark key="'" line="54" column="0" />
@@ -682,11 +688,11 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/components/hero.js" timestamp="1510148455236">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="7" column="13" />
+      <file name="$USER_HOME$/Work/product-award/src/pages/components/hero.js" timestamp="1510149497413">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Work/bitjourney.com/app/assets/stylesheets/modules/_company_section.scss" timestamp="1508525692556">
         <mark key="[" line="8" column="27" />
@@ -738,11 +744,11 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/layouts/index.js" timestamp="1510146019942">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Work/product-award/src/layouts/index.js" timestamp="1510150498548">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/app-kibela/templates/etc/td-agent/conf.d/s3.conf" timestamp="1483990520797">
         <mark key="[" line="8" column="37" />
@@ -1277,11 +1283,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/components/hero.js" timestamp="1510147696627">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="1" />
+      <file name="$USER_HOME$/Work/product-award/src/components/hero.js" timestamp="1510150424445">
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="1" column="55" />
+        <mark key="^" line="1" column="55" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/admin/resources/recipes.scss" timestamp="1505922746845">
         <mark key="'" line="1" column="0" />
@@ -1934,7 +1940,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsvKjxpbWcgc3JjPXtleWVjYXRjaH0gLz4qL30K</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
         <text>.policy-date</text>
@@ -1946,31 +1952,31 @@
         <text encoding="base64">ICAgICAgPSBsaW5rX3RvIGltYWdlX3RhZygndGVybXMvcG1hcmstamEuZ2lmJyksICdodHRwczovL3ByaXZhY3ltYXJrLmpwLycsIHRhcmdldDogJ19ibGFuaycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsvKjxpbWcgc3JjPXtleWVjYXRjaH0gLz4qL30K</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxIZXJvIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1haW4gZnJvbSAnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsvKjxpbWcgc3JjPXtleWVjYXRjaH0gLz4qL30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxIZXJvIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgSGVybwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
