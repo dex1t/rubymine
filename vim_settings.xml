@@ -973,6 +973,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1510220503403">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="46" />
+        <mark key="^" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1490822726923">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="11" />
@@ -1640,11 +1646,12 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1510216267311">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1510220576748">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1506009598716">
         <mark key="'" line="36" column="4" />
@@ -1708,11 +1715,11 @@
         <mark key="^" line="87" column="15" />
         <mark key="." line="87" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_base.scss" timestamp="1510215461831">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+      <file name="$USER_HOME$/Work/product-award/src/styles/_base.scss" timestamp="1510220401169">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/worker-kuroko/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483992046215">
         <mark key="[" line="33" column="15" />
@@ -1867,8 +1874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
-      <jump line="90" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="57" column="0" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="73" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="32" column="7" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
@@ -1967,46 +1972,48 @@
       <jump line="10" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
       <jump line="52" column="50" filename="$USER_HOME$/Work/kibela-importer/lib/kibela/importer/qiita_team.rb" />
       <jump line="52" column="129" filename="$USER_HOME$/Work/kibela/spec/helpers/mailer_helper_spec.rb" />
+      <jump line="57" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="17" column="1" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBSb2JvdG87Cg==</text>
+        <text encoding="base64">ICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text encoding="base64">IGFsdD0iVHdpdHRlcuOBp+OCt+OCp+OCouOBmeOCiyI=</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPSBsaW5rX3RvIGltYWdlX3RhZygndGVybXMvcG1hcmstamEuZ2lmJyksICdodHRwczovL3ByaXZhY3ltYXJrLmpwLycsIHRhcmdldDogJ19ibGFuaycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+5omL6ZaT44GM5rib44Gj44Gm5L6/5Yip44Gr44Gq44KLPC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBSb2JvdG87Cg==</text>
+        <text encoding="base64">ICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuNTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAmLWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBibHVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiA7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogcm93OwogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogYzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
