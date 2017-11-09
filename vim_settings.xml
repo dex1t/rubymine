@@ -259,11 +259,10 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/index.js" timestamp="1510150406626">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.js" timestamp="1510209740255">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/initializers/simple_form.rb" timestamp="1487490059722">
         <mark key="'" line="54" column="0" />
@@ -744,11 +743,11 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/layouts/index.js" timestamp="1510150498548">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="3" column="36" />
+      <file name="$USER_HOME$/Work/product-award/src/layouts/index.js" timestamp="1510209731746">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/app-kibela/templates/etc/td-agent/conf.d/s3.conf" timestamp="1483990520797">
         <mark key="[" line="8" column="37" />
@@ -1193,6 +1192,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="12" column="78" />
+      </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/main.scss" timestamp="1510209853476">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493558500171">
         <mark key="[" line="2" column="4" />
@@ -1940,10 +1945,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Ym9keSB7CiAgYmFja2dyb3VuZDogYmx1ZTsKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.policy-date</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
@@ -1952,31 +1957,31 @@
         <text encoding="base64">ICAgICAgPSBsaW5rX3RvIGltYWdlX3RhZygndGVybXMvcG1hcmstamEuZ2lmJyksICdodHRwczovL3ByaXZhY3ltYXJrLmpwLycsIHRhcmdldDogJ19ibGFuaycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Ym9keSB7CiAgYmFja2dyb3VuZDogYmx1ZTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1haW4gZnJvbSAnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsvKjxpbWcgc3JjPXtleWVjYXRjaH0gLz4qL30K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxIZXJvIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICA8bWFpbj4KICA8L21haW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
