@@ -511,8 +511,8 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" timestamp="1486413524930">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" timestamp="1510326056083">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="0" column="48" />
         <mark key="]" line="0" column="49" />
         <mark key="^" line="0" column="49" />
@@ -1789,7 +1789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_ways.scss" />
       <jump line="57" column="0" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="73" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="32" column="7" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
@@ -1889,6 +1888,7 @@
       <jump line="52" column="50" filename="$USER_HOME$/Work/kibela-importer/lib/kibela/importer/qiita_team.rb" />
       <jump line="52" column="129" filename="$USER_HOME$/Work/kibela/spec/helpers/mailer_helper_spec.rb" />
       <jump line="287" column="58" filename="$USER_HOME$/Work/kibela/client/components/BoardPanel.tsx" />
+      <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
