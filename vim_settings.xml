@@ -132,7 +132,6 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/spec/mailers/notifications/comment_notification_mailer_spec.rb" timestamp="1509301154529" />
       <file name="$USER_HOME$/Work/global-web/app/views/photo_comments/new_from_recipe_image.html.erb" timestamp="1501880363201">
         <mark key="[" line="25" column="107" />
         <mark key="]" line="25" column="91" />
@@ -830,7 +829,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="241" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1509463937762" />
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_trend.scss" timestamp="1486562655947">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="60" column="22" />
@@ -938,7 +936,7 @@
         <mark key="^" line="50" column="31" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" timestamp="1509463401485">
+      <file name="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" timestamp="1510320684172">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
