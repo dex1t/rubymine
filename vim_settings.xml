@@ -829,6 +829,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="241" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1510403059826">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_trend.scss" timestamp="1486562655947">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="60" column="22" />
@@ -936,7 +942,7 @@
         <mark key="^" line="50" column="31" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" timestamp="1510321479772">
+      <file name="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" timestamp="1510402952782">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -1086,8 +1092,8 @@
         <mark key="^" line="24" column="46" />
         <mark key="." line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1508931032883">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1510402970375">
+        <mark key="'" line="102" column="8" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/users/wikis.html.haml" timestamp="1485202892200">
         <mark key="[" line="14" column="0" />
@@ -1789,8 +1795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
-      <jump line="73" column="4" filename="$USER_HOME$/Work/global-web/app/views/ways/search.html.erb" />
       <jump line="32" column="7" filename="$USER_HOME$/Work/global-web/app/views/recipes/_about.html.erb" />
       <jump line="94" column="8" filename="$USER_HOME$/Work/global-web/app/views/recipes/show.html.erb" />
       <jump line="66" column="195" filename="$USER_HOME$/Work/global-web/app/views/recipes/_action_bar.html.erb" />
@@ -1889,10 +1893,12 @@
       <jump line="52" column="129" filename="$USER_HOME$/Work/kibela/spec/helpers/mailer_helper_spec.rb" />
       <jump line="287" column="58" filename="$USER_HOME$/Work/kibela/client/components/BoardPanel.tsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" />
+      <jump line="102" column="8" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="30" column="4" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBAYm9hcmRzLmVhY2ggZG8gfGJvYXJkfAogICAgICAgID0KICAgICAgICA9IHJlYWN0X2NvbXBvbmVudCg6Qm9hcmRQYW5lbCwgYm9hcmQuZGVjb3JhdGUudG9fYm9hcmRfcGFuZWxfcHJvcHMoYWNjZXNzaWJsZV9ib2FyZHM6IEBhY2Nlc3NpYmxlX2JvYXJkcywgd2lraXNfY291bnRfbWFwOiBAd2lraXNfY291bnRfbWFwLCBibG9nc19jb3VudF9tYXA6IEBibG9nc19jb3VudF9tYXApLCB7IGNsYXNzOiAiYm9hcmRQYW5lbFdyYXBwZXIifSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>.policy-date</text>
@@ -1904,28 +1910,28 @@
         <text encoding="base64">ICAgICAgPSBsaW5rX3RvIGltYWdlX3RhZygndGVybXMvcG1hcmstamEuZ2lmJyksICdodHRwczovL3ByaXZhY3ltYXJrLmpwLycsIHRhcmdldDogJ19ibGFuaycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBAYm9hcmRzLmVhY2ggZG8gfGJvYXJkfAogICAgICAgID0KICAgICAgICA9IHJlYWN0X2NvbXBvbmVudCg6Qm9hcmRQYW5lbCwgYm9hcmQuZGVjb3JhdGUudG9fYm9hcmRfcGFuZWxfcHJvcHMoYWNjZXNzaWJsZV9ib2FyZHM6IEBhY2Nlc3NpYmxlX2JvYXJkcywgd2lraXNfY291bnRfbWFwOiBAd2lraXNfY291bnRfbWFwLCBibG9nc19jb3VudF9tYXA6IEBibG9nc19jb3VudF9tYXApLCB7IGNsYXNzOiAiYm9hcmRQYW5lbFdyYXBwZXIifSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLSBAYm9hcmRzLmVhY2ggZG8gfGJvYXJkfAogICAgICAgID0KICAgICAgICA9IHJlYWN0X2NvbXBvbmVudCg6Qm9hcmRQYW5lbCwgYm9hcmQuZGVjb3JhdGUudG9fYm9hcmRfcGFuZWxfcHJvcHMoYWNjZXNzaWJsZV9ib2FyZHM6IEBhY2Nlc3NpYmxlX2JvYXJkcywgd2lraXNfY291bnRfbWFwOiBAd2lraXNfY291bnRfbWFwLCBibG9nc19jb3VudF9tYXA6IEBibG9nc19jb3VudF9tYXApLCB7IGNsYXNzOiAiYm9hcmRQYW5lbFdyYXBwZXIifSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAlc2VjdGlvbgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETzogSW5jbHVkZSBwbHVnaW4KPSBqYXZhc2NyaXB0X2luY2x1ZGVfdGFnICdodHRwczovL3VucGtnLmNvbS9tYXNvbnJ5LWxheW91dEA0L2Rpc3QvbWFzb25yeS5wa2dkLm1pbi5qcycK</text>
+        <text encoding="base64">ICAlc2VjdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Ly8gVE9ETzogSW5jbHVkZSBwbHVnaW4KPSBqYXZhc2NyaXB0X2luY2x1ZGVfdGFnICdodHRwczovL3VucGtnLmNvbS9tYXNvbnJ5LWxheW91dEA0L2Rpc3QvbWFzb25yeS5wa2dkLm1pbi5qcycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGFsdAo=</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAlYnIK</text>
+        <text encoding="base64">ICAgIGlmIGFsdAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAlYnIK</text>
