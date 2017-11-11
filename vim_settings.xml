@@ -914,6 +914,9 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" timestamp="1510410643532">
+        <mark key="'" line="40" column="84" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/show.html.haml" timestamp="1508165055884">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="40" />
@@ -1827,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="162" column="12" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.tsx" />
       <jump line="26" column="3" filename="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.tsx" />
       <jump line="84" column="11" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
@@ -1927,6 +1929,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" />
       <jump line="85" column="15" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile_header.scss" />
+      <jump line="40" column="84" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
