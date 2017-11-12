@@ -100,8 +100,8 @@
         <mark key="^" line="175" column="17" />
         <mark key="." line="175" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/models/user.rb" timestamp="1510404556928">
-        <mark key="'" line="236" column="2" />
+      <file name="$USER_HOME$/Work/kibela/app/models/user.rb" timestamp="1510414604348">
+        <mark key="'" line="238" column="18" />
         <mark key="[" line="150" column="4" />
         <mark key="]" line="150" column="7" />
         <mark key="." line="150" column="7" />
@@ -1027,6 +1027,7 @@
         <mark key="^" line="2" column="121" />
         <mark key="." line="2" column="121" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/lib/kibela_markdown.rb" timestamp="1510414974045" />
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_simple_form.scss" timestamp="1487489159474">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="4" column="7" />
@@ -1041,11 +1042,11 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/users/_profile_header.html.haml" timestamp="1510412252414">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="85" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/views/users/_profile_header.html.haml" timestamp="1510413544742">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/wikis/new.html.haml" timestamp="1487078065767">
         <mark key="[" line="2" column="81" />
@@ -1263,7 +1264,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="68" column="160" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" timestamp="1510412320420">
+      <file name="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" timestamp="1510414472468">
         <mark key="'" line="111" column="34" />
         <mark key="[" line="56" column="134" />
         <mark key="]" line="56" column="116" />
@@ -1830,7 +1831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="11" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="42" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="15" column="6" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
@@ -1930,6 +1930,7 @@
       <jump line="40" column="84" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
       <jump line="50" column="0" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
       <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
+      <jump line="238" column="18" filename="$USER_HOME$/Work/kibela/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
