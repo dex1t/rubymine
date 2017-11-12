@@ -248,6 +248,12 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/shared/profile/biography.tsx" timestamp="1510493204954">
+        <mark key="[" line="17" column="121" />
+        <mark key="]" line="17" column="89" />
+        <mark key="^" line="17" column="89" />
+        <mark key="." line="17" column="89" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/billing/upgrade_form.jsx" timestamp="1493063982467">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="85" column="14" />
@@ -677,6 +683,12 @@
       <file name="$USER_HOME$/Work/kibela/app/views/externals/terms.en.html.haml" timestamp="1508527546335">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_biography.scss" timestamp="1510493403257">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/board_list/sp_board_list.jsx" timestamp="1490792603592">
         <mark key="'" line="31" column="9" />
         <mark key="[" line="18" column="0" />
@@ -740,6 +752,13 @@
         <mark key="]" line="130" column="10" />
         <mark key="." line="130" column="10" />
         <mark key="^" line="130" column="10" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/lib/biography_markdown.rb" timestamp="1510492677002">
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/initializers/assets.rb" timestamp="1508164633362">
         <mark key="[" line="17" column="67" />
@@ -1027,7 +1046,11 @@
         <mark key="^" line="2" column="121" />
         <mark key="." line="2" column="121" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/lib/kibela_markdown.rb" timestamp="1510414974045" />
+      <file name="$USER_HOME$/Work/kibela/lib/kibela_markdown.rb" timestamp="1510491868746">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="61" column="8" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_simple_form.scss" timestamp="1487489159474">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="4" column="7" />
@@ -1264,12 +1287,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="68" column="160" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" timestamp="1510414472468">
-        <mark key="'" line="111" column="34" />
-        <mark key="[" line="56" column="134" />
-        <mark key="]" line="56" column="116" />
-        <mark key="^" line="56" column="116" />
-        <mark key="." line="56" column="116" />
+      <file name="$USER_HOME$/Work/kibela/app/decorators/user_decorator.rb" timestamp="1510492548520">
+        <mark key="'" line="105" column="34" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_confirm_dialog.scss" timestamp="1507214022327">
         <mark key="[" line="75" column="35" />
@@ -1375,11 +1397,11 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="162" column="61" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" timestamp="1508163911181">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="56" column="2" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="496" column="21" />
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" timestamp="1510493396756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170801164903_add_origin_image_id_to_steps.rb" timestamp="1501606230232">
         <mark key="[" line="2" column="49" />
@@ -1493,6 +1515,7 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/lib/kibela_markdown/sanitization_rule.rb" timestamp="1510491768596" />
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170808151926_create_ways_table.rb" timestamp="1502207123747">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="3" column="38" />
@@ -1831,10 +1854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="15" column="6" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/admin/resources/recipes.scss" />
       <jump line="12" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="45" column="13" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
@@ -1931,10 +1950,14 @@
       <jump line="50" column="0" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
       <jump line="17" column="0" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
       <jump line="238" column="18" filename="$USER_HOME$/Work/kibela/app/models/user.rb" />
+      <jump line="55" column="0" filename="$USER_HOME$/Work/kibela/lib/kibela_markdown.rb" />
+      <jump line="39" column="2" filename="$USER_HOME$/Work/kibela/lib/biography_markdown.rb" />
+      <jump line="4" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" />
+      <jump line="515" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOgo=</text>
+        <text encoding="base64">Ly8gb3ZlcndyaXRlIHByaW1lci9tYXJrZG93biBhcyBzdHlsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>.policy-date</text>
@@ -1943,34 +1966,34 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnVzZXJTaG93IHsKICBwYWRkaW5nLXRvcDogMzcwcHg7CgogIEBpbmNsdWRlIHNtYXJ0cGhvbmUgewogICAgcGFkZGluZy10b3A6IDA7CiAgfQoKICA+IHNlY3Rpb24gewogICAgbWFyZ2luLXRvcDogNTBweDsKCiAgICBAaW5jbHVkZSBzbWFydHBob25lIHsKICAgICAgbWFyZ2luLXRvcDogMjBweDsKICAgIH0KICB9Cn0K</text>
+        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gTWFya2Rvd24gc3R5bGVzIGZvciBlbnRyeSBwYWdlCi8vIG92ZXJ3cml0ZSBwcmltZXIvbWFya2Rvd24gYXMgc3R5bGUKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOgo=</text>
+        <text encoding="base64">Ly8gb3ZlcndyaXRlIHByaW1lci9tYXJrZG93biBhcyBzdHlsZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Lm1hcmtkb3duLWJvZHkuaXMtbWFya2Rvd24tYm9keS1kaXNhYmxlQW5jaG9yIHsKICBoMTpob3ZlciwKICBoMjpob3ZlciwKICBoMzpob3ZlciwKICBoNDpob3ZlciwKICBoNTpob3ZlciwKICBoNjpob3ZlciB7CiAgICAuZmEuZmEtbGluayB7CiAgICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsKICAgIH0KICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAudXNlclNob3cgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAmLWhlYWRlciB7CgogIH0K</text>
+        <text encoding="base64">Ly8gZGVwZW5kcyBvbiBpbmNyZW1lbnRzL3FpaXRhLW1hcmtkb3duIGFzIG1hcmt1cCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIGFjdGlvbjogOmJsb2dzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBvcmRlciBtYXR0ZXJzIQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBpc19yZWRlc2lnbjIwMTcgPSB0cnVlCgogICAgIyBUT0RPOiBGaW5kIGpvaW5lZCBib2FyZHMKICAgIEBib2FyZHMgPSBCb2FyZC5vcmRlcmVkCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjb3VudCA9IGNvbmZpcm1lZF91c2VyLmRyYWZ0X2VudHJpZXMudG90YWxfY291bnQK</text>
+        <text encoding="base64">ICAgICAgICBhYmlsaXR5OiBBYmlsaXR5LmRlZmF1bHQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldCAnL0A6YWNjb3VudC9wcml2YXRlJyAgICA9PiAndXNlcnMjcHJpdmF0ZV9lbnRyaWVzJywgYXM6IDpmcmllbmRseV91c2VyX3ByaXZhdGVfZW50cmllcwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVzdGVkOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
