@@ -195,6 +195,13 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1510936546313">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="229" column="14" />
+        <mark key="]" line="229" column="13" />
+        <mark key="." line="229" column="13" />
+        <mark key="^" line="229" column="13" />
+      </file>
       <file name="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" timestamp="1506373766750">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="33" column="0" />
@@ -639,6 +646,13 @@
         <mark key="^" line="294" column="14" />
         <mark key="." line="294" column="14" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/pages/terms.jsx" timestamp="1510937444842">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" timestamp="1506365346755">
         <mark key="'" line="242" column="0" />
         <mark key="[" line="295" column="17" />
@@ -796,11 +810,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="53" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1510933892651">
-        <mark key="[" line="77" column="56" />
-        <mark key="]" line="77" column="58" />
-        <mark key="." line="77" column="58" />
-        <mark key="^" line="77" column="58" />
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1510935403723">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="100" column="14" />
+        <mark key="^" line="112" column="36" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/comment_editor/tab.jsx" timestamp="1491926832837">
         <mark key="[" line="14" column="35" />
@@ -845,11 +860,11 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1510933695309">
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1510937396198">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Work/global-web/db/migrate/20170802152341_add_origin_step_id_to_steps.rb" timestamp="1501687446138">
         <mark key="[" line="2" column="23" />
@@ -1864,26 +1879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/admin/resources/recipes.scss" />
-      <jump line="12" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
-      <jump line="45" column="13" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="229" column="1" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
-      <jump line="256" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
-      <jump line="52" column="0" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="35" column="9" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="0" column="22" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="38" column="0" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" />
-      <jump line="22" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="54" column="10" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="11" column="12" filename="$USER_HOME$/Work/global-web/config/yamanote.yml" />
-      <jump line="31" column="16" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="8" column="4" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="67" column="39" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="58" column="2" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="43" column="0" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="37" column="4" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="20" column="0" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
-      <jump line="4" column="0" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
       <jump line="13" column="22" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" />
       <jump line="19" column="18" filename="$USER_HOME$/Work/global-web/app/assets/javascripts/sidebar.js.coffee" />
       <jump line="25" column="0" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
@@ -1964,46 +1959,66 @@
       <jump line="39" column="2" filename="$USER_HOME$/Work/kibela/lib/biography_markdown.rb" />
       <jump line="4" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" />
       <jump line="515" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown.scss" />
+      <jump line="3" column="25" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="119" column="0" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="52" column="5" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="111" column="36" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="0" column="24" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="65" column="4" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="64" column="10" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="67" column="33" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="45" column="40" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="104" column="0" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="8" column="8" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="69" column="9" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="126" column="2" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="158" column="2" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="110" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="18" column="19" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIOOCr+ODg+OCr+ODkeODg+ODieOBr+OAgeW5s+Wdh+aciOmWk+WIqeeUqOiAheaVsOOBjOWbveWGheOBpzUsNTAw5LiH5Lq65Lul5LiK44CB5rW35aSW44GnMiw5MDDkuIfkurrku6XkuIrjga7jgrXjg7zjg5PjgrnjgpLpgYvllrbjgZfjgabjgYTjgb7jgZnjgIIyMDE05bm044GL44KJ5rW35aSW5bGV6ZaL44KS5pys5qC855qE44Gr6ZaL5aeL44GX44Gm44GL44KJ44CB5LiW55WM44GuNzDlhITkurrjgYzjgIzmr47ml6Xjga7mlpnnkIbjgpLmpb3jgZfjgb/jgavjgZnjgovjgI3jgrXjg7zjg5PjgrnjgpLlsZXplovjgZfjgabjgYTjgb7jgZnjgII8YnIvPgogICAgICAgICAgICBMaWZlIFN0eWxlIFByb2R1Y3QgQXdhcmQg44Gv44CBMjAxN+W5tOOBq+WIneOCgeOBpuWFrOmWi+OBleOCjOOBn+OCpOODs+OCv+ODvOODjeODg+ODiOOCteODvOODk+OCueOAgeOCguOBl+OBj+OBr+ODouODkOOCpOODq+OCouODl+ODquOCseODvOOCt+ODp+ODs+OCkuihqOW9sOOBmeOCi+OCouODr+ODvOODieOBp+OBmeOAguOAjOeUn+a0u+OCkuOCiOOCiuiJr+OBj+OBmeOCi+OAjeOCkuODhuODvOODnuOBq+OAgeWAi+S6uuOBqOekvuS8muOBqOWcsOeQg+OBjOOBi+OBi+OBiOOCi+OBleOBvuOBluOBvuOBquiqsumhjOOCkuimi+OBpOOBkeOAgeiAg+OBiOOAgeino+axuuOBmeOCi+OAgeOBneOBruOCiOOBhuOBquOCteODvOODk+OCueOChOOCouODl+ODquOCseODvOOCt+ODp+ODs+OCkuW/nOaPtOOBl+OBn+OBhOOBqOiAg+OBiOOBpuOBhOOBvuOBmeOAggo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.policy-date</text>
+        <text encoding="base64">PC9zdHJvbmc+</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gTWFya2Rvd24gc3R5bGVzIGZvciBlbnRyeSBwYWdlCi8vIG92ZXJ3cml0ZSBwcmltZXIvbWFya2Rvd24gYXMgc3R5bGUKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNjaGVtZS10aXRsZSI+5YCL5Lq65oOF5aCx44Gu5Y+W44KK5omx44GE44Gr44Gk44GE44GmPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIOOCr+ODg+OCr+ODkeODg+ODieOBr+OAgeW5s+Wdh+aciOmWk+WIqeeUqOiAheaVsOOBjOWbveWGheOBpzUsNTAw5LiH5Lq65Lul5LiK44CB5rW35aSW44GnMiw5MDDkuIfkurrku6XkuIrjga7jgrXjg7zjg5PjgrnjgpLpgYvllrbjgZfjgabjgYTjgb7jgZnjgIIyMDE05bm044GL44KJ5rW35aSW5bGV6ZaL44KS5pys5qC855qE44Gr6ZaL5aeL44GX44Gm44GL44KJ44CB5LiW55WM44GuNzDlhITkurrjgYzjgIzmr47ml6Xjga7mlpnnkIbjgpLmpb3jgZfjgb/jgavjgZnjgovjgI3jgrXjg7zjg5PjgrnjgpLlsZXplovjgZfjgabjgYTjgb7jgZnjgII8YnIvPgogICAgICAgICAgICBMaWZlIFN0eWxlIFByb2R1Y3QgQXdhcmQg44Gv44CBMjAxN+W5tOOBq+WIneOCgeOBpuWFrOmWi+OBleOCjOOBn+OCpOODs+OCv+ODvOODjeODg+ODiOOCteODvOODk+OCueOAgeOCguOBl+OBj+OBr+ODouODkOOCpOODq+OCouODl+ODquOCseODvOOCt+ODp+ODs+OCkuihqOW9sOOBmeOCi+OCouODr+ODvOODieOBp+OBmeOAguOAjOeUn+a0u+OCkuOCiOOCiuiJr+OBj+OBmeOCi+OAjeOCkuODhuODvOODnuOBq+OAgeWAi+S6uuOBqOekvuS8muOBqOWcsOeQg+OBjOOBi+OBi+OBiOOCi+OBleOBvuOBluOBvuOBquiqsumhjOOCkuimi+OBpOOBkeOAgeiAg+OBiOOAgeino+axuuOBmeOCi+OAgeOBneOBruOCiOOBhuOBquOCteODvOODk+OCueOChOOCouODl+ODquOCseODvOOCt+ODp+ODs+OCkuW/nOaPtOOBl+OBn+OBhOOBqOiAg+OBiOOBpuOBhOOBvuOBmeOAggo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gb3ZlcndyaXRlIHByaW1lci9tYXJrZG93biBhcyBzdHlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJoZXJvIj4KICAgICAgICAgICAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lm1hcmtkb3duLWJvZHkuaXMtbWFya2Rvd24tYm9keS1kaXNhYmxlQW5jaG9yIHsKICBoMTpob3ZlciwKICBoMjpob3ZlciwKICBoMzpob3ZlciwKICBoNDpob3ZlciwKICBoNTpob3ZlciwKICBoNjpob3ZlciB7CiAgICAuZmEuZmEtbGluayB7CiAgICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsKICAgIH0KICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHJlZj0iIyI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzc05hbWU9ImFwcGx5LXRlcm1zIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZGVwZW5kcyBvbiBpbmNyZW1lbnRzL3FpaXRhLW1hcmtkb3duIGFzIG1hcmt1cCwK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBvcmRlciBtYXR0ZXJzIQo=</text>
+        <text encoding="base64">ICAgICAgICAgIOOBk+OBoeOCieOBruW/nOWLn+imj+e0hOOBq+WQjOaEj+OBruS4iuOAgeOBlOW/nOWLn+OBj+OBoOOBleOBhAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">CgoKICAgICAgICAgICAgICAgIOOAh+OBiuWVj+OBhOWQiOOCj+OBm+OAhwogICAgICAgICAgICAgICAg44Os44K344OU44Kz44Oz44OG44K544OI44Gr6Zai44GZ44KL44GK5ZWP44GE5ZCI44KP44Gb44Gv44GT44Gh44KJ44GL44KJ44GK6YCB44KK44GP44Gg44GV44GE44CCCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhYmlsaXR5OiBBYmlsaXR5LmRlZmF1bHQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
