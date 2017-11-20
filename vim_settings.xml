@@ -661,11 +661,10 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1510937396198">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1511178389515">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494363880997">
         <mark key="'" line="25" column="44" />
@@ -1995,7 +1994,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD17SE9TVH0gLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>.profileHeader-profile</text>
@@ -2007,31 +2006,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudD17SE9TVH0gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD0i5paZ55CG5YuV55S744Kv44Oq44Ko44Kk44OG44Kj44OW44Ki44Ov44O844OJMjAxN3wgY29va3BhZCBUViIgLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9scC5jb29rcGFkLmNvbS9jb29rcGFkX3R2XzFtaW5fY29udGVzdC9hc3NldHMvb2dwLmpwZyIgLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBob3N0OiBgaHR0cHM6Ly9wcm9kdWN0LWF3YXJkLmNvb2twYWQuY29tL2AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD0i5paZ55CG5YuV55S744Kv44Oq44Ko44Kk44OG44Kj44OW44Ki44Ov44O844OJMjAxN3wgY29va3BhZCBUViIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9scC5jb29rcGFkLmNvbS9jb29rcGFkX3R2XzFtaW5fY29udGVzdC9hc3NldHMvb2dwLmpwZyIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSIuL2Fzc2V0cy9mYXZpY29uLmljbyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICBob3N0OiBgaHR0cHM6Ly9wcm9kdWN0LWF3YXJkLmNvb2twYWQuY29tL2AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXR0aW5nIHRoaXMgcGFyYW1ldGVyIGlzIG9wdGlvbmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSIuL2Fzc2V0cy9mYXZpY29uLmljbyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
