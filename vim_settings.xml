@@ -1684,12 +1684,12 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511188066092">
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511197075476">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="141" column="15" />
-        <mark key="]" line="141" column="14" />
-        <mark key="." line="141" column="14" />
-        <mark key="^" line="141" column="14" />
+        <mark key="[" line="155" column="13" />
+        <mark key="]" line="155" column="12" />
+        <mark key="^" line="155" column="12" />
+        <mark key="." line="155" column="12" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1506009598716">
         <mark key="'" line="36" column="4" />
@@ -2015,7 +2015,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="-" type="4">
         <text>https://ghe.ckpd.co/pages/hr/product-award/</text>
@@ -2024,34 +2024,34 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL3BhZ2VzL2hyL3Byb2R1Y3QtYXdhcmQvYCwK</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JCBvcGVuICcnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JCAK</text>
+        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVxdWlyZSBzb3JhaC9lbnZjaGFpbi4K</text>
+        <text encoding="base64">JCBvcGVuICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RGVwbG95IHRvIFMzCg==</text>
+        <text encoding="base64">JCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVxdWlyZSBzb3JhaC9lbnZjaGFpbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RGVwbG95IHRvIFMzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
