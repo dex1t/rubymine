@@ -439,11 +439,11 @@
         <mark key="^" line="17" column="89" />
         <mark key="." line="17" column="89" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/settings/_mixins.scss" timestamp="1511184566176">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/Work/product-award/src/styles/settings/_mixins.scss" timestamp="1511188054133">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/batch_td-agent.rb" timestamp="1483113523753">
         <mark key="[" line="15" column="27" />
@@ -1683,12 +1683,12 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511186437743">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="213" column="25" />
-        <mark key="]" line="214" column="23" />
-        <mark key="." line="214" column="23" />
-        <mark key="^" line="214" column="23" />
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511188066092">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="141" column="15" />
+        <mark key="]" line="141" column="14" />
+        <mark key="." line="141" column="14" />
+        <mark key="^" line="141" column="14" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1506009598716">
         <mark key="'" line="36" column="4" />
@@ -1905,8 +1905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="87" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="32" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="61" column="2" filename="$USER_HOME$/Work/global-web/app/models/activity_log.rb" />
       <jump line="117" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="50" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
@@ -2005,10 +2003,12 @@
       <jump line="161" column="8" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
       <jump line="291" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
       <jump line="79" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="171" column="9" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="3" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweCA1cHg7Cg==</text>
+        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.profileHeader-profile</text>
@@ -2017,34 +2017,34 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIHNtYXJ0cGhvbmUgewogICAgICBwYWRkaW5nOiAyMHB4IDVweDsKICAgIH0K</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA0MHB4IDAgNzBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweCA1cHg7Cg==</text>
+        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy9wYWRkaW5nOiAzMHB4IDEwcHg7Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAzMHB4IDAgNzBweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICRibGFjazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBzbWFydHBob25lIHsKICAgIC8vcGFkZGluZzogMzBweCAxMHB4OwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgQAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdoCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweCA1cHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkaAo=</text>
+        <text encoding="base64">ICAgICAgLy9wYWRkaW5nOiAzMHB4IDEwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAaW5jbHVkZSBzbWFydHBob25lIHsKICAgIC8vcGFkZGluZzogMzBweCAxMHB4OwogIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
