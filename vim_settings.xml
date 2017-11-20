@@ -988,6 +988,9 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511161693422">
+        <mark key="'" line="165" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1490822726923">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="11" />
@@ -1884,8 +1887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="15" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="36" column="4" filename="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" />
       <jump line="19" column="35" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="1" column="9" filename="$USER_HOME$/Work/global-web/config/yamanote.yml" />
       <jump line="48" column="12" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
@@ -1984,6 +1985,8 @@
       <jump line="39" column="24" filename="$USER_HOME$/Work/kibela/lib/kibela_markdown/sanitization_rule.rb" />
       <jump line="24" column="13" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_biography.scss" />
       <jump line="29" column="0" filename="$USER_HOME$/Work/kibela/lib/kibela_markdown/sanitization_rule.rb" />
+      <jump line="33" column="33" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="165" column="0" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
