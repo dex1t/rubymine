@@ -439,6 +439,12 @@
         <mark key="^" line="17" column="89" />
         <mark key="." line="17" column="89" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/settings/_mixins.scss" timestamp="1511184566176">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/batch-kibela/batch_td-agent.rb" timestamp="1483113523753">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="16" column="0" />
@@ -661,10 +667,11 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1511178389515">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1511182471797">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494363880997">
         <mark key="'" line="25" column="44" />
@@ -1234,6 +1241,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="12" column="78" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/main.scss" timestamp="1511183239681">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/Work/sparrowbot/index.js" timestamp="1493558500171">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="27" />
@@ -1670,11 +1683,12 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511174450450">
-        <mark key="[" line="165" column="10" />
-        <mark key="]" line="166" column="19" />
-        <mark key="." line="166" column="19" />
-        <mark key="^" line="166" column="19" />
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511186437743">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="213" column="25" />
+        <mark key="]" line="214" column="23" />
+        <mark key="." line="214" column="23" />
+        <mark key="^" line="214" column="23" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1506009598716">
         <mark key="'" line="36" column="4" />
@@ -1891,12 +1905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="35" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
-      <jump line="1" column="9" filename="$USER_HOME$/Work/global-web/config/yamanote.yml" />
-      <jump line="48" column="12" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="27" column="44" filename="$USER_HOME$/Work/global-web/app/views/layouts/_navigation.html.erb" />
-      <jump line="63" column="29" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
-      <jump line="72" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="0" column="87" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="32" column="0" filename="$USER_HOME$/Work/global-web/app/helpers/application_helper.rb" />
       <jump line="61" column="2" filename="$USER_HOME$/Work/global-web/app/models/activity_log.rb" />
@@ -1991,10 +1999,16 @@
       <jump line="29" column="0" filename="$USER_HOME$/Work/kibela/lib/kibela_markdown/sanitization_rule.rb" />
       <jump line="33" column="33" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
       <jump line="165" column="0" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="9" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="113" column="26" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="161" column="8" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="291" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
+      <jump line="79" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweCA1cHg7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.profileHeader-profile</text>
@@ -2003,34 +2017,34 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD17SE9TVH0gLz4K</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIHNtYXJ0cGhvbmUgewogICAgICBwYWRkaW5nOiAyMHB4IDVweDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweCA1cHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy9wYWRkaW5nOiAzMHB4IDEwcHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD0i5paZ55CG5YuV55S744Kv44Oq44Ko44Kk44OG44Kj44OW44Ki44Ov44O844OJMjAxN3wgY29va3BhZCBUViIgLz4K</text>
+        <text encoding="base64">ICBAaW5jbHVkZSBzbWFydHBob25lIHsKICAgIC8vcGFkZGluZzogMzBweCAxMHB4OwogIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9scC5jb29rcGFkLmNvbS9jb29rcGFkX3R2XzFtaW5fY29udGVzdC9hc3NldHMvb2dwLmpwZyIgLz4K</text>
+        <text encoding="base64">ICAgIGhlaWdoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBob3N0OiBgaHR0cHM6Ly9wcm9kdWN0LWF3YXJkLmNvb2twYWQuY29tL2AK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSIuL2Fzc2V0cy9mYXZpY29uLmljbyI+Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
