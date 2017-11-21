@@ -405,9 +405,9 @@
         <mark key="^" line="2" column="115" />
         <mark key="." line="2" column="115" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/layouts/index.jsx" timestamp="1511260781797">
-        <mark key="[" line="45" column="89" />
-        <mark key="]" line="45" column="88" />
+      <file name="$USER_HOME$/Work/product-award/src/layouts/index.jsx" timestamp="1511263647487">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="45" column="89" />
         <mark key="." line="45" column="88" />
         <mark key="^" line="45" column="88" />
       </file>
@@ -643,11 +643,7 @@
         <mark key="^" line="240" column="5" />
       </file>
       <file name="$USER_HOME$/Work/product-award/src/pages/terms.jsx" timestamp="1511260724809">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="104" column="28" />
-        <mark key="^" line="102" column="35" />
-        <mark key="." line="102" column="35" />
+        <mark key="]" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_billing.scss" timestamp="1493064023304">
         <mark key="'" line="93" column="0" />
@@ -667,12 +663,6 @@
         <mark key="]" line="2" column="60" />
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
-      </file>
-      <file name="$USER_HOME$/Work/product-award/src/components/apply_button.jsx" timestamp="1511251037574">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/Work/sparrowbot/app/skills/reply.js" timestamp="1494363880997">
         <mark key="'" line="25" column="44" />
@@ -730,11 +720,11 @@
       <file name="$USER_HOME$/Work/kibela/client/components/BoardPanel.tsx" timestamp="1510321406163">
         <mark key="'" line="287" column="58" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/gatsby-config.js" timestamp="1511193634510">
-        <mark key="[" line="3" column="69" />
-        <mark key="]" line="3" column="67" />
-        <mark key="." line="3" column="67" />
+      <file name="$USER_HOME$/Work/product-award/gatsby-config.js" timestamp="1511265112748">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="3" column="67" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_trend_hot.html.haml" timestamp="1485468021955">
         <mark key="[" line="9" column="13" />
@@ -1006,12 +996,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511252548363">
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511266215463">
         <mark key="'" line="67" column="41" />
-        <mark key="[" line="79" column="22" />
-        <mark key="]" line="79" column="55" />
-        <mark key="^" line="79" column="55" />
-        <mark key="." line="79" column="55" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="22" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1490822726923">
         <mark key="[" line="5" column="28" />
@@ -1559,6 +1549,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/html.jsx" timestamp="1511266096305">
+        <mark key="'" line="13" column="32" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/_wiki_template.json.jbuilder" timestamp="1490792333243">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="20" />
@@ -1803,10 +1799,10 @@
         <mark key="." line="804" column="0" />
       </file>
       <file name="$USER_HOME$/Work/product-award/package.json" timestamp="1511193691463">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="26" column="42" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="25" column="42" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/pages/_policy.scss" timestamp="1508527833511">
         <mark key="[" line="46" column="2" />
@@ -1924,10 +1920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1045" column="46" filename="$USER_HOME$/Work/kibela/config/locales/en.yml" />
-      <jump line="592" column="0" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
-      <jump line="33" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_comment.scss" />
-      <jump line="125" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_comment.scss" />
       <jump line="135" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_comment.scss" />
       <jump line="191" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" />
       <jump line="96" column="10" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
@@ -2024,10 +2016,14 @@
       <jump line="95" column="20" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
       <jump line="4" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
       <jump line="85" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="19" column="1" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
+      <jump line="18" column="64" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
+      <jump line="51" column="15" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
+      <jump line="16" column="32" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGp1ZGdlTGFiZWwgZnJvbSAnLi4vaW1hZ2VzL2xhYmVsL2p1ZGdlLnBuZycK</text>
+        <text encoding="base64">aW1wb3J0ICdub3JtYWxpemUuY3NzJwo=</text>
       </register>
       <register name="-" type="4">
         <text>, 'Varela Round'</text>
@@ -2036,34 +2032,34 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9wcm9kdWN0LWF3YXJkLmNvb2twYWQuY29tL3Rlcm1zL2luZGV4Lmh0bWwiPgogICAgICAgICAgICAgIOW/nOWLn+imj+e0hAogICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgPHRpdGxlPgogICAgICAgIDIwMTcgTGlmZXN0eWxlIFByb2R1Y3QgQXdhcmQgYnkgQ29va3BhZAogICAgICA8L3RpdGxlPgogICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iCiAgICAgICAgICAgIGhyZWY9e2Zhdmljb259Lz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIKICAgICAgICAgICAgY29udGVudD17SE9TVH0gLz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnR5cGUiCiAgICAgICAgICAgIGNvbnRlbnQ9ImFydGljbGUiIC8+CiAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIKICAgICAgICAgICAgY29udGVudD17VElUTEV9Lz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIgogICAgICAgICAgICBjb250ZW50PXtgJHtIT1NUfS9vZ3AucG5nYH0gLz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOmRlc2NyaXB0aW9uIgogICAgICAgICAgICBjb250ZW50PSJMaWZlc3R5bGUgUHJvZHVjdCBBd2FyZCBieSBDb29rcGFkIOOBr+OAgeOAjOeUn+a0u+OCkuOCiOOCiuiJr+OBj+OBmeOCi+OAjeOCkuODhuODvOODnuOBq+OAgeWAi+S6uuOBqOekvuS8muOBqOWcsOeQg+OBjOOBi+OBi+OBiOOCi+OBleOBvuOBluOBvuOBquiqsumhjOOCkuimi+OBpOOBkeOAgeiAg+OBiOOAgeino+axuuOBmeOCi+OCteODvOODk+OCueOChOOCouODl+ODquOCseODvOOCt+ODp+ODs+OCkuW/nOaPtOOBl+OAgeihqOW9sOOBmeOCi+OCouODr+ODvOODieOBp+OBmeOAgiIgLz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlOndpZHRoIgogICAgICAgICAgICBjb250ZW50PSIyNjAwIiAvPgogICAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2U6aGVpZ2h0IgogICAgICAgICAgICBjb250ZW50PSI5ODAiIC8+CgogICAgICA8bWV0YSBwcm9wZXJ0eT0idHdpdHRlcjpjYXJkIiBjb250ZW50PSJzdW1tYXJ5IiAvPgogICAgICA8bWV0YSBwcm9wZXJ0eT0idHdpdHRlcjpzaXRlIiBjb250ZW50PSJAY29va3BhZF9wciIgLz4KICAgICAgPG1ldGEgcHJvcGVydHk9InR3aXR0ZXI6dXJsIgogICAgICAgICAgICBjb250ZW50PXtIT1NUfSAvPgogICAgICA8bWV0YSBwcm9wZXJ0eT0idHdpdHRlcjp0aXRsZSIKICAgICAgICAgICAgY29udGVudD17VElUTEV9Lz4KCiAgICAgIDxtZXRhIHByb3BlcnR5PSJ0d2l0dGVyOmltYWdlIgogICAgICAgICAgICBjb250ZW50PXtgJHtIT1NUfS9vZ3AucG5nYH0gLz4KICAgICAgPG1ldGEgcHJvcGVydHk9InR3aXR0ZXI6aW1hZ2U6d2lkdGgiCiAgICAgICAgICAgIGNvbnRlbnQ9IjI2MDAiIC8+CiAgICAgIDxtZXRhIHByb3BlcnR5PSJ0d2l0dGVyOmltYWdlOmhlaWdodCIKICAgICAgICAgICAgY29udGVudD0iOTgwIiAvPgogICAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9VmFyZWxhK1JvdW5kIiByZWw9InN0eWxlc2hlZXQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGp1ZGdlTGFiZWwgZnJvbSAnLi4vaW1hZ2VzL2xhYmVsL2p1ZGdlLnBuZycK</text>
+        <text encoding="base64">aW1wb3J0ICdub3JtYWxpemUuY3NzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIvdGVybXMvIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcHBseS10ZXJtcyI+CiAgICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdub3JtYWxpemUuY3NzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5b+c5Yuf6KaP57SECg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL3N0eWxlcy9tYWluLnNjc3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg44GT44Gh44KJ44Gu5b+c5Yuf6KaP57SE44Gr5ZCM5oSP44Gu5LiK44CB44GU5b+c5Yuf44GP44Gg44GV44GECg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaG9nZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT4KICAgICAgICAgICAgPExpbmsgdG89Ii90ZXJtcy8iPjwvTGluaz4KICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLXJlYWN0LWhlbG1ldGAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDli5/pm4bopoHpoIUK</text>
+        <text encoding="base64">ICAgIGBnYXRzYnktcGx1Z2luLXJlYWN0LWhlbG1ldGAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICcuL3N0eWxlcy9tYWluLnNjc3MnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxldCBjc3M7CiAgICBjc3MgPSAoCiAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtjc3N9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
