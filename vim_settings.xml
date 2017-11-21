@@ -1002,12 +1002,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511191801925">
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511231700283">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+        <mark key="[" line="168" column="93" />
+        <mark key="]" line="168" column="102" />
+        <mark key="^" line="168" column="102" />
+        <mark key="." line="168" column="102" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1490822726923">
         <mark key="[" line="5" column="28" />
@@ -1117,6 +1117,7 @@
         <mark key="." line="9" column="84" />
         <mark key="^" line="9" column="84" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/settings/_color.scss" timestamp="1511232194237" />
       <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1496264293396">
         <mark key="'" line="63" column="4" />
         <mark key="[" line="24" column="19" />
@@ -2015,7 +2016,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="-" type="4">
         <text>https://ghe.ckpd.co/pages/hr/product-award/</text>
@@ -2027,31 +2028,31 @@
         <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
+        <text encoding="base64">ICAgICAgICB7LypUT0RPIFNoYXJl6Kit5a6a44GZ44KLKi99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JCBvcGVuICcnCg==</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JCAK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVxdWlyZSBzb3JhaC9lbnZjaGFpbi4K</text>
+        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RGVwbG95IHRvIFMzCg==</text>
+        <text encoding="base64">JCBvcGVuICcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
