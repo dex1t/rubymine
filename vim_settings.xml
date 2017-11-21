@@ -410,7 +410,7 @@
         <mark key="^" line="2" column="115" />
         <mark key="." line="2" column="115" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/layouts/index.jsx" timestamp="1511233146232">
+      <file name="$USER_HOME$/Work/product-award/src/layouts/index.jsx" timestamp="1511260781797">
         <mark key="[" line="45" column="89" />
         <mark key="]" line="45" column="88" />
         <mark key="." line="45" column="88" />
@@ -647,8 +647,8 @@
         <mark key="." line="214" column="0" />
         <mark key="^" line="240" column="5" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/terms.jsx" timestamp="1511250949642">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/Work/product-award/src/pages/terms.jsx" timestamp="1511260724809">
+        <mark key="'" line="85" column="0" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="104" column="28" />
         <mark key="^" line="102" column="35" />
@@ -1694,12 +1694,12 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511252542620">
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511260625164">
         <mark key="'" line="146" column="0" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="60" />
-        <mark key="." line="32" column="60" />
-        <mark key="^" line="32" column="60" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1506009598716">
         <mark key="'" line="36" column="4" />
@@ -1928,7 +1928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
       <jump line="1045" column="46" filename="$USER_HOME$/Work/kibela/config/locales/en.yml" />
       <jump line="592" column="0" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
       <jump line="33" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_comment.scss" />
@@ -2028,6 +2027,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
       <jump line="95" column="20" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
       <jump line="4" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/Work/product-award/src/pages/terms.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
