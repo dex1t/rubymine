@@ -692,6 +692,12 @@
         <mark key="^" line="36" column="45" />
         <mark key="." line="36" column="45" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/settings/_font.scss" timestamp="1511239849491">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/teams/billing/methods/index.html.haml" timestamp="1493061859759">
         <mark key="[" line="8" column="107" />
         <mark key="]" line="8" column="110" />
@@ -1002,12 +1008,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511231700283">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="168" column="93" />
-        <mark key="]" line="168" column="102" />
-        <mark key="^" line="168" column="102" />
-        <mark key="." line="168" column="102" />
+      <file name="$USER_HOME$/Work/product-award/src/pages/index.jsx" timestamp="1511239681387">
+        <mark key="'" line="157" column="13" />
+        <mark key="[" line="150" column="124" />
+        <mark key="]" line="150" column="124" />
+        <mark key="^" line="150" column="124" />
+        <mark key="." line="150" column="124" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/blogs/index.html.haml" timestamp="1490822726923">
         <mark key="[" line="5" column="28" />
@@ -1685,12 +1691,12 @@
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511197075476">
+      <file name="$USER_HOME$/Work/product-award/src/styles/_page.scss" timestamp="1511239950293">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="155" column="13" />
-        <mark key="]" line="155" column="12" />
-        <mark key="^" line="155" column="12" />
-        <mark key="." line="155" column="12" />
+        <mark key="[" line="366" column="3" />
+        <mark key="]" line="369" column="21" />
+        <mark key="." line="369" column="21" />
+        <mark key="^" line="369" column="21" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_miy_sidebar_recipes.html.erb" timestamp="1506009598716">
         <mark key="'" line="36" column="4" />
@@ -1754,11 +1760,11 @@
         <mark key="^" line="87" column="15" />
         <mark key="." line="87" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/styles/_base.scss" timestamp="1511233162807">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="30" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="7" column="30" />
+      <file name="$USER_HOME$/Work/product-award/src/styles/_base.scss" timestamp="1511239784090">
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="109" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="109" />
       </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/worker-kuroko/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483992046215">
         <mark key="[" line="33" column="15" />
@@ -1919,7 +1925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="2" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="50" column="0" filename="$USER_HOME$/Work/global-web/app/controllers/recipes_controller.rb" />
       <jump line="15" column="25" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="102" column="0" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
@@ -2019,46 +2024,47 @@
       <jump line="171" column="9" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/product-award/src/styles/_page.scss" />
       <jump line="31" column="12" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="157" column="13" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS41cmVtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>https://ghe.ckpd.co/pages/hr/product-award/</text>
+        <text>, 'Varela Round'</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">QG1peGluIGZvbnQtMTIgewogIGZvbnQtc2l6ZTogMS4ycmVtOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS41cmVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7LypUT0RPIFNoYXJl6Kit5a6a44GZ44KLKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICB7LypUT0RPIFNoYXJl6Kit5a6a44GZ44KLKi99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCBvcGVuICcnCg==</text>
+        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
