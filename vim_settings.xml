@@ -410,11 +410,11 @@
         <mark key="^" line="2" column="115" />
         <mark key="." line="2" column="115" />
       </file>
-      <file name="$USER_HOME$/Work/product-award/src/layouts/index.jsx" timestamp="1511174392252">
-        <mark key="[" line="26" column="112" />
-        <mark key="]" line="26" column="135" />
-        <mark key="^" line="26" column="135" />
-        <mark key="." line="26" column="135" />
+      <file name="$USER_HOME$/Work/product-award/src/layouts/index.jsx" timestamp="1511233146232">
+        <mark key="[" line="45" column="89" />
+        <mark key="]" line="45" column="88" />
+        <mark key="." line="45" column="88" />
+        <mark key="^" line="45" column="88" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/pages/_find_team.scss" timestamp="1490114887226">
         <mark key="'" line="45" column="0" />
@@ -1754,6 +1754,12 @@
         <mark key="^" line="87" column="15" />
         <mark key="." line="87" column="15" />
       </file>
+      <file name="$USER_HOME$/Work/product-award/src/styles/_base.scss" timestamp="1511233162807">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/Work/infra/itamae/roles/worker-kuroko/templates/home/journey/embulk_config/load_pvlog.yml" timestamp="1483992046215">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="15" />
@@ -2016,7 +2022,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://ghe.ckpd.co/pages/hr/product-award/</text>
@@ -2028,31 +2034,31 @@
         <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7LypUT0RPIFNoYXJl6Kit5a6a44GZ44KLKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICB7LypUT0RPIFNoYXJl6Kit5a6a44GZ44KLKi99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luLWJvdHRvbTogcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZWZpeCB9IGZyb20gJ2dhdHNieS1saW5rJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCBvcGVuICcnCg==</text>
+        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL2AsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCAK</text>
+        <text encoding="base64">JCBvcGVuICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
