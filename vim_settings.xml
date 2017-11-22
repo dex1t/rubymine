@@ -163,7 +163,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/database.yml" timestamp="1485192862916">
+      <file name="$USER_HOME$/Work/kibela/config/database.yml" timestamp="1511323007900">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="44" column="27" />
         <mark key="]" line="44" column="18" />
@@ -522,6 +522,9 @@
         <mark key="]" line="11" column="82" />
         <mark key="^" line="11" column="82" />
         <mark key="." line="11" column="82" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.14.6/lib/bundler/env.rb" timestamp="1511323593967">
+        <mark key="'" line="70" column="8" />
       </file>
       <file name="$USER_HOME$/Work/kibela/client/components/profile/profile_popup.jsx" timestamp="1486415859888">
         <mark key="'" line="81" column="0" />
@@ -1930,7 +1933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/utilities/_misc.scss" />
       <jump line="96" column="10" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
       <jump line="199" column="4" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="30" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
@@ -2030,6 +2032,7 @@
       <jump line="51" column="15" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
       <jump line="16" column="32" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
       <jump line="186" column="17" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
+      <jump line="70" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.14.6/lib/bundler/env.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
