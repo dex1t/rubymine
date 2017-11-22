@@ -1211,7 +1211,9 @@
       <file name="$USER_HOME$/Work/kibela/app/views/externals/terms.en.html.haml" timestamp="1508527546335">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/environments/production.rb" timestamp="1511325568247" />
+      <file name="$USER_HOME$/Work/kibela/config/environments/production.rb" timestamp="1511327482730">
+        <mark key="'" line="90" column="2" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" timestamp="1507217714479">
         <mark key="'" line="96" column="10" />
       </file>
@@ -1934,7 +1936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="10" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
       <jump line="199" column="4" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="30" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="21" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
@@ -2034,6 +2035,7 @@
       <jump line="16" column="32" filename="$USER_HOME$/Work/product-award/src/html.jsx" />
       <jump line="186" column="17" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
       <jump line="70" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.14.6/lib/bundler/env.rb" />
+      <jump line="90" column="2" filename="$USER_HOME$/Work/kibela/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
