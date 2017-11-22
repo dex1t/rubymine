@@ -30,6 +30,9 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="63" column="28" />
       </file>
+      <file name="$USER_HOME$/Work/dankai2017/public/main.1c9c0d8a.js" timestamp="1511335432061">
+        <mark key="'" line="20" column="9124" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/externals/root.html.haml" timestamp="1488203738909">
         <mark key="'" line="44" column="3" />
         <mark key="[" line="26" column="0" />
@@ -292,6 +295,7 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/Work/dankai2017/app/views/users/_user.json.jbuilder" timestamp="1511335845007" />
       <file name="$USER_HOME$/Work/kibela/app/views/shared/feed/_home_feed_button.html.haml" timestamp="1487757013178">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1018,6 +1022,10 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Work/dankai2017/config/application.rb" timestamp="1511336298665">
+        <mark key="'" line="39" column="0" />
+        <mark key="." line="15" column="56" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/shared/feed/_entry_with_snippet.html.haml" timestamp="1487763250996">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="7" />
@@ -1157,6 +1165,11 @@
         <mark key="]" line="29" column="69" />
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
+      </file>
+      <file name="$USER_HOME$/Work/dankai2017/app/controllers/icons_controller.rb" timestamp="1511336171685">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/client/components/shared/profile/popup.spec.js" timestamp="1489400850263">
         <mark key="[" line="17" column="12" />
@@ -1936,10 +1949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="4" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
-      <jump line="30" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
-      <jump line="21" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
-      <jump line="141" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="130" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="157" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
       <jump line="142" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_presentation.scss" />
@@ -2036,10 +2045,14 @@
       <jump line="186" column="17" filename="$USER_HOME$/Work/product-award/src/pages/index.jsx" />
       <jump line="70" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.14.6/lib/bundler/env.rb" />
       <jump line="90" column="2" filename="$USER_HOME$/Work/kibela/config/environments/production.rb" />
+      <jump line="0" column="20098" filename="$USER_HOME$/Work/dankai2017/public/main.1c9c0d8a.js" />
+      <jump line="20" column="9124" filename="$USER_HOME$/Work/dankai2017/public/main.1c9c0d8a.js" />
+      <jump line="15" column="56" filename="$USER_HOME$/Work/dankai2017/config/application.rb" />
+      <jump line="39" column="0" filename="$USER_HOME$/Work/dankai2017/config/application.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIvdGVybXMvIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcHBseS10ZXJtcyI+CiAgICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>, 'Varela Round'</text>
@@ -2051,28 +2064,28 @@
         <text encoding="base64">ICAgICAgICAgIDxsaT48YSBocmVmPSJ0ZXJtcy5odG1sIj7lv5zli5/opo/ntIQ8L2E+PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIvdGVybXMvIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcHBseS10ZXJtcyI+CiAgICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5b+c5Yuf6KaP57SECg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIvdGVybXMvIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcHBseS10ZXJtcyI+CiAgICAgICAgICA8L0xpbms+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg44GT44Gh44KJ44Gu5b+c5Yuf6KaP57SE44Gr5ZCM5oSP44Gu5LiK44CB44GU5b+c5Yuf44GP44Gg44GV44GECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5b+c5Yuf6KaP57SECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0idGVybXMuaHRtbCI+5b+c5Yuf6KaP57SEPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg44GT44Gh44KJ44Gu5b+c5Yuf6KaP57SE44Gr5ZCM5oSP44Gu5LiK44CB44GU5b+c5Yuf44GP44Gg44GV44GECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0idGVybXMuaHRtbCI+5b+c5Yuf6KaP57SEPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBhbHQ9IuODhuODvOODnu+8gSIvPgo=</text>
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdub3JtYWxpemUuY3NzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBhbHQ9IuODhuODvOODnu+8gSIvPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0ICdub3JtYWxpemUuY3NzJwo=</text>
