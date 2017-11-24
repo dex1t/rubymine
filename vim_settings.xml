@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_biography.scss" timestamp="1486507356882">
+      <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_biography.scss" timestamp="1511532015783">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="3" />
         <mark key="^" line="16" column="3" />
@@ -527,11 +527,11 @@
         <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" timestamp="1511084451781">
-        <mark key="'" line="54" column="11" />
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="'" line="37" column="11" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_sign_up.scss" timestamp="1492618636005">
         <mark key="'" line="65" column="0" />
