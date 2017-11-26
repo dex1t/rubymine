@@ -547,17 +547,17 @@
         <mark key="." line="10" column="147" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1511698495041">
-        <mark key="'" line="173" column="70" />
+        <mark key="'" line="171" column="70" />
         <mark key="[" line="147" column="86" />
         <mark key="]" line="147" column="85" />
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/graphql/types/query_type.rb" timestamp="1511700086532">
-        <mark key="[" line="103" column="5" />
-        <mark key="]" line="108" column="7" />
-        <mark key="^" line="108" column="7" />
-        <mark key="." line="108" column="7" />
+      <file name="$USER_HOME$/Work/kibela/app/graphql/types/query_type.rb" timestamp="1511718655587">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Work/product-award/src/components/profile.jsx" timestamp="1510946000761">
         <mark key="'" line="11" column="18" />
@@ -924,7 +924,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy9AaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.profileHeader-profile</text>
@@ -936,31 +936,31 @@
         <text encoding="base64">ICAgICY6bGluaywKICAgICY6dmlzaXRlZCwKICAgICY6aG92ZXIsCiAgICAmOmFjdGl2ZSB7CiAgICAgIGNvbG9yOiBpbmhlcml0OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy9AaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogaW5oZXJpdDsK</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uIDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy9AaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJjp2aXNpdGVkIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogaW5oZXJpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYubWFya2Rvd25CaW9ncmFwbnktc2hvd01vcmUgewogICAgICBAaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7CiAgICAgIG1hcmdpbi1sZWZ0OiA1cHg7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgJjp2aXNpdGVkIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgJi1zaG93TW9yZSB7CiAgICBAaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7CiAgICBtYXJnaW4tbGVmdDogNXB4OwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgYS5iaW9ncmFwaHktc2hvd01vcmUgewogICAgQGluY2x1ZGUgY2xlYXJMaW5rQ29sb3IoJHN1YlRleHQpOwogICAgbWFyZ2luLWxlZnQ6IDVweDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICYubWFya2Rvd25CaW9ncmFwbnktc2hvd01vcmUgewogICAgICBAaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7CiAgICAgIG1hcmdpbi1sZWZ0OiA1cHg7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgJi1zaG93TW9yZSB7CiAgICBAaW5jbHVkZSBjbGVhckxpbmtDb2xvcigkc3ViVGV4dCk7CiAgICBtYXJnaW4tbGVmdDogNXB4OwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
