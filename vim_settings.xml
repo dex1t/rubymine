@@ -308,7 +308,7 @@
         <mark key="^" line="54" column="92" />
         <mark key="." line="54" column="92" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.ts" timestamp="1511696930627" />
+      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.ts" timestamp="1511697697859" />
       <file name="$USER_HOME$/Work/kibela/client/components/shared/loading_indicator.jsx" timestamp="1493060086406">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1172,7 +1172,7 @@
         <mark key="^" line="24" column="46" />
         <mark key="." line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1511695242368">
+      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1511698495041">
         <mark key="'" line="173" column="70" />
         <mark key="[" line="147" column="86" />
         <mark key="]" line="147" column="85" />
@@ -1708,6 +1708,7 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/app/controllers/graphql_controller.rb" timestamp="1511698200847" />
       <file name="$USER_HOME$/Work/kibela/app/views/notifications/index.html.haml" timestamp="1485203147446">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1719,6 +1720,9 @@
         <mark key="]" line="2" column="129" />
         <mark key="^" line="2" column="129" />
         <mark key="." line="2" column="129" />
+      </file>
+      <file name="$USER_HOME$/Work/kibela/app/graphql/types/notification_type.rb" timestamp="1511697512112">
+        <mark key="'" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/models/wiki.rb" timestamp="1496264293396">
         <mark key="'" line="63" column="4" />
@@ -1902,7 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="21" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
       <jump line="1045" column="46" filename="$USER_HOME$/Work/kibela/config/locales/en.yml" />
       <jump line="592" column="0" filename="$USER_HOME$/Work/kibela/config/locales/ja.yml" />
@@ -2002,6 +2005,7 @@
       <jump line="173" column="70" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
       <jump line="30" column="12" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="19" column="23" filename="$USER_HOME$/Work/kibela/app/graphql/types/notification_type.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
