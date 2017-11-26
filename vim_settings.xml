@@ -308,6 +308,7 @@
         <mark key="^" line="54" column="92" />
         <mark key="." line="54" column="92" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/utils/kibela_client.ts" timestamp="1511696173769" />
       <file name="$USER_HOME$/Work/kibela/client/components/shared/loading_indicator.jsx" timestamp="1493060086406">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -611,6 +612,9 @@
         <mark key="^" line="14" column="127" />
         <mark key="." line="14" column="127" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1511695661852">
+        <mark key="'" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/app/views/home/all.html.haml" timestamp="1490822688488">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="28" />
@@ -889,8 +893,8 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="241" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1510406238608">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1511695252432">
+        <mark key="'" line="30" column="12" />
         <mark key="[" line="29" column="29" />
         <mark key="]" line="29" column="29" />
         <mark key="." line="29" column="29" />
@@ -1168,8 +1172,8 @@
         <mark key="^" line="24" column="46" />
         <mark key="." line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1510405010652">
-        <mark key="'" line="102" column="8" />
+      <file name="$USER_HOME$/Work/kibela/config/routes.rb" timestamp="1511695242368">
+        <mark key="'" line="173" column="70" />
         <mark key="[" line="147" column="86" />
         <mark key="]" line="147" column="85" />
         <mark key="." line="147" column="85" />
@@ -1898,9 +1902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="4" filename="$USER_HOME$/Work/global-web/app/models/recipe.rb" />
-      <jump line="40" column="14" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
-      <jump line="76" column="0" filename="$USER_HOME$/Work/global-web/app/views/layouts/_sidebar.html.erb" />
       <jump line="242" column="0" filename="$USER_HOME$/Work/global-web/app/assets/stylesheets/resources/_recipes.scss" />
       <jump line="21" column="5" filename="$USER_HOME$/Work/kibela/client/components/shared/BoardDropdownButton.tsx" />
       <jump line="1045" column="46" filename="$USER_HOME$/Work/kibela/config/locales/en.yml" />
@@ -1931,7 +1932,6 @@
       <jump line="287" column="58" filename="$USER_HOME$/Work/kibela/client/components/BoardPanel.tsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" />
       <jump line="102" column="8" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
-      <jump line="30" column="4" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="92" column="46" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="89" column="17" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
@@ -1998,6 +1998,10 @@
       <jump line="45" column="2" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_biography.scss" />
       <jump line="44" column="1" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_biography.scss" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_markdown_biography.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="173" column="70" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
+      <jump line="30" column="12" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
