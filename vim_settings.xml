@@ -251,7 +251,7 @@
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/graphql/types/query_type.rb" timestamp="1511807180851">
+      <file name="$USER_HOME$/Work/kibela/app/graphql/types/query_type.rb" timestamp="1511831737578">
         <mark key="'" line="90" column="4" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="75" column="4" />
@@ -762,10 +762,11 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/graphql/types/user_type.rb" timestamp="1511807675288">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Work/kibela/app/graphql/types/user_type.rb" timestamp="1511832150665">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/views/externals/root.html.haml" timestamp="1488203738909">
         <mark key="'" line="44" column="3" />
@@ -931,7 +932,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25uZWN0aW9uIDpibG9ncywgVHlwZXM6OkJsb2dUeXBlLmNvbm5lY3Rpb25fdHlwZQo=</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uIDpibG9ncywgIVR5cGVzOjpCbG9nVHlwZS5jb25uZWN0aW9uX3R5cGUK</text>
       </register>
       <register name="-" type="4">
         <text>.profileHeader-profile</text>
@@ -940,7 +941,7 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmaWVsZCA6Y29tbWVudHMsICF0eXBlc1tUeXBlczo6Q29tbWVudFR5cGVdCg==</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uIDpibG9ncywgIVR5cGVzOjpCbG9nVHlwZS5jb25uZWN0aW9uX3R5cGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25uZWN0aW9uIDpibG9ncywgVHlwZXM6OkJsb2dUeXBlLmNvbm5lY3Rpb25fdHlwZQo=</text>
