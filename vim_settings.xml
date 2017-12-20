@@ -509,6 +509,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/career-night/src/pages/index.jsx" timestamp="1513763956093">
+        <mark key="'" line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/lib/biography_markdown.rb" timestamp="1511615380532">
         <mark key="'" line="35" column="8" />
         <mark key="[" line="20" column="72" />
@@ -702,9 +705,6 @@
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511807187267">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/billing/billing_method_form.jsx" timestamp="1493060467164">
         <mark key="'" line="163" column="15" />
         <mark key="[" line="42" column="24" />
@@ -830,8 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_entry.scss" />
-      <jump line="92" column="10" filename="$USER_HOME$/Work/kibela/app/views/externals/landing.html.haml" />
       <jump line="20" column="10" filename="$USER_HOME$/Work/bitjourney.com/app/views/top/index.html.haml" />
       <jump line="9" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.ja.html.haml" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.en.html.haml" />
@@ -930,6 +928,8 @@
       <jump line="67" column="44" filename="$USER_HOME$/Work/kibela/app/controllers/wikis_controller.rb" />
       <jump line="7" column="118" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/_layout.scss" />
       <jump line="21" column="27" filename="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" />
+      <jump line="13" column="0" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
+      <jump line="139" column="0" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
