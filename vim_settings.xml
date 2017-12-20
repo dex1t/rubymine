@@ -87,6 +87,11 @@
         <mark key="^" line="210" column="33" />
         <mark key="." line="210" column="33" />
       </file>
+      <file name="$USER_HOME$/Work/career-night/src/components/profile.jsx" timestamp="1513766035836">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/client/components/feed/activity_meter.jsx" timestamp="1486502684610">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="64" column="0" />
@@ -147,6 +152,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/career-night/src/styles/_page.scss" timestamp="1513767427145">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/controllers/photo_comments_controller.rb" timestamp="1502210938232">
         <mark key="'" line="32" column="0" />
@@ -509,8 +519,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/career-night/src/pages/index.jsx" timestamp="1513763956093">
-        <mark key="'" line="139" column="0" />
+      <file name="$USER_HOME$/Work/career-night/src/pages/index.jsx" timestamp="1513767139379">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="32" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/Work/kibela/lib/biography_markdown.rb" timestamp="1511615380532">
         <mark key="'" line="35" column="8" />
@@ -627,6 +641,12 @@
         <mark key="]" line="36" column="61" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/Work/career-night/gatsby-config.js" timestamp="1513765483318">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Work/kibela/config/locales/ja.yml" timestamp="1511615633079">
         <mark key="'" line="592" column="0" />
@@ -830,8 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="10" filename="$USER_HOME$/Work/bitjourney.com/app/views/top/index.html.haml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.ja.html.haml" />
       <jump line="3" column="0" filename="$USER_HOME$/Work/kibela/app/views/externals/terms.en.html.haml" />
       <jump line="10" column="0" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
       <jump line="52" column="50" filename="$USER_HOME$/Work/kibela-importer/lib/kibela/importer/qiita_team.rb" />
@@ -930,46 +948,48 @@
       <jump line="21" column="27" filename="$USER_HOME$/Work/kibela/app/views/users/show.html.haml" />
       <jump line="13" column="0" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
       <jump line="139" column="0" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
+      <jump line="105" column="67" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
+      <jump line="43" column="15" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBSZWRpZW4K</text>
+        <text encoding="base64">ICAgIC8vd2lkdGg6IDgwJTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSMgVE9ETzogY2xlYW51cCBodHRwczovL2dpdGh1Yi5jb20vYml0am91cm5leS9raWJlbGEvcHVsbC80Njc0Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxNTBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBSZWRpZW4K</text>
+        <text encoding="base64">ICAgIC8vd2lkdGg6IDgwJTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBlbmRpbmcK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQhKDpiZXRhKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDpiZXRhX2ZlYXR1cmUsIG5hbWU6ICdteXBhZ2VfcmVkZXNpZ24nKSB9Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogODAwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVsIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IGNsZWFudXAgaHR0cHM6Ly9naXRodWIuY29tL2JpdGpvdXJuZXkva2liZWxhL3B1bGwvNDY3NAo=</text>
+        <text encoding="base64">ICAgIHVsIHsKICAgICAgbGlzdC1zdHlsZTogZGlzYzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
