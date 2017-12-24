@@ -297,6 +297,11 @@
         <mark key="^" line="161" column="15" />
         <mark key="." line="161" column="15" />
       </file>
+      <file name="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" timestamp="1514121190210">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/kibela/spec/helpers/mailer_helper_spec.rb" timestamp="1509301403471">
         <mark key="'" line="52" column="129" />
         <mark key="[" line="74" column="57" />
@@ -391,10 +396,6 @@
         <mark key="]" line="67" column="53" />
         <mark key="." line="67" column="53" />
         <mark key="^" line="67" column="53" />
-      </file>
-      <file name="$USER_HOME$/Work/kibela/app/graphql/types/entry_feed_type.rb" timestamp="1511801979417">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Work/global-web/app/views/recipes/_action_bar.html.erb" timestamp="1503466068162">
         <mark key="'" line="66" column="195" />
@@ -586,8 +587,11 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1514120275819">
-        <mark key="'" line="233" column="21" />
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1514121942850">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile_header.scss" timestamp="1511084711834">
         <mark key="'" line="7" column="3" />
@@ -837,10 +841,6 @@
         <mark key="^" line="40" column="127" />
         <mark key="." line="40" column="127" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/app/views/users/private_entries.html.haml" timestamp="1511909052200">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="39" />
-      </file>
       <file name="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" timestamp="1511911129447">
         <mark key="'" line="38" column="18" />
         <mark key="[" line="18" column="8" />
@@ -857,8 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="50" filename="$USER_HOME$/Work/kibela-importer/lib/kibela/importer/qiita_team.rb" />
-      <jump line="52" column="129" filename="$USER_HOME$/Work/kibela/spec/helpers/mailer_helper_spec.rb" />
       <jump line="287" column="58" filename="$USER_HOME$/Work/kibela/client/components/BoardPanel.tsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" />
       <jump line="102" column="8" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
@@ -957,10 +955,12 @@
       <jump line="43" column="15" filename="$USER_HOME$/Work/career-night/src/pages/index.jsx" />
       <jump line="63" column="17" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/BlogItem.tsx" />
       <jump line="233" column="21" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="27" column="14" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="86" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vd2lkdGg6IDgwJTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuaGEK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -969,34 +969,34 @@
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxNTBweDsK</text>
+        <text encoding="base64">aW50ZXJmYWNlIFByb3BUeXBlcyB7CiAgaW50bDogYW55OwogIGdyb3VwUmVsYXlJZDogc3RyaW5nOwogIGVudHJ5VXBkYXRlZEF0OiBzdHJpbmc7CiAgZmlyc3RFbnRyeUNvbnRlbnRVcGRhdGVkQXQ6IHN0cmluZzsKICBjdXJyZW50VXNlcjogewogICAgaWQ6IFJlbGF5SWQsCiAgICBhdmF0YXJVcmw6IHN0cmluZywKICB9Owp9CgppbnRlcmZhY2UgU3RhdGUgewogIGl0ZW1zOiBBcnJheTx7CiAgICBub2RlOiB7CiAgICAgIGRhdGU6IHN0cmluZywKICAgICAgaXRlbXM6IEFycmF5PHsKICAgICAgICB0eXBlOiBzdHJpbmcsCiAgICAgICAgZW50cmllczogYW55W10sCiAgICAgIH0+LAogICAgfSwKICB9PjsKICBsYXN0RmV0Y2hlZE1heERhdGU/OiBEYXRlOwogIGxhc3RGZXRjaGVkTWluRGF0ZT86IERhdGU7CiAgaXNGZXRjaGluZzogYm9vbGVhbjsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vd2lkdGg6IDgwJTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuaGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAvLyBzdGF0aWMgcmVhZG9ubHkgcHJvcFR5cGVzID0gewogIC8vICAgaW50bDogaW50bFNoYXBlLmlzUmVxdWlyZWQsCiAgLy8gICBncm91cFJlbGF5SWQ6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwKICAvLyAgIGxhc3RFbnRyeUNvbnRlbnRVcGRhdGVkRGF0ZTogUHJvcFR5cGVzLnN0cmluZywKICAvLyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZ3JvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogODAwcHg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHNkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVsIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVsIHsKICAgICAgbGlzdC1zdHlsZTogZGlzYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
