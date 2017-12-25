@@ -297,7 +297,8 @@
         <mark key="^" line="161" column="15" />
         <mark key="." line="161" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" timestamp="1514121190210">
+      <file name="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" timestamp="1514165460570">
+        <mark key="'" line="23" column="16" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -587,8 +588,8 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1514121942850">
-        <mark key="'" line="86" column="0" />
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1514165246691">
+        <mark key="'" line="216" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -857,11 +858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="58" filename="$USER_HOME$/Work/kibela/client/components/BoardPanel.tsx" />
-      <jump line="48" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile.scss" />
-      <jump line="102" column="8" filename="$USER_HOME$/Work/kibela/config/routes.rb" />
-      <jump line="92" column="46" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
-      <jump line="89" column="17" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/Work/kibela/app/controllers/users_controller.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" />
       <jump line="85" column="15" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile_header.scss" />
@@ -957,6 +953,11 @@
       <jump line="233" column="21" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
       <jump line="27" column="14" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
       <jump line="86" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="0" column="11" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="59" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="38" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="216" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="23" column="16" filename="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
