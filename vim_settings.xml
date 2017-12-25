@@ -297,11 +297,11 @@
         <mark key="^" line="161" column="15" />
         <mark key="." line="161" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" timestamp="1514167029314">
-        <mark key="'" line="23" column="16" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" timestamp="1514169396519">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
       </file>
       <file name="$USER_HOME$/Work/kibela/spec/helpers/mailer_helper_spec.rb" timestamp="1509301403471">
         <mark key="'" line="52" column="129" />
@@ -588,8 +588,8 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1514166736788">
-        <mark key="'" line="65" column="3" />
+      <file name="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" timestamp="1514168209214">
+        <mark key="'" line="79" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -858,7 +858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_user.scss" />
       <jump line="85" column="15" filename="$USER_HOME$/Work/kibela/app/assets/stylesheets/components/_profile_header.scss" />
       <jump line="40" column="84" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
       <jump line="50" column="0" filename="$USER_HOME$/Work/kibela/client/components/setting/UserCoverImageForm.tsx" />
@@ -958,10 +957,11 @@
       <jump line="216" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
       <jump line="23" column="16" filename="$USER_HOME$/Work/kibela/client/components/profile/EntryFeed.tsx" />
       <jump line="65" column="3" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
+      <jump line="79" column="0" filename="$USER_HOME$/Work/kibela/client/components/entry_feed/EntryFeed.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRDdXJzb3IsCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -973,31 +973,31 @@
         <text encoding="base64">aW50ZXJmYWNlIFByb3BUeXBlcyB7CiAgaW50bDogYW55OwogIGdyb3VwUmVsYXlJZDogc3RyaW5nOwogIGVudHJ5VXBkYXRlZEF0OiBzdHJpbmc7CiAgZmlyc3RFbnRyeUNvbnRlbnRVcGRhdGVkQXQ6IHN0cmluZzsKICBjdXJyZW50VXNlcjogewogICAgaWQ6IFJlbGF5SWQsCiAgICBhdmF0YXJVcmw6IHN0cmluZywKICB9Owp9CgppbnRlcmZhY2UgU3RhdGUgewogIGl0ZW1zOiBBcnJheTx7CiAgICBub2RlOiB7CiAgICAgIGRhdGU6IHN0cmluZywKICAgICAgaXRlbXM6IEFycmF5PHsKICAgICAgICB0eXBlOiBzdHJpbmcsCiAgICAgICAgZW50cmllczogYW55W10sCiAgICAgIH0+LAogICAgfSwKICB9PjsKICBsYXN0RmV0Y2hlZE1heERhdGU/OiBEYXRlOwogIGxhc3RGZXRjaGVkTWluRGF0ZT86IERhdGU7CiAgaXNGZXRjaGluZzogYm9vbGVhbjsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRDdXJzb3IsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuaGEK</text>
+        <text encoding="base64">ICAgIHByaXZhdGVFbnRyaWVzKGZpcnN0OiA1KSB7CiAgICAgIGVkZ2VzIHsKICAgICAgICBub2RlIHsKICAgICAgICAgIHRpdGxlCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgcG9wdWxhckVudHJpZXMoZmlyc3Q6IDUpIHsKICAgICAgZWRnZXMgewogICAgICAgIG5vZGUgewogICAgICAgICAgdGl0bGUKICAgICAgICAgIF9fdHlwZW5hbWUKICAgICAgICAgIGxpa2VkVXNlcnMgewogICAgICAgICAgICBpZAogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbnRyeVVwZGF0ZWRBdDogc3RyaW5nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBzdGF0aWMgcmVhZG9ubHkgcHJvcFR5cGVzID0gewogIC8vICAgaW50bDogaW50bFNoYXBlLmlzUmVxdWlyZWQsCiAgLy8gICBncm91cFJlbGF5SWQ6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwKICAvLyAgIGxhc3RFbnRyeUNvbnRlbnRVcGRhdGVkRGF0ZTogUHJvcFR5cGVzLnN0cmluZywKICAvLyB9Owo=</text>
+        <text encoding="base64">ICBmaXJzdEVudHJ5Q29udGVudFVwZGF0ZWRBdDogc3RyaW5nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZ3JvCg==</text>
+        <text encoding="base64">ICBncm91cFJlbGF5SWQ6IHN0cmluZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuCg==</text>
+        <text encoding="base64">ICBpdGVtczogQXJyYXk8ewogICAgbm9kZTogewogICAgICBkYXRlOiBzdHJpbmcsCiAgICAgIGl0ZW1zOiBBcnJheTx7CiAgICAgICAgdHlwZTogc3RyaW5nLAogICAgICAgIGVudHJpZXM6IGFueVtdLAogICAgICB9PiwKICAgIH0sCiAgfT47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpc0ZldGNoaW5nOiBib29sZWFuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHNkCg==</text>
+        <text encoding="base64">ICBpdGVtczogQXJyYXk8ewogICAgbm9kZTogewogICAgICBkYXRlOiBzdHJpbmcsCiAgICAgIGl0ZW1zOiBBcnJheTx7CiAgICAgICAgdHlwZTogc3RyaW5nLAogICAgICAgIGVudHJpZXM6IGFueVtdLAogICAgICB9PiwKICAgIH0sCiAgfT47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYXN0RmV0Y2hlZE1heERhdGU/OiBEYXRlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
